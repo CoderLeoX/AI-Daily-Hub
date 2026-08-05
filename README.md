@@ -32,11 +32,12 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-07-28 | [Nvidia to invest $5 billion in Ilya Sutskever's AI startup,](daily-report/2026-07-28%20Nvidia%20to%20invest%20%245%20billion%20in%20Ilya%20Sutskever%27s%20AI%20startup%2C.md) |
 | 2026-07-27 | [美媒：OpenAI游说美国限制中国开源模型，黄仁勋马斯克公开反对](daily-report/2026-07-27%20%E7%BE%8E%E5%AA%92%EF%BC%9AOpenAI%E6%B8%B8%E8%AF%B4%E7%BE%8E%E5%9B%BD%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E5%8F%8D%E5%AF%B9.md) |
 
-## ⭐ GitHub 精选  （共 33 篇）
+## ⭐ GitHub 精选  （共 34 篇）
 
 | 日期 | 标题 |
 | --- | --- |
 | 2026-08-05 | [loopx · TencentDB-Agent-Memory · system-design-primer](github-trending/2026-08-05%20loopx%20%C2%B7%20TencentDB-Agent-Memory%20%C2%B7%20system-design-primer.md) |
+| 2026-08-05 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-05%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-05 | [TencentDB-Agent-Memory · reverse-skill · pdf-inspector · ADR](github-trending/2026-08-05%20TencentDB-Agent-Memory%20%C2%B7%20reverse-skill%20%C2%B7%20pdf-inspector%20%C2%B7%20ADR.md) |
 | 2026-08-04 | [airllm · DeepSeek-Reasonix · ds4 · TencentDB-Agent-Memory](github-trending/2026-08-04%20airllm%20%C2%B7%20DeepSeek-Reasonix%20%C2%B7%20ds4%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-03 | [openwork · Agent-Reach · TencentDB-Agent-Memory](github-trending/2026-08-03%20openwork%20%C2%B7%20Agent-Reach%20%C2%B7%20TencentDB-Agent-Memory.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-07-31 | [speech-to-speech · AI-For-Beginners](github-trending/2026-07-31%20speech-to-speech%20%C2%B7%20AI-For-Beginners.md) |
 | 2026-07-30 | [GeoLibre · airi · speech-to-speech · jcode · snipe-it](github-trending/2026-07-30%20GeoLibre%20%C2%B7%20airi%20%C2%B7%20speech-to-speech%20%C2%B7%20jcode%20%C2%B7%20snipe-it.md) |
 | 2026-07-29 | [editor · jenkins · airi · aisuite · ECC · speech-to-speech](github-trending/2026-07-29%20editor%20%C2%B7%20jenkins%20%C2%B7%20airi%20%C2%B7%20aisuite%20%C2%B7%20ECC%20%C2%B7%20speech-to-speech.md) |
-| 2026-07-28 | [airi · impeccable · Kronos · bitchat · amnezia-client](github-trending/2026-07-28%20airi%20%C2%B7%20impeccable%20%C2%B7%20Kronos%20%C2%B7%20bitchat%20%C2%B7%20amnezia-client.md) |
 
 > 🕒 最近更新：2026-08-05（github-trending）
 
