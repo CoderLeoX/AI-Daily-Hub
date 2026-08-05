@@ -26,26 +26,26 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-08-03 | [TimesFM 2.5：端到端时间序列预测](daily-report/2026-08-03%20TimesFM%202.5%EF%BC%9A%E7%AB%AF%E5%88%B0%E7%AB%AF%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B.md) |
 | 2026-08-02 | [AMD 发布 Instella-MoE-16B-A3B 开源 MoE 模型](daily-report/2026-08-02%20AMD%20%E5%8F%91%E5%B8%83%20Instella-MoE-16B-A3B%20%E5%BC%80%E6%BA%90%20MoE%20%E6%A8%A1%E5%9E%8B.md) |
 | 2026-08-01 | [Claude AI 测试失控，自主入侵 3 家真实组织](daily-report/2026-08-01%20Claude%20AI%20%E6%B5%8B%E8%AF%95%E5%A4%B1%E6%8E%A7%EF%BC%8C%E8%87%AA%E4%B8%BB%E5%85%A5%E4%BE%B5%203%20%E5%AE%B6%E7%9C%9F%E5%AE%9E%E7%BB%84%E7%BB%87.md) |
-| 2026-07-31 | [Advancing the price-performance frontier](daily-report/2026-07-31%20Advancing%20the%20price-performance%20frontier.md) |
+| 2026-07-31 | [Advancing the price-performance frontier with GPT-5.6](daily-report/2026-07-31%20Advancing%20the%20price-performance%20frontier%20with%20GPT-5.6.md) |
 | 2026-07-30 | [Meta 全面押注个人 AI 助手](daily-report/2026-07-30%20Meta%20%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%E4%B8%AA%E4%BA%BA%20AI%20%E5%8A%A9%E6%89%8B.md) |
-| 2026-07-29 | [Deploying a 1-Bit Bonsai-27B Model with PrismML](daily-report/2026-07-29%20Deploying%20a%201-Bit%20Bonsai-27B%20Model%20with%20PrismML.md) |
-| 2026-07-28 | [Nvidia to invest $5 billion in Ilya Sutskever's](daily-report/2026-07-28%20Nvidia%20to%20invest%20%245%20billion%20in%20Ilya%20Sutskever%27s.md) |
+| 2026-07-29 | [Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp](daily-report/2026-07-29%20Deploying%20a%201-Bit%20Bonsai-27B%20Model%20with%20PrismML%20llama.cpp.md) |
+| 2026-07-28 | [Nvidia to invest $5 billion in Ilya Sutskever's AI startup,](daily-report/2026-07-28%20Nvidia%20to%20invest%20%245%20billion%20in%20Ilya%20Sutskever%27s%20AI%20startup%2C.md) |
 | 2026-07-27 | [美媒：OpenAI游说美国限制中国开源模型，黄仁勋马斯克公开反对](daily-report/2026-07-27%20%E7%BE%8E%E5%AA%92%EF%BC%9AOpenAI%E6%B8%B8%E8%AF%B4%E7%BE%8E%E5%9B%BD%E9%99%90%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E6%A8%A1%E5%9E%8B%EF%BC%8C%E9%BB%84%E4%BB%81%E5%8B%8B%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%AC%E5%BC%80%E5%8F%8D%E5%AF%B9.md) |
 
 ## ⭐ GitHub 精选  （共 32 篇）
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-08-05 | [TencentDB-Agent-Memory · reverse-skill](github-trending/2026-08-05%20TencentDB-Agent-Memory%20%C2%B7%20reverse-skill.md) |
-| 2026-08-04 | [AirLLM · DeepSeek-Reasonix · ds4](github-trending/2026-08-04%20AirLLM%20%C2%B7%20DeepSeek-Reasonix%20%C2%B7%20ds4.md) |
+| 2026-08-05 | [TencentDB-Agent-Memory · reverse-skill · pdf-inspector · ADR](github-trending/2026-08-05%20TencentDB-Agent-Memory%20%C2%B7%20reverse-skill%20%C2%B7%20pdf-inspector%20%C2%B7%20ADR.md) |
+| 2026-08-04 | [AirLLM · DeepSeek-Reasonix · ds4 · TencentDB-Agent-Memory](github-trending/2026-08-04%20AirLLM%20%C2%B7%20DeepSeek-Reasonix%20%C2%B7%20ds4%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-03 | [openwork · Agent-Reach · TencentDB-Agent-Memory](github-trending/2026-08-03%20openwork%20%C2%B7%20Agent-Reach%20%C2%B7%20TencentDB-Agent-Memory.md) |
-| 2026-08-02 | [AI-For-Beginners · awesome-systematic-trading](github-trending/2026-08-02%20AI-For-Beginners%20%C2%B7%20awesome-systematic-trading.md) |
+| 2026-08-02 | [AI-For-Beginners · awesome-systematic-trading · kaneo](github-trending/2026-08-02%20AI-For-Beginners%20%C2%B7%20awesome-systematic-trading%20%C2%B7%20kaneo.md) |
 | 2026-08-01 | [reverse-skill · openwork · last30days-skill](github-trending/2026-08-01%20reverse-skill%20%C2%B7%20openwork%20%C2%B7%20last30days-skill.md) |
-| 2026-07-31 | [语音转语音 · AI · 系统化交易精选 · 开放工作 · Baileys · 编辑器](github-trending/2026-07-31%20%E8%AF%AD%E9%9F%B3%E8%BD%AC%E8%AF%AD%E9%9F%B3%20%C2%B7%20AI%20%C2%B7%20%E7%B3%BB%E7%BB%9F%E5%8C%96%E4%BA%A4%E6%98%93%E7%B2%BE%E9%80%89%20%C2%B7%20%E5%BC%80%E6%94%BE%E5%B7%A5%E4%BD%9C%20%C2%B7%20Baileys%20%C2%B7%20%E7%BC%96%E8%BE%91%E5%99%A8.md) |
-| 2026-07-30 | [GeoLibre · airi · ECC · speech-to-speech · jcode](github-trending/2026-07-30%20GeoLibre%20%C2%B7%20airi%20%C2%B7%20ECC%20%C2%B7%20speech-to-speech%20%C2%B7%20jcode.md) |
-| 2026-07-29 | [editor · jenkins · airi · aisuite · ECC](github-trending/2026-07-29%20editor%20%C2%B7%20jenkins%20%C2%B7%20airi%20%C2%B7%20aisuite%20%C2%B7%20ECC.md) |
-| 2026-07-28 | [airi · impeccable · Kronos · bitchat](github-trending/2026-07-28%20airi%20%C2%B7%20impeccable%20%C2%B7%20Kronos%20%C2%B7%20bitchat.md) |
-| 2026-07-27 | [bitchat · ego-lite · buzz · t3code · Instatic](github-trending/2026-07-27%20bitchat%20%C2%B7%20ego-lite%20%C2%B7%20buzz%20%C2%B7%20t3code%20%C2%B7%20Instatic.md) |
+| 2026-07-31 | [语音转语音 · AI · 系统化交易精选 · 开放工作 · Baileys · 编辑器 · last30days](github-trending/2026-07-31%20%E8%AF%AD%E9%9F%B3%E8%BD%AC%E8%AF%AD%E9%9F%B3%20%C2%B7%20AI%20%C2%B7%20%E7%B3%BB%E7%BB%9F%E5%8C%96%E4%BA%A4%E6%98%93%E7%B2%BE%E9%80%89%20%C2%B7%20%E5%BC%80%E6%94%BE%E5%B7%A5%E4%BD%9C%20%C2%B7%20Baileys%20%C2%B7%20%E7%BC%96%E8%BE%91%E5%99%A8%20%C2%B7%20last30days.md) |
+| 2026-07-30 | [GeoLibre · airi · ECC · speech-to-speech · jcode · snipe-it](github-trending/2026-07-30%20GeoLibre%20%C2%B7%20airi%20%C2%B7%20ECC%20%C2%B7%20speech-to-speech%20%C2%B7%20jcode%20%C2%B7%20snipe-it.md) |
+| 2026-07-29 | [editor · jenkins · airi · aisuite · ECC · speech-to-speech](github-trending/2026-07-29%20editor%20%C2%B7%20jenkins%20%C2%B7%20airi%20%C2%B7%20aisuite%20%C2%B7%20ECC%20%C2%B7%20speech-to-speech.md) |
+| 2026-07-28 | [airi · impeccable · Kronos · bitchat · amnezia-client](github-trending/2026-07-28%20airi%20%C2%B7%20impeccable%20%C2%B7%20Kronos%20%C2%B7%20bitchat%20%C2%B7%20amnezia-client.md) |
+| 2026-07-27 | [bitchat · ego-lite · buzz · t3code · Instatic · superfile](github-trending/2026-07-27%20bitchat%20%C2%B7%20ego-lite%20%C2%B7%20buzz%20%C2%B7%20t3code%20%C2%B7%20Instatic%20%C2%B7%20superfile.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
