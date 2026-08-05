@@ -32,6 +32,8 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-08-04 | [**AI 前沿资讯日报 | 2026.08.04 — xAI / OpenAI**](daily-report/2026-08-04.md) |
 | 2026-08-05 | [**AI 前沿资讯日报 | 2026.08.05 — Grok / OpenAI**](daily-report/2026-08-05.md) |
 
+> 🕒 最近更新：2026-08-05（daily-report/2026-08-05.md）
+
 ## ⭐ GitHub 精选  （共 32 篇）
 
 | 日期 | 标题 |
@@ -46,8 +48,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-08-03 | [**GitHub Trending 每日精选 | 2026.08.03**](github-trending/2026-08-03.md) |
 | 2026-08-04 | [**GitHub Trending 每日精选 | 2026.08.04**](github-trending/2026-08-04.md) |
 | 2026-08-05 | [**GitHub Trending 每日精选 | 2026.08.05**](github-trending/2026-08-05.md) |
-
-> 🕒 最近更新：2026-08-05（github-trending/2026-08-05.md）
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
