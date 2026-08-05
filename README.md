@@ -37,12 +37,12 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 日期 | 标题 |
 | --- | --- |
 | 2026-08-05 | [TencentDB-Agent-Memory · reverse-skill · pdf-inspector · ADR](github-trending/2026-08-05%20TencentDB-Agent-Memory%20%C2%B7%20reverse-skill%20%C2%B7%20pdf-inspector%20%C2%B7%20ADR.md) |
-| 2026-08-04 | [AirLLM · DeepSeek-Reasonix · ds4 · TencentDB-Agent-Memory](github-trending/2026-08-04%20AirLLM%20%C2%B7%20DeepSeek-Reasonix%20%C2%B7%20ds4%20%C2%B7%20TencentDB-Agent-Memory.md) |
+| 2026-08-04 | [airllm · DeepSeek-Reasonix · ds4 · TencentDB-Agent-Memory](github-trending/2026-08-04%20airllm%20%C2%B7%20DeepSeek-Reasonix%20%C2%B7%20ds4%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-03 | [openwork · Agent-Reach · TencentDB-Agent-Memory](github-trending/2026-08-03%20openwork%20%C2%B7%20Agent-Reach%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-02 | [AI-For-Beginners · awesome-systematic-trading · kaneo](github-trending/2026-08-02%20AI-For-Beginners%20%C2%B7%20awesome-systematic-trading%20%C2%B7%20kaneo.md) |
 | 2026-08-01 | [reverse-skill · openwork · last30days-skill](github-trending/2026-08-01%20reverse-skill%20%C2%B7%20openwork%20%C2%B7%20last30days-skill.md) |
-| 2026-07-31 | [语音转语音 · AI · 系统化交易精选 · 开放工作 · Baileys · 编辑器 · last30days](github-trending/2026-07-31%20%E8%AF%AD%E9%9F%B3%E8%BD%AC%E8%AF%AD%E9%9F%B3%20%C2%B7%20AI%20%C2%B7%20%E7%B3%BB%E7%BB%9F%E5%8C%96%E4%BA%A4%E6%98%93%E7%B2%BE%E9%80%89%20%C2%B7%20%E5%BC%80%E6%94%BE%E5%B7%A5%E4%BD%9C%20%C2%B7%20Baileys%20%C2%B7%20%E7%BC%96%E8%BE%91%E5%99%A8%20%C2%B7%20last30days.md) |
-| 2026-07-30 | [GeoLibre · airi · ECC · speech-to-speech · jcode · snipe-it](github-trending/2026-07-30%20GeoLibre%20%C2%B7%20airi%20%C2%B7%20ECC%20%C2%B7%20speech-to-speech%20%C2%B7%20jcode%20%C2%B7%20snipe-it.md) |
+| 2026-07-31 | [speech-to-speech · AI-For-Beginners](github-trending/2026-07-31%20speech-to-speech%20%C2%B7%20AI-For-Beginners.md) |
+| 2026-07-30 | [GeoLibre · airi · speech-to-speech · jcode · snipe-it](github-trending/2026-07-30%20GeoLibre%20%C2%B7%20airi%20%C2%B7%20speech-to-speech%20%C2%B7%20jcode%20%C2%B7%20snipe-it.md) |
 | 2026-07-29 | [editor · jenkins · airi · aisuite · ECC · speech-to-speech](github-trending/2026-07-29%20editor%20%C2%B7%20jenkins%20%C2%B7%20airi%20%C2%B7%20aisuite%20%C2%B7%20ECC%20%C2%B7%20speech-to-speech.md) |
 | 2026-07-28 | [airi · impeccable · Kronos · bitchat · amnezia-client](github-trending/2026-07-28%20airi%20%C2%B7%20impeccable%20%C2%B7%20Kronos%20%C2%B7%20bitchat%20%C2%B7%20amnezia-client.md) |
 | 2026-07-27 | [bitchat · ego-lite · buzz · t3code · Instatic · superfile](github-trending/2026-07-27%20bitchat%20%C2%B7%20ego-lite%20%C2%B7%20buzz%20%C2%B7%20t3code%20%C2%B7%20Instatic%20%C2%B7%20superfile.md) |
