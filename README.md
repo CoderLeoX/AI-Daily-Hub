@@ -32,8 +32,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-07-29 | [Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp](daily-report/2026-07-29%20Deploying%20a%201-Bit%20Bonsai-27B%20Model%20with%20PrismML%20llama.cpp.md) |
 | 2026-07-28 | [Nvidia to invest $5 billion in Ilya Sutskever's AI startup,](daily-report/2026-07-28%20Nvidia%20to%20invest%20%245%20billion%20in%20Ilya%20Sutskever%27s%20AI%20startup%2C.md) |
 
-> 🕒 最近更新：2026-08-06（daily-report）
-
 ## ⭐ GitHub 精选  （共 33 篇）
 
 | 日期 | 标题 |
