@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-07-18 | [构建语音Agent不只是编排工具，护栏与可观测才是生产关键](deepdive/2026-07-18%20%E6%9E%84%E5%BB%BA%E8%AF%AD%E9%9F%B3Agent%E4%B8%8D%E5%8F%AA%E6%98%AF%E7%BC%96%E6%8E%92%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%8A%A4%E6%A0%8F%E4%B8%8E%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%89%8D%E6%98%AF%E7%94%9F%E4%BA%A7%E5%85%B3%E9%94%AE.md) |
 | 2026-07-17 | [Google LiteRT.js 把端侧推理搬进浏览器，边缘部署的又一次变量](deepdive/2026-07-17%20Google%20LiteRT.js%20%E6%8A%8A%E7%AB%AF%E4%BE%A7%E6%8E%A8%E7%90%86%E6%90%AC%E8%BF%9B%E6%B5%8F%E8%A7%88%E5%99%A8%EF%BC%8C%E8%BE%B9%E7%BC%98%E9%83%A8%E7%BD%B2%E7%9A%84%E5%8F%88%E4%B8%80%E6%AC%A1%E5%8F%98%E9%87%8F.md) |
 
-## 📰 AI 前沿日报  （共 34 篇）
+## 📰 AI 前沿日报  （共 35 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-07 | [马斯克全面押注英伟达：SpaceX 芯片战略的信号意义](daily-report/2026-08-07%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9ASpaceX%20%E8%8A%AF%E7%89%87%E6%88%98%E7%95%A5%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%84%8F%E4%B9%89.md) |
 | 2026-08-06 | [NVIDIA 携手合作伙伴：在美国、为美国建设](daily-report/2026-08-06%20NVIDIA%20%E6%90%BA%E6%89%8B%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%EF%BC%9A%E5%9C%A8%E7%BE%8E%E5%9B%BD%E3%80%81%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%BB%BA%E8%AE%BE.md) |
 | 2026-08-05 | [OpenAI 说明第三方网络安全评估事件，推出新防护措施](daily-report/2026-08-05%20OpenAI%20%E8%AF%B4%E6%98%8E%E7%AC%AC%E4%B8%89%E6%96%B9%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E4%BA%8B%E4%BB%B6%EF%BC%8C%E6%8E%A8%E5%87%BA%E6%96%B0%E9%98%B2%E6%8A%A4%E6%8E%AA%E6%96%BD.md) |
 | 2026-08-04 | [阿里 Qwen3.8-Max 发布：冲进全球第一梯队，表现直逼 Claude](daily-report/2026-08-04%20%E9%98%BF%E9%87%8C%20Qwen3.8-Max%20%E5%8F%91%E5%B8%83%EF%BC%9A%E5%86%B2%E8%BF%9B%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E6%A2%AF%E9%98%9F%EF%BC%8C%E8%A1%A8%E7%8E%B0%E7%9B%B4%E9%80%BC%20Claude.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-07-31 | [Advancing the price-performance frontier with GPT-5.6](daily-report/2026-07-31%20Advancing%20the%20price-performance%20frontier%20with%20GPT-5.6.md) |
 | 2026-07-30 | [Meta 全面押注个人 AI 助手](daily-report/2026-07-30%20Meta%20%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%E4%B8%AA%E4%BA%BA%20AI%20%E5%8A%A9%E6%89%8B.md) |
 | 2026-07-29 | [Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp](daily-report/2026-07-29%20Deploying%20a%201-Bit%20Bonsai-27B%20Model%20with%20PrismML%20llama.cpp.md) |
-| 2026-07-28 | [Nvidia to invest $5 billion in Ilya Sutskever's AI startup,](daily-report/2026-07-28%20Nvidia%20to%20invest%20%245%20billion%20in%20Ilya%20Sutskever%27s%20AI%20startup%2C.md) |
 
 ## ⭐ GitHub 精选  （共 33 篇）
 
