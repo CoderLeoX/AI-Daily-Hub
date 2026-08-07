@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-07-31 | [Advancing the price-performance frontier with GPT-5.6](daily-report/2026-07-31%20Advancing%20the%20price-performance%20frontier%20with%20GPT-5.6.md) |
 | 2026-07-30 | [Meta 全面押注个人 AI 助手](daily-report/2026-07-30%20Meta%20%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%E4%B8%AA%E4%BA%BA%20AI%20%E5%8A%A9%E6%89%8B.md) |
 
-## ⭐ GitHub 精选  （共 34 篇）
+## ⭐ GitHub 精选  （共 35 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-08 | [prime-agent · agent-skills · computer · skills · superpowers](github-trending/2026-08-08%20prime-agent%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills%20%C2%B7%20superpowers.md) |
 | 2026-08-07 | [TencentDB-Agent-Memory · agent-skills · computer · skills](github-trending/2026-08-07%20TencentDB-Agent-Memory%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills.md) |
 | 2026-08-06 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-06%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-05 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-05%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-08-01 | [reverse-skill · openwork · last30days-skill](github-trending/2026-08-01%20reverse-skill%20%C2%B7%20openwork%20%C2%B7%20last30days-skill.md) |
 | 2026-07-31 | [speech-to-speech · AI-For-Beginners](github-trending/2026-07-31%20speech-to-speech%20%C2%B7%20AI-For-Beginners.md) |
 | 2026-07-30 | [GeoLibre · airi · speech-to-speech · jcode · snipe-it](github-trending/2026-07-30%20GeoLibre%20%C2%B7%20airi%20%C2%B7%20speech-to-speech%20%C2%B7%20jcode%20%C2%B7%20snipe-it.md) |
-| 2026-07-29 | [editor · jenkins · airi · aisuite · ECC · speech-to-speech](github-trending/2026-07-29%20editor%20%C2%B7%20jenkins%20%C2%B7%20airi%20%C2%B7%20aisuite%20%C2%B7%20ECC%20%C2%B7%20speech-to-speech.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
