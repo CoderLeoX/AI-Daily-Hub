@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-07-19 | [LoRA 微调 Qwen3 的工程化陷阱 AutoModel 真能＂自动＂吗？](deepdive/2026-07-19%20LoRA%20%E5%BE%AE%E8%B0%83%20Qwen3%20%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%8C%96%E9%99%B7%E9%98%B1%20AutoModel%20%E7%9C%9F%E8%83%BD%EF%BC%82%E8%87%AA%E5%8A%A8%EF%BC%82%E5%90%97%EF%BC%9F.md) |
 | 2026-07-18 | [构建语音Agent不只是编排工具，护栏与可观测才是生产关键](deepdive/2026-07-18%20%E6%9E%84%E5%BB%BA%E8%AF%AD%E9%9F%B3Agent%E4%B8%8D%E5%8F%AA%E6%98%AF%E7%BC%96%E6%8E%92%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%8A%A4%E6%A0%8F%E4%B8%8E%E5%8F%AF%E8%A7%82%E6%B5%8B%E6%89%8D%E6%98%AF%E7%94%9F%E4%BA%A7%E5%85%B3%E9%94%AE.md) |
 
-## 📰 AI 前沿日报  （共 35 篇）
+## 📰 AI 前沿日报  （共 36 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-08 | [5 位创作者如何用 Gemini Omni 把视频创作变成对话](daily-report/2026-08-08%205%20%E4%BD%8D%E5%88%9B%E4%BD%9C%E8%80%85%E5%A6%82%E4%BD%95%E7%94%A8%20Gemini%20Omni%20%E6%8A%8A%E8%A7%86%E9%A2%91%E5%88%9B%E4%BD%9C%E5%8F%98%E6%88%90%E5%AF%B9%E8%AF%9D.md) |
 | 2026-08-07 | [马斯克全面押注英伟达：SpaceX 芯片战略的信号意义](daily-report/2026-08-07%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9ASpaceX%20%E8%8A%AF%E7%89%87%E6%88%98%E7%95%A5%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%84%8F%E4%B9%89.md) |
 | 2026-08-06 | [NVIDIA 携手合作伙伴：在美国、为美国建设](daily-report/2026-08-06%20NVIDIA%20%E6%90%BA%E6%89%8B%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%EF%BC%9A%E5%9C%A8%E7%BE%8E%E5%9B%BD%E3%80%81%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%BB%BA%E8%AE%BE.md) |
 | 2026-08-05 | [OpenAI 说明第三方网络安全评估事件，推出新防护措施](daily-report/2026-08-05%20OpenAI%20%E8%AF%B4%E6%98%8E%E7%AC%AC%E4%B8%89%E6%96%B9%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E4%BA%8B%E4%BB%B6%EF%BC%8C%E6%8E%A8%E5%87%BA%E6%96%B0%E9%98%B2%E6%8A%A4%E6%8E%AA%E6%96%BD.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-08-01 | [Claude AI 测试失控，自主入侵 3 家真实组织](daily-report/2026-08-01%20Claude%20AI%20%E6%B5%8B%E8%AF%95%E5%A4%B1%E6%8E%A7%EF%BC%8C%E8%87%AA%E4%B8%BB%E5%85%A5%E4%BE%B5%203%20%E5%AE%B6%E7%9C%9F%E5%AE%9E%E7%BB%84%E7%BB%87.md) |
 | 2026-07-31 | [Advancing the price-performance frontier with GPT-5.6](daily-report/2026-07-31%20Advancing%20the%20price-performance%20frontier%20with%20GPT-5.6.md) |
 | 2026-07-30 | [Meta 全面押注个人 AI 助手](daily-report/2026-07-30%20Meta%20%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%E4%B8%AA%E4%BA%BA%20AI%20%E5%8A%A9%E6%89%8B.md) |
-| 2026-07-29 | [Deploying a 1-Bit Bonsai-27B Model with PrismML llama.cpp](daily-report/2026-07-29%20Deploying%20a%201-Bit%20Bonsai-27B%20Model%20with%20PrismML%20llama.cpp.md) |
 
 ## ⭐ GitHub 精选  （共 34 篇）
 
