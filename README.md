@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-07-20 | [GPU直通让国产算力集群不再依赖英伟达网卡，架构取舍在哪](deepdive/2026-07-20%20GPU%E7%9B%B4%E9%80%9A%E8%AE%A9%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B%E9%9B%86%E7%BE%A4%E4%B8%8D%E5%86%8D%E4%BE%9D%E8%B5%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BD%91%E5%8D%A1%EF%BC%8C%E6%9E%B6%E6%9E%84%E5%8F%96%E8%88%8D%E5%9C%A8%E5%93%AA.md) |
 | 2026-07-19 | [LoRA 微调 Qwen3 的工程化陷阱 AutoModel 真能＂自动＂吗？](deepdive/2026-07-19%20LoRA%20%E5%BE%AE%E8%B0%83%20Qwen3%20%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%8C%96%E9%99%B7%E9%98%B1%20AutoModel%20%E7%9C%9F%E8%83%BD%EF%BC%82%E8%87%AA%E5%8A%A8%EF%BC%82%E5%90%97%EF%BC%9F.md) |
 
-## 📰 AI 前沿日报  （共 37 篇）
+## 📰 AI 前沿日报  （共 38 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-10 | [马斯克将 NVIDIA 定为独家 AI 芯片供应商，Q2 财报须兑现预期](daily-report/2026-08-10%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%20NVIDIA%20%E5%AE%9A%E4%B8%BA%E7%8B%AC%E5%AE%B6%20AI%20%E8%8A%AF%E7%89%87%E4%BE%9B%E5%BA%94%E5%95%86%EF%BC%8CQ2%20%E8%B4%A2%E6%8A%A5%E9%A1%BB%E5%85%91%E7%8E%B0%E9%A2%84%E6%9C%9F.md) |
 | 2026-08-09 | [xAI 的 Imagine Image 2.0 在 Arena 基准测试中紧追 OpenAI GPT-Image-2](daily-report/2026-08-09%20xAI%20%E7%9A%84%20Imagine%20Image%202.0%20%E5%9C%A8%20Arena%20%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%B4%A7%E8%BF%BD%20OpenAI%20GPT-Image-2.md) |
 | 2026-08-08 | [5 位创作者如何用 Gemini Omni 把视频创作变成对话](daily-report/2026-08-08%205%20%E4%BD%8D%E5%88%9B%E4%BD%9C%E8%80%85%E5%A6%82%E4%BD%95%E7%94%A8%20Gemini%20Omni%20%E6%8A%8A%E8%A7%86%E9%A2%91%E5%88%9B%E4%BD%9C%E5%8F%98%E6%88%90%E5%AF%B9%E8%AF%9D.md) |
 | 2026-08-07 | [马斯克全面押注英伟达：SpaceX 芯片战略的信号意义](daily-report/2026-08-07%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9ASpaceX%20%E8%8A%AF%E7%89%87%E6%88%98%E7%95%A5%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%84%8F%E4%B9%89.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-08-03 | [TimesFM 2.5：端到端时间序列预测](daily-report/2026-08-03%20TimesFM%202.5%EF%BC%9A%E7%AB%AF%E5%88%B0%E7%AB%AF%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B.md) |
 | 2026-08-02 | [AMD 发布 Instella-MoE-16B-A3B 开源 MoE 模型](daily-report/2026-08-02%20AMD%20%E5%8F%91%E5%B8%83%20Instella-MoE-16B-A3B%20%E5%BC%80%E6%BA%90%20MoE%20%E6%A8%A1%E5%9E%8B.md) |
 | 2026-08-01 | [Claude AI 测试失控，自主入侵 3 家真实组织](daily-report/2026-08-01%20Claude%20AI%20%E6%B5%8B%E8%AF%95%E5%A4%B1%E6%8E%A7%EF%BC%8C%E8%87%AA%E4%B8%BB%E5%85%A5%E4%BE%B5%203%20%E5%AE%B6%E7%9C%9F%E5%AE%9E%E7%BB%84%E7%BB%87.md) |
-| 2026-07-31 | [Advancing the price-performance frontier with GPT-5.6](daily-report/2026-07-31%20Advancing%20the%20price-performance%20frontier%20with%20GPT-5.6.md) |
 
 ## ⭐ GitHub 精选  （共 36 篇）
 
