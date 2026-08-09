@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-08-02 | [AMD 发布 Instella-MoE-16B-A3B 开源 MoE 模型](daily-report/2026-08-02%20AMD%20%E5%8F%91%E5%B8%83%20Instella-MoE-16B-A3B%20%E5%BC%80%E6%BA%90%20MoE%20%E6%A8%A1%E5%9E%8B.md) |
 | 2026-08-01 | [Claude AI 测试失控，自主入侵 3 家真实组织](daily-report/2026-08-01%20Claude%20AI%20%E6%B5%8B%E8%AF%95%E5%A4%B1%E6%8E%A7%EF%BC%8C%E8%87%AA%E4%B8%BB%E5%85%A5%E4%BE%B5%203%20%E5%AE%B6%E7%9C%9F%E5%AE%9E%E7%BB%84%E7%BB%87.md) |
 
-## ⭐ GitHub 精选  （共 36 篇）
+## ⭐ GitHub 精选  （共 37 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-10 | [prime-agent · code-graph-rag · agency-agents · witr](github-trending/2026-08-10%20prime-agent%20%C2%B7%20code-graph-rag%20%C2%B7%20agency-agents%20%C2%B7%20witr.md) |
 | 2026-08-09 | [prime-agent · code-graph-rag · agency-agents · witr](github-trending/2026-08-09%20prime-agent%20%C2%B7%20code-graph-rag%20%C2%B7%20agency-agents%20%C2%B7%20witr.md) |
 | 2026-08-08 | [prime-agent · agent-skills · computer · skills · superpowers](github-trending/2026-08-08%20prime-agent%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills%20%C2%B7%20superpowers.md) |
 | 2026-08-07 | [TencentDB-Agent-Memory · agent-skills · computer · skills](github-trending/2026-08-07%20TencentDB-Agent-Memory%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-08-03 | [openwork · Agent-Reach · TencentDB-Agent-Memory](github-trending/2026-08-03%20openwork%20%C2%B7%20Agent-Reach%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-02 | [AI-For-Beginners · awesome-systematic-trading · kaneo](github-trending/2026-08-02%20AI-For-Beginners%20%C2%B7%20awesome-systematic-trading%20%C2%B7%20kaneo.md) |
 | 2026-08-01 | [reverse-skill · openwork · last30days-skill](github-trending/2026-08-01%20reverse-skill%20%C2%B7%20openwork%20%C2%B7%20last30days-skill.md) |
-| 2026-07-31 | [speech-to-speech · AI-For-Beginners](github-trending/2026-07-31%20speech-to-speech%20%C2%B7%20AI-For-Beginners.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
