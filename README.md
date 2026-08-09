@@ -36,7 +36,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-08-09 | [prime-agent · agent-skills · ChinaTextbook · skills](github-trending/2026-08-09%20prime-agent%20%C2%B7%20agent-skills%20%C2%B7%20ChinaTextbook%20%C2%B7%20skills.md) |
+| 2026-08-09 | [prime-agent · code-graph-rag · agency-agents · witr](github-trending/2026-08-09%20prime-agent%20%C2%B7%20code-graph-rag%20%C2%B7%20agency-agents%20%C2%B7%20witr.md) |
 | 2026-08-08 | [prime-agent · agent-skills · computer · skills · superpowers](github-trending/2026-08-08%20prime-agent%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills%20%C2%B7%20superpowers.md) |
 | 2026-08-07 | [TencentDB-Agent-Memory · agent-skills · computer · skills](github-trending/2026-08-07%20TencentDB-Agent-Memory%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills.md) |
 | 2026-08-06 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-06%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
