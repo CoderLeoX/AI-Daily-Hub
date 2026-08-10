@@ -1,6 +1,6 @@
 # AI Daily Hub
 
-AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由 Hermes cron 每日生成并推送。
+AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自动归档仓库。由 Hermes cron 每日生成并推送。
 
 ## 🧠 每日深读  （共 20 篇）
 
@@ -46,6 +46,12 @@ AI 前沿日报 / GitHub 精选 / 每日深读 的每日自动归档仓库。由
 | 2026-08-03 | [openwork · Agent-Reach · TencentDB-Agent-Memory](github-trending/2026-08-03%20openwork%20%C2%B7%20Agent-Reach%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-02 | [AI-For-Beginners · awesome-systematic-trading · kaneo](github-trending/2026-08-02%20AI-For-Beginners%20%C2%B7%20awesome-systematic-trading%20%C2%B7%20kaneo.md) |
 | 2026-08-01 | [reverse-skill · openwork · last30days-skill](github-trending/2026-08-01%20reverse-skill%20%C2%B7%20openwork%20%C2%B7%20last30days-skill.md) |
+
+## 🐧 Linux 社区动态  （共 1 篇）
+
+| 日期 | 标题 |
+| --- | --- |
+| 2026-08-10 | [内核预发布版 7.2-rc7](linux-community/2026-08-10%20%E5%86%85%E6%A0%B8%E9%A2%84%E5%8F%91%E5%B8%83%E7%89%88%207.2-rc7.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
