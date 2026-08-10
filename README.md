@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-07-21 | [Vera Rubin 与生命科学 AI 工厂的推理基础设施设计逻辑](deepdive/2026-07-21%20Vera%20Rubin%20%E4%B8%8E%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%20AI%20%E5%B7%A5%E5%8E%82%E7%9A%84%E6%8E%A8%E7%90%86%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E8%AE%BE%E8%AE%A1%E9%80%BB%E8%BE%91.md) |
 | 2026-07-20 | [GPU直通让国产算力集群不再依赖英伟达网卡，架构取舍在哪](deepdive/2026-07-20%20GPU%E7%9B%B4%E9%80%9A%E8%AE%A9%E5%9B%BD%E4%BA%A7%E7%AE%97%E5%8A%9B%E9%9B%86%E7%BE%A4%E4%B8%8D%E5%86%8D%E4%BE%9D%E8%B5%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%BD%91%E5%8D%A1%EF%BC%8C%E6%9E%B6%E6%9E%84%E5%8F%96%E8%88%8D%E5%9C%A8%E5%93%AA.md) |
 
-## 📰 AI 前沿日报  （共 38 篇）
+## 📰 AI 前沿日报  （共 39 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-11 | [智能互动 Agent 在快手商业场景的落地实践｜AICon 深圳](daily-report/2026-08-11%20%E6%99%BA%E8%83%BD%E4%BA%92%E5%8A%A8%20Agent%20%E5%9C%A8%E5%BF%AB%E6%89%8B%E5%95%86%E4%B8%9A%E5%9C%BA%E6%99%AF%E7%9A%84%E8%90%BD%E5%9C%B0%E5%AE%9E%E8%B7%B5%EF%BD%9CAICon%20%E6%B7%B1%E5%9C%B3.md) |
 | 2026-08-10 | [马斯克将 NVIDIA 定为独家 AI 芯片供应商，Q2 财报须兑现预期](daily-report/2026-08-10%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%20NVIDIA%20%E5%AE%9A%E4%B8%BA%E7%8B%AC%E5%AE%B6%20AI%20%E8%8A%AF%E7%89%87%E4%BE%9B%E5%BA%94%E5%95%86%EF%BC%8CQ2%20%E8%B4%A2%E6%8A%A5%E9%A1%BB%E5%85%91%E7%8E%B0%E9%A2%84%E6%9C%9F.md) |
 | 2026-08-09 | [xAI 的 Imagine Image 2.0 在 Arena 基准测试中紧追 OpenAI GPT-Image-2](daily-report/2026-08-09%20xAI%20%E7%9A%84%20Imagine%20Image%202.0%20%E5%9C%A8%20Arena%20%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%B4%A7%E8%BF%BD%20OpenAI%20GPT-Image-2.md) |
 | 2026-08-08 | [5 位创作者如何用 Gemini Omni 把视频创作变成对话](daily-report/2026-08-08%205%20%E4%BD%8D%E5%88%9B%E4%BD%9C%E8%80%85%E5%A6%82%E4%BD%95%E7%94%A8%20Gemini%20Omni%20%E6%8A%8A%E8%A7%86%E9%A2%91%E5%88%9B%E4%BD%9C%E5%8F%98%E6%88%90%E5%AF%B9%E8%AF%9D.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-04 | [阿里 Qwen3.8-Max 发布：冲进全球第一梯队，表现直逼 Claude](daily-report/2026-08-04%20%E9%98%BF%E9%87%8C%20Qwen3.8-Max%20%E5%8F%91%E5%B8%83%EF%BC%9A%E5%86%B2%E8%BF%9B%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E6%A2%AF%E9%98%9F%EF%BC%8C%E8%A1%A8%E7%8E%B0%E7%9B%B4%E9%80%BC%20Claude.md) |
 | 2026-08-03 | [TimesFM 2.5：端到端时间序列预测](daily-report/2026-08-03%20TimesFM%202.5%EF%BC%9A%E7%AB%AF%E5%88%B0%E7%AB%AF%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E9%A2%84%E6%B5%8B.md) |
 | 2026-08-02 | [AMD 发布 Instella-MoE-16B-A3B 开源 MoE 模型](daily-report/2026-08-02%20AMD%20%E5%8F%91%E5%B8%83%20Instella-MoE-16B-A3B%20%E5%BC%80%E6%BA%90%20MoE%20%E6%A8%A1%E5%9E%8B.md) |
-| 2026-08-01 | [Claude AI 测试失控，自主入侵 3 家真实组织](daily-report/2026-08-01%20Claude%20AI%20%E6%B5%8B%E8%AF%95%E5%A4%B1%E6%8E%A7%EF%BC%8C%E8%87%AA%E4%B8%BB%E5%85%A5%E4%BE%B5%203%20%E5%AE%B6%E7%9C%9F%E5%AE%9E%E7%BB%84%E7%BB%87.md) |
 
 ## ⭐ GitHub 精选  （共 37 篇）
 
