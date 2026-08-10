@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-03 | [openwork · Agent-Reach · TencentDB-Agent-Memory](github-trending/2026-08-03%20openwork%20%C2%B7%20Agent-Reach%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-02 | [AI-For-Beginners · awesome-systematic-trading · kaneo](github-trending/2026-08-02%20AI-For-Beginners%20%C2%B7%20awesome-systematic-trading%20%C2%B7%20kaneo.md) |
 
-## 🐧 Linux 社区动态  （共 1 篇）
+## 🐧 Linux 社区动态  （共 2 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-11 | [USN-8592-1 ImageMagick 漏洞](linux-community/2026-08-11%20USN-8592-1%20ImageMagick%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-10 | [USN-8620-4：Linux kernel (Intel IoTG) 漏洞](linux-community/2026-08-10%20USN-8620-4%EF%BC%9ALinux%20kernel%20%28Intel%20IoTG%29%20%E6%BC%8F%E6%B4%9E.md) |
 
 ---
