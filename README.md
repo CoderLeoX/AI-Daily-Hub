@@ -51,7 +51,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-08-10 | [内核预发布版 7.2-rc7](linux-community/2026-08-10%20%E5%86%85%E6%A0%B8%E9%A2%84%E5%8F%91%E5%B8%83%E7%89%88%207.2-rc7.md) |
+| 2026-08-10 | [USN-8620-4：Linux 内核（Intel IoTG）漏洞](linux-community/2026-08-10%20USN-8620-4%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%EF%BC%88Intel%20IoTG%EF%BC%89%E6%BC%8F%E6%B4%9E.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
