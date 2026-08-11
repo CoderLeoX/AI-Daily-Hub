@@ -2,10 +2,11 @@
 
 AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自动归档仓库。由 Hermes cron 每日生成并推送。
 
-## 🧠 每日深读  （共 21 篇）
+## 🧠 每日深读  （共 22 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-12 | [路由下沉、快慢分层 Lightning + Switchyard 重构 Agent 推理](deepdive/2026-08-12%20%E8%B7%AF%E7%94%B1%E4%B8%8B%E6%B2%89%E3%80%81%E5%BF%AB%E6%85%A2%E5%88%86%E5%B1%82%20Lightning%20%2B%20Switchyard%20%E9%87%8D%E6%9E%84%20Agent%20%E6%8E%A8%E7%90%86.md) |
 | 2026-08-11 | [30B 装进 24GB 显存、投机解码快 3.1 倍 单卡跑智能体模型的代价与权衡](deepdive/2026-08-11%2030B%20%E8%A3%85%E8%BF%9B%2024GB%20%E6%98%BE%E5%AD%98%E3%80%81%E6%8A%95%E6%9C%BA%E8%A7%A3%E7%A0%81%E5%BF%AB%203.1%20%E5%80%8D%20%E5%8D%95%E5%8D%A1%E8%B7%91%E6%99%BA%E8%83%BD%E4%BD%93%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BB%A3%E4%BB%B7%E4%B8%8E%E6%9D%83%E8%A1%A1.md) |
 | 2026-08-10 | [免费无限对话，OpenAI的推理成本账是怎么算平的？](deepdive/2026-08-10%20%E5%85%8D%E8%B4%B9%E6%97%A0%E9%99%90%E5%AF%B9%E8%AF%9D%EF%BC%8COpenAI%E7%9A%84%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E8%B4%A6%E6%98%AF%E6%80%8E%E4%B9%88%E7%AE%97%E5%B9%B3%E7%9A%84%EF%BC%9F.md) |
 | 2026-08-09 | [对话日志之外，把 Agent 运行变成可 fork 的状态](deepdive/2026-08-09%20%E5%AF%B9%E8%AF%9D%E6%97%A5%E5%BF%97%E4%B9%8B%E5%A4%96%EF%BC%8C%E6%8A%8A%20Agent%20%E8%BF%90%E8%A1%8C%E5%8F%98%E6%88%90%E5%8F%AF%20fork%20%E7%9A%84%E7%8A%B6%E6%80%81.md) |
@@ -15,7 +16,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-07-24 | [4-bit扩散推理 量化压缩与生成质量的工程平衡](deepdive/2026-07-24%204-bit%E6%89%A9%E6%95%A3%E6%8E%A8%E7%90%86%20%E9%87%8F%E5%8C%96%E5%8E%8B%E7%BC%A9%E4%B8%8E%E7%94%9F%E6%88%90%E8%B4%A8%E9%87%8F%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B9%B3%E8%A1%A1.md) |
 | 2026-07-23 | [分布式推理基准测试的工程化 NVIDIA srt-slurm 如何让 LLM Serving 可复现](deepdive/2026-07-23%20%E5%88%86%E5%B8%83%E5%BC%8F%E6%8E%A8%E7%90%86%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%8C%96%20NVIDIA%20srt-slurm%20%E5%A6%82%E4%BD%95%E8%AE%A9%20LLM%20Serving%20%E5%8F%AF%E5%A4%8D%E7%8E%B0.md) |
 | 2026-07-22 | [分布式LLM推理基准测试的工程化：NVIDIA srt-slurm的架构方法论](deepdive/2026-07-22%20%E5%88%86%E5%B8%83%E5%BC%8FLLM%E6%8E%A8%E7%90%86%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%8C%96%EF%BC%9ANVIDIA%20srt-slurm%E7%9A%84%E6%9E%B6%E6%9E%84%E6%96%B9%E6%B3%95%E8%AE%BA.md) |
-| 2026-07-21 | [Vera Rubin 与生命科学 AI 工厂的推理基础设施设计逻辑](deepdive/2026-07-21%20Vera%20Rubin%20%E4%B8%8E%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6%20AI%20%E5%B7%A5%E5%8E%82%E7%9A%84%E6%8E%A8%E7%90%86%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E8%AE%BE%E8%AE%A1%E9%80%BB%E8%BE%91.md) |
 
 ## 📰 AI 前沿日报  （共 40 篇）
 
