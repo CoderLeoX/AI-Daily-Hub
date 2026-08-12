@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-05 | [OpenAI 说明第三方网络安全评估事件，推出新防护措施](daily-report/2026-08-05%20OpenAI%20%E8%AF%B4%E6%98%8E%E7%AC%AC%E4%B8%89%E6%96%B9%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E4%BA%8B%E4%BB%B6%EF%BC%8C%E6%8E%A8%E5%87%BA%E6%96%B0%E9%98%B2%E6%8A%A4%E6%8E%AA%E6%96%BD.md) |
 | 2026-08-04 | [阿里 Qwen3.8-Max 发布：冲进全球第一梯队，表现直逼 Claude](daily-report/2026-08-04%20%E9%98%BF%E9%87%8C%20Qwen3.8-Max%20%E5%8F%91%E5%B8%83%EF%BC%9A%E5%86%B2%E8%BF%9B%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E6%A2%AF%E9%98%9F%EF%BC%8C%E8%A1%A8%E7%8E%B0%E7%9B%B4%E9%80%BC%20Claude.md) |
 
-## ⭐ GitHub 精选  （共 39 篇）
+## ⭐ GitHub 精选  （共 40 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-13 | [diagram-design · macro · semantica · orca · agency-agents](github-trending/2026-08-13%20diagram-design%20%C2%B7%20macro%20%C2%B7%20semantica%20%C2%B7%20orca%20%C2%B7%20agency-agents.md) |
 | 2026-08-12 | [agency-agents · semantica · nvm · agent-skills](github-trending/2026-08-12%20agency-agents%20%C2%B7%20semantica%20%C2%B7%20nvm%20%C2%B7%20agent-skills.md) |
 | 2026-08-11 | [semantica · agency-agents · MediaCrawler · agent-skills](github-trending/2026-08-11%20semantica%20%C2%B7%20agency-agents%20%C2%B7%20MediaCrawler%20%C2%B7%20agent-skills.md) |
 | 2026-08-10 | [prime-agent · code-graph-rag · agency-agents · witr](github-trending/2026-08-10%20prime-agent%20%C2%B7%20code-graph-rag%20%C2%B7%20agency-agents%20%C2%B7%20witr.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-06 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-06%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-05 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-05%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-04 | [airllm · DeepSeek-Reasonix · ds4 · TencentDB-Agent-Memory](github-trending/2026-08-04%20airllm%20%C2%B7%20DeepSeek-Reasonix%20%C2%B7%20ds4%20%C2%B7%20TencentDB-Agent-Memory.md) |
-| 2026-08-03 | [openwork · Agent-Reach · TencentDB-Agent-Memory](github-trending/2026-08-03%20openwork%20%C2%B7%20Agent-Reach%20%C2%B7%20TencentDB-Agent-Memory.md) |
 
 ## 🐧 Linux 社区动态  （共 3 篇）
 
