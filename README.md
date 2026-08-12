@@ -2,10 +2,11 @@
 
 AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自动归档仓库。由 Hermes cron 每日生成并推送。
 
-## 🧠 每日深读  （共 22 篇）
+## 🧠 每日深读  （共 23 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-13 | [5000 亿美元算力基金进场：AI 工厂正变成可融资资产](deepdive/2026-08-13%205000%20%E4%BA%BF%E7%BE%8E%E5%85%83%E7%AE%97%E5%8A%9B%E5%9F%BA%E9%87%91%E8%BF%9B%E5%9C%BA%EF%BC%9AAI%20%E5%B7%A5%E5%8E%82%E6%AD%A3%E5%8F%98%E6%88%90%E5%8F%AF%E8%9E%8D%E8%B5%84%E8%B5%84%E4%BA%A7.md) |
 | 2026-08-12 | [路由下沉、快慢分层 Lightning + Switchyard 重构 Agent 推理](deepdive/2026-08-12%20%E8%B7%AF%E7%94%B1%E4%B8%8B%E6%B2%89%E3%80%81%E5%BF%AB%E6%85%A2%E5%88%86%E5%B1%82%20Lightning%20%2B%20Switchyard%20%E9%87%8D%E6%9E%84%20Agent%20%E6%8E%A8%E7%90%86.md) |
 | 2026-08-11 | [30B 装进 24GB 显存、投机解码快 3.1 倍 单卡跑智能体模型的代价与权衡](deepdive/2026-08-11%2030B%20%E8%A3%85%E8%BF%9B%2024GB%20%E6%98%BE%E5%AD%98%E3%80%81%E6%8A%95%E6%9C%BA%E8%A7%A3%E7%A0%81%E5%BF%AB%203.1%20%E5%80%8D%20%E5%8D%95%E5%8D%A1%E8%B7%91%E6%99%BA%E8%83%BD%E4%BD%93%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BB%A3%E4%BB%B7%E4%B8%8E%E6%9D%83%E8%A1%A1.md) |
 | 2026-08-10 | [免费无限对话，OpenAI的推理成本账是怎么算平的？](deepdive/2026-08-10%20%E5%85%8D%E8%B4%B9%E6%97%A0%E9%99%90%E5%AF%B9%E8%AF%9D%EF%BC%8COpenAI%E7%9A%84%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E8%B4%A6%E6%98%AF%E6%80%8E%E4%B9%88%E7%AE%97%E5%B9%B3%E7%9A%84%EF%BC%9F.md) |
@@ -15,7 +16,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-07-25 | [4-bit扩散推理落地：Nunchaku如何用权重共享突破INT4量化瓶颈](deepdive/2026-07-25%204-bit%E6%89%A9%E6%95%A3%E6%8E%A8%E7%90%86%E8%90%BD%E5%9C%B0%EF%BC%9ANunchaku%E5%A6%82%E4%BD%95%E7%94%A8%E6%9D%83%E9%87%8D%E5%85%B1%E4%BA%AB%E7%AA%81%E7%A0%B4INT4%E9%87%8F%E5%8C%96%E7%93%B6%E9%A2%88.md) |
 | 2026-07-24 | [4-bit扩散推理 量化压缩与生成质量的工程平衡](deepdive/2026-07-24%204-bit%E6%89%A9%E6%95%A3%E6%8E%A8%E7%90%86%20%E9%87%8F%E5%8C%96%E5%8E%8B%E7%BC%A9%E4%B8%8E%E7%94%9F%E6%88%90%E8%B4%A8%E9%87%8F%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B9%B3%E8%A1%A1.md) |
 | 2026-07-23 | [分布式推理基准测试的工程化 NVIDIA srt-slurm 如何让 LLM Serving 可复现](deepdive/2026-07-23%20%E5%88%86%E5%B8%83%E5%BC%8F%E6%8E%A8%E7%90%86%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%8C%96%20NVIDIA%20srt-slurm%20%E5%A6%82%E4%BD%95%E8%AE%A9%20LLM%20Serving%20%E5%8F%AF%E5%A4%8D%E7%8E%B0.md) |
-| 2026-07-22 | [分布式LLM推理基准测试的工程化：NVIDIA srt-slurm的架构方法论](deepdive/2026-07-22%20%E5%88%86%E5%B8%83%E5%BC%8FLLM%E6%8E%A8%E7%90%86%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%8C%96%EF%BC%9ANVIDIA%20srt-slurm%E7%9A%84%E6%9E%B6%E6%9E%84%E6%96%B9%E6%B3%95%E8%AE%BA.md) |
 
 ## 📰 AI 前沿日报  （共 41 篇）
 
