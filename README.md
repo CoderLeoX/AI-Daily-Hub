@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-06 | [NVIDIA 携手合作伙伴：在美国、为美国建设](daily-report/2026-08-06%20NVIDIA%20%E6%90%BA%E6%89%8B%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%EF%BC%9A%E5%9C%A8%E7%BE%8E%E5%9B%BD%E3%80%81%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%BB%BA%E8%AE%BE.md) |
 | 2026-08-05 | [OpenAI 说明第三方网络安全评估事件，推出新防护措施](daily-report/2026-08-05%20OpenAI%20%E8%AF%B4%E6%98%8E%E7%AC%AC%E4%B8%89%E6%96%B9%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E4%BA%8B%E4%BB%B6%EF%BC%8C%E6%8E%A8%E5%87%BA%E6%96%B0%E9%98%B2%E6%8A%A4%E6%8E%AA%E6%96%BD.md) |
 
-## ⭐ GitHub 精选  （共 40 篇）
+## ⭐ GitHub 精选  （共 41 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-14 | [diagram-design · semantica · skills · needle · FluidVoice](github-trending/2026-08-14%20diagram-design%20%C2%B7%20semantica%20%C2%B7%20skills%20%C2%B7%20needle%20%C2%B7%20FluidVoice.md) |
 | 2026-08-13 | [diagram-design · macro · semantica · orca · agency-agents](github-trending/2026-08-13%20diagram-design%20%C2%B7%20macro%20%C2%B7%20semantica%20%C2%B7%20orca%20%C2%B7%20agency-agents.md) |
 | 2026-08-12 | [agency-agents · semantica · nvm · agent-skills](github-trending/2026-08-12%20agency-agents%20%C2%B7%20semantica%20%C2%B7%20nvm%20%C2%B7%20agent-skills.md) |
 | 2026-08-11 | [semantica · agency-agents · MediaCrawler · agent-skills](github-trending/2026-08-11%20semantica%20%C2%B7%20agency-agents%20%C2%B7%20MediaCrawler%20%C2%B7%20agent-skills.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-07 | [TencentDB-Agent-Memory · agent-skills · computer · skills](github-trending/2026-08-07%20TencentDB-Agent-Memory%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills.md) |
 | 2026-08-06 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-06%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-05 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-05%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
-| 2026-08-04 | [airllm · DeepSeek-Reasonix · ds4 · TencentDB-Agent-Memory](github-trending/2026-08-04%20airllm%20%C2%B7%20DeepSeek-Reasonix%20%C2%B7%20ds4%20%C2%B7%20TencentDB-Agent-Memory.md) |
 
 ## 🐧 Linux 社区动态  （共 4 篇）
 
