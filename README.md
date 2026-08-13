@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-06 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-06%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
 | 2026-08-05 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-05%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
 
-## 🐧 Linux 社区动态  （共 4 篇）
+## 🐧 Linux 社区动态  （共 5 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-14 | [USN-8631-3：Linux 内核（NVIDIA Tegra IGX）漏洞](linux-community/2026-08-14%20USN-8631-3%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%EF%BC%88NVIDIA%20Tegra%20IGX%EF%BC%89%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-13 | [USN-8636-1：Linux 内核安全漏洞](linux-community/2026-08-13%20USN-8636-1%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-12 | [USN-8627-1：Yelp 漏洞](linux-community/2026-08-12%20USN-8627-1%EF%BC%9AYelp%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-11 | [USN-8592-1 ImageMagick 漏洞](linux-community/2026-08-11%20USN-8592-1%20ImageMagick%20%E6%BC%8F%E6%B4%9E.md) |
