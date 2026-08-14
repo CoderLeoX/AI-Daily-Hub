@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-07-25 | [4-bit扩散推理落地：Nunchaku如何用权重共享突破INT4量化瓶颈](deepdive/2026-07-25%204-bit%E6%89%A9%E6%95%A3%E6%8E%A8%E7%90%86%E8%90%BD%E5%9C%B0%EF%BC%9ANunchaku%E5%A6%82%E4%BD%95%E7%94%A8%E6%9D%83%E9%87%8D%E5%85%B1%E4%BA%AB%E7%AA%81%E7%A0%B4INT4%E9%87%8F%E5%8C%96%E7%93%B6%E9%A2%88.md) |
 | 2026-07-24 | [4-bit扩散推理 量化压缩与生成质量的工程平衡](deepdive/2026-07-24%204-bit%E6%89%A9%E6%95%A3%E6%8E%A8%E7%90%86%20%E9%87%8F%E5%8C%96%E5%8E%8B%E7%BC%A9%E4%B8%8E%E7%94%9F%E6%88%90%E8%B4%A8%E9%87%8F%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B9%B3%E8%A1%A1.md) |
 
-## 📰 AI 前沿日报  （共 42 篇）
+## 📰 AI 前沿日报  （共 43 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-15 | [GitHub 四款 Agent 应用：软件交付全流程不出 GitHub](daily-report/2026-08-15%20GitHub%20%E5%9B%9B%E6%AC%BE%20Agent%20%E5%BA%94%E7%94%A8%EF%BC%9A%E8%BD%AF%E4%BB%B6%E4%BA%A4%E4%BB%98%E5%85%A8%E6%B5%81%E7%A8%8B%E4%B8%8D%E5%87%BA%20GitHub.md) |
 | 2026-08-14 | [马斯克至少 6 次点赞中国电力](daily-report/2026-08-14%20%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%B3%E5%B0%91%206%20%E6%AC%A1%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%9B.md) |
 | 2026-08-13 | [NVIDIA CEO 登顶 Glassdoor 2026 最佳 CEO 榜](daily-report/2026-08-13%20NVIDIA%20CEO%20%E7%99%BB%E9%A1%B6%20Glassdoor%202026%20%E6%9C%80%E4%BD%B3%20CEO%20%E6%A6%9C.md) |
 | 2026-08-12 | [谷歌创始人布林紧急接管 Gemini 团队，3.5 Pro 已取消](daily-report/2026-08-12%20%E8%B0%B7%E6%AD%8C%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B8%83%E6%9E%97%E7%B4%A7%E6%80%A5%E6%8E%A5%E7%AE%A1%20Gemini%20%E5%9B%A2%E9%98%9F%EF%BC%8C3.5%20Pro%20%E5%B7%B2%E5%8F%96%E6%B6%88.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-08 | [5 位创作者如何用 Gemini Omni 把视频创作变成对话](daily-report/2026-08-08%205%20%E4%BD%8D%E5%88%9B%E4%BD%9C%E8%80%85%E5%A6%82%E4%BD%95%E7%94%A8%20Gemini%20Omni%20%E6%8A%8A%E8%A7%86%E9%A2%91%E5%88%9B%E4%BD%9C%E5%8F%98%E6%88%90%E5%AF%B9%E8%AF%9D.md) |
 | 2026-08-07 | [马斯克全面押注英伟达：SpaceX 芯片战略的信号意义](daily-report/2026-08-07%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9ASpaceX%20%E8%8A%AF%E7%89%87%E6%88%98%E7%95%A5%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%84%8F%E4%B9%89.md) |
 | 2026-08-06 | [NVIDIA 携手合作伙伴：在美国、为美国建设](daily-report/2026-08-06%20NVIDIA%20%E6%90%BA%E6%89%8B%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%EF%BC%9A%E5%9C%A8%E7%BE%8E%E5%9B%BD%E3%80%81%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%BB%BA%E8%AE%BE.md) |
-| 2026-08-05 | [OpenAI 说明第三方网络安全评估事件，推出新防护措施](daily-report/2026-08-05%20OpenAI%20%E8%AF%B4%E6%98%8E%E7%AC%AC%E4%B8%89%E6%96%B9%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E8%AF%84%E4%BC%B0%E4%BA%8B%E4%BB%B6%EF%BC%8C%E6%8E%A8%E5%87%BA%E6%96%B0%E9%98%B2%E6%8A%A4%E6%8E%AA%E6%96%BD.md) |
 
 ## ⭐ GitHub 精选  （共 41 篇）
 
