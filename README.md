@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-07 | [马斯克全面押注英伟达：SpaceX 芯片战略的信号意义](daily-report/2026-08-07%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9ASpaceX%20%E8%8A%AF%E7%89%87%E6%88%98%E7%95%A5%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%84%8F%E4%B9%89.md) |
 | 2026-08-06 | [NVIDIA 携手合作伙伴：在美国、为美国建设](daily-report/2026-08-06%20NVIDIA%20%E6%90%BA%E6%89%8B%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%EF%BC%9A%E5%9C%A8%E7%BE%8E%E5%9B%BD%E3%80%81%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%BB%BA%E8%AE%BE.md) |
 
-## ⭐ GitHub 精选  （共 41 篇）
+## ⭐ GitHub 精选  （共 42 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-15 | [diagram-design · needle · holehe · macro · spiderfoot](github-trending/2026-08-15%20diagram-design%20%C2%B7%20needle%20%C2%B7%20holehe%20%C2%B7%20macro%20%C2%B7%20spiderfoot.md) |
 | 2026-08-14 | [diagram-design · semantica · skills · needle · FluidVoice](github-trending/2026-08-14%20diagram-design%20%C2%B7%20semantica%20%C2%B7%20skills%20%C2%B7%20needle%20%C2%B7%20FluidVoice.md) |
 | 2026-08-13 | [diagram-design · macro · semantica · orca · agency-agents](github-trending/2026-08-13%20diagram-design%20%C2%B7%20macro%20%C2%B7%20semantica%20%C2%B7%20orca%20%C2%B7%20agency-agents.md) |
 | 2026-08-12 | [agency-agents · semantica · nvm · agent-skills](github-trending/2026-08-12%20agency-agents%20%C2%B7%20semantica%20%C2%B7%20nvm%20%C2%B7%20agent-skills.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-08 | [prime-agent · agent-skills · computer · skills · superpowers](github-trending/2026-08-08%20prime-agent%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills%20%C2%B7%20superpowers.md) |
 | 2026-08-07 | [TencentDB-Agent-Memory · agent-skills · computer · skills](github-trending/2026-08-07%20TencentDB-Agent-Memory%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills.md) |
 | 2026-08-06 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-06%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
-| 2026-08-05 | [computer · loopx · TencentDB-Agent-Memory](github-trending/2026-08-05%20computer%20%C2%B7%20loopx%20%C2%B7%20TencentDB-Agent-Memory.md) |
 
 ## 🐧 Linux 社区动态  （共 5 篇）
 
