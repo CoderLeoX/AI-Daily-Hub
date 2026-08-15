@@ -2,10 +2,11 @@
 
 AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自动归档仓库。由 Hermes cron 每日生成并推送。
 
-## 🧠 每日深读  （共 25 篇）
+## 🧠 每日深读  （共 26 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-16 | [一张消费级显卡跑「Opus级」Agent：27B推理的成本坍缩与显存博弈](deepdive/2026-08-16%20%E4%B8%80%E5%BC%A0%E6%B6%88%E8%B4%B9%E7%BA%A7%E6%98%BE%E5%8D%A1%E8%B7%91%E3%80%8COpus%E7%BA%A7%E3%80%8DAgent%EF%BC%9A27B%E6%8E%A8%E7%90%86%E7%9A%84%E6%88%90%E6%9C%AC%E5%9D%8D%E7%BC%A9%E4%B8%8E%E6%98%BE%E5%AD%98%E5%8D%9A%E5%BC%88.md) |
 | 2026-08-15 | [Token 半价、性能逼近旗舰：Gemini 3.7 Flash 重画推理成本曲线](deepdive/2026-08-15%20Token%20%E5%8D%8A%E4%BB%B7%E3%80%81%E6%80%A7%E8%83%BD%E9%80%BC%E8%BF%91%E6%97%97%E8%88%B0%EF%BC%9AGemini%203.7%20Flash%20%E9%87%8D%E7%94%BB%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E6%9B%B2%E7%BA%BF.md) |
 | 2026-08-14 | [运行时解耦：AI工作流如何同时保住稳定与迭代速度](deepdive/2026-08-14%20%E8%BF%90%E8%A1%8C%E6%97%B6%E8%A7%A3%E8%80%A6%EF%BC%9AAI%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%A6%82%E4%BD%95%E5%90%8C%E6%97%B6%E4%BF%9D%E4%BD%8F%E7%A8%B3%E5%AE%9A%E4%B8%8E%E8%BF%AD%E4%BB%A3%E9%80%9F%E5%BA%A6.md) |
 | 2026-08-13 | [5000 亿美元算力基金进场：AI 工厂正变成可融资资产](deepdive/2026-08-13%205000%20%E4%BA%BF%E7%BE%8E%E5%85%83%E7%AE%97%E5%8A%9B%E5%9F%BA%E9%87%91%E8%BF%9B%E5%9C%BA%EF%BC%9AAI%20%E5%B7%A5%E5%8E%82%E6%AD%A3%E5%8F%98%E6%88%90%E5%8F%AF%E8%9E%8D%E8%B5%84%E8%B5%84%E4%BA%A7.md) |
@@ -15,7 +16,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-09 | [对话日志之外，把 Agent 运行变成可 fork 的状态](deepdive/2026-08-09%20%E5%AF%B9%E8%AF%9D%E6%97%A5%E5%BF%97%E4%B9%8B%E5%A4%96%EF%BC%8C%E6%8A%8A%20Agent%20%E8%BF%90%E8%A1%8C%E5%8F%98%E6%88%90%E5%8F%AF%20fork%20%E7%9A%84%E7%8A%B6%E6%80%81.md) |
 | 2026-08-07 | [车内跑得动前沿模型吗？开源Robotaxi模型背后的端侧权衡](deepdive/2026-08-07%20%E8%BD%A6%E5%86%85%E8%B7%91%E5%BE%97%E5%8A%A8%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8B%E5%90%97%EF%BC%9F%E5%BC%80%E6%BA%90Robotaxi%E6%A8%A1%E5%9E%8B%E8%83%8C%E5%90%8E%E7%9A%84%E7%AB%AF%E4%BE%A7%E6%9D%83%E8%A1%A1.md) |
 | 2026-08-06 | [Robotaxi 大模型开放商用 车端算力受限，长尾安全靠闭环仿真](deepdive/2026-08-06%20Robotaxi%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BC%80%E6%94%BE%E5%95%86%E7%94%A8%20%E8%BD%A6%E7%AB%AF%E7%AE%97%E5%8A%9B%E5%8F%97%E9%99%90%EF%BC%8C%E9%95%BF%E5%B0%BE%E5%AE%89%E5%85%A8%E9%9D%A0%E9%97%AD%E7%8E%AF%E4%BB%BF%E7%9C%9F.md) |
-| 2026-07-25 | [4-bit扩散推理落地：Nunchaku如何用权重共享突破INT4量化瓶颈](deepdive/2026-07-25%204-bit%E6%89%A9%E6%95%A3%E6%8E%A8%E7%90%86%E8%90%BD%E5%9C%B0%EF%BC%9ANunchaku%E5%A6%82%E4%BD%95%E7%94%A8%E6%9D%83%E9%87%8D%E5%85%B1%E4%BA%AB%E7%AA%81%E7%A0%B4INT4%E9%87%8F%E5%8C%96%E7%93%B6%E9%A2%88.md) |
 
 ## 📰 AI 前沿日报  （共 44 篇）
 
