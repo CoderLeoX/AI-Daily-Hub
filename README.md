@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-09 | [xAI 的 Imagine Image 2.0 在 Arena 基准测试中紧追 OpenAI GPT-Image-2](daily-report/2026-08-09%20xAI%20%E7%9A%84%20Imagine%20Image%202.0%20%E5%9C%A8%20Arena%20%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%B4%A7%E8%BF%BD%20OpenAI%20GPT-Image-2.md) |
 | 2026-08-08 | [5 位创作者如何用 Gemini Omni 把视频创作变成对话](daily-report/2026-08-08%205%20%E4%BD%8D%E5%88%9B%E4%BD%9C%E8%80%85%E5%A6%82%E4%BD%95%E7%94%A8%20Gemini%20Omni%20%E6%8A%8A%E8%A7%86%E9%A2%91%E5%88%9B%E4%BD%9C%E5%8F%98%E6%88%90%E5%AF%B9%E8%AF%9D.md) |
 
-## ⭐ GitHub 精选  （共 43 篇）
+## ⭐ GitHub 精选  （共 44 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-17 | [cordis · omarchy · unsloth · OpenCut · public-apis · ToolJet](github-trending/2026-08-17%20cordis%20%C2%B7%20omarchy%20%C2%B7%20unsloth%20%C2%B7%20OpenCut%20%C2%B7%20public-apis%20%C2%B7%20ToolJet.md) |
 | 2026-08-16 | [cordis · diagram-design · plugins · needle · unsloth](github-trending/2026-08-16%20cordis%20%C2%B7%20diagram-design%20%C2%B7%20plugins%20%C2%B7%20needle%20%C2%B7%20unsloth.md) |
 | 2026-08-15 | [diagram-design · needle · holehe · macro · spiderfoot](github-trending/2026-08-15%20diagram-design%20%C2%B7%20needle%20%C2%B7%20holehe%20%C2%B7%20macro%20%C2%B7%20spiderfoot.md) |
 | 2026-08-14 | [diagram-design · semantica · skills · needle · FluidVoice](github-trending/2026-08-14%20diagram-design%20%C2%B7%20semantica%20%C2%B7%20skills%20%C2%B7%20needle%20%C2%B7%20FluidVoice.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-10 | [prime-agent · code-graph-rag · agency-agents · witr](github-trending/2026-08-10%20prime-agent%20%C2%B7%20code-graph-rag%20%C2%B7%20agency-agents%20%C2%B7%20witr.md) |
 | 2026-08-09 | [prime-agent · code-graph-rag · agency-agents · witr](github-trending/2026-08-09%20prime-agent%20%C2%B7%20code-graph-rag%20%C2%B7%20agency-agents%20%C2%B7%20witr.md) |
 | 2026-08-08 | [prime-agent · agent-skills · computer · skills · superpowers](github-trending/2026-08-08%20prime-agent%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills%20%C2%B7%20superpowers.md) |
-| 2026-08-07 | [TencentDB-Agent-Memory · agent-skills · computer · skills](github-trending/2026-08-07%20TencentDB-Agent-Memory%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills.md) |
 
 ## 🐧 Linux 社区动态  （共 7 篇）
 
