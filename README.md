@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-07 | [车内跑得动前沿模型吗？开源Robotaxi模型背后的端侧权衡](deepdive/2026-08-07%20%E8%BD%A6%E5%86%85%E8%B7%91%E5%BE%97%E5%8A%A8%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8B%E5%90%97%EF%BC%9F%E5%BC%80%E6%BA%90Robotaxi%E6%A8%A1%E5%9E%8B%E8%83%8C%E5%90%8E%E7%9A%84%E7%AB%AF%E4%BE%A7%E6%9D%83%E8%A1%A1.md) |
 | 2026-08-06 | [Robotaxi 大模型开放商用 车端算力受限，长尾安全靠闭环仿真](deepdive/2026-08-06%20Robotaxi%20%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%BC%80%E6%94%BE%E5%95%86%E7%94%A8%20%E8%BD%A6%E7%AB%AF%E7%AE%97%E5%8A%9B%E5%8F%97%E9%99%90%EF%BC%8C%E9%95%BF%E5%B0%BE%E5%AE%89%E5%85%A8%E9%9D%A0%E9%97%AD%E7%8E%AF%E4%BB%BF%E7%9C%9F.md) |
 
-## 📰 AI 前沿日报  （共 44 篇）
+## 📰 AI 前沿日报  （共 45 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-17 | [英伟达 5000 亿 AI 融资计划暗藏隐忧，特朗普顾问警示“暗 GPU”过剩风险](daily-report/2026-08-17%20%E8%8B%B1%E4%BC%9F%E8%BE%BE%205000%20%E4%BA%BF%20AI%20%E8%9E%8D%E8%B5%84%E8%AE%A1%E5%88%92%E6%9A%97%E8%97%8F%E9%9A%90%E5%BF%A7%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%A1%BE%E9%97%AE%E8%AD%A6%E7%A4%BA%E2%80%9C%E6%9A%97%20GPU%E2%80%9D%E8%BF%87%E5%89%A9%E9%A3%8E%E9%99%A9.md) |
 | 2026-08-16 | [Nvidia 披露 210 亿美元 SpaceX 持股](daily-report/2026-08-16%20Nvidia%20%E6%8A%AB%E9%9C%B2%20210%20%E4%BA%BF%E7%BE%8E%E5%85%83%20SpaceX%20%E6%8C%81%E8%82%A1.md) |
 | 2026-08-15 | [GitHub 四款 Agent 应用：软件交付全流程不出 GitHub](daily-report/2026-08-15%20GitHub%20%E5%9B%9B%E6%AC%BE%20Agent%20%E5%BA%94%E7%94%A8%EF%BC%9A%E8%BD%AF%E4%BB%B6%E4%BA%A4%E4%BB%98%E5%85%A8%E6%B5%81%E7%A8%8B%E4%B8%8D%E5%87%BA%20GitHub.md) |
 | 2026-08-14 | [马斯克至少 6 次点赞中国电力](daily-report/2026-08-14%20%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%B3%E5%B0%91%206%20%E6%AC%A1%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%9B.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-10 | [马斯克将 NVIDIA 定为独家 AI 芯片供应商，Q2 财报须兑现预期](daily-report/2026-08-10%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%20NVIDIA%20%E5%AE%9A%E4%B8%BA%E7%8B%AC%E5%AE%B6%20AI%20%E8%8A%AF%E7%89%87%E4%BE%9B%E5%BA%94%E5%95%86%EF%BC%8CQ2%20%E8%B4%A2%E6%8A%A5%E9%A1%BB%E5%85%91%E7%8E%B0%E9%A2%84%E6%9C%9F.md) |
 | 2026-08-09 | [xAI 的 Imagine Image 2.0 在 Arena 基准测试中紧追 OpenAI GPT-Image-2](daily-report/2026-08-09%20xAI%20%E7%9A%84%20Imagine%20Image%202.0%20%E5%9C%A8%20Arena%20%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%B4%A7%E8%BF%BD%20OpenAI%20GPT-Image-2.md) |
 | 2026-08-08 | [5 位创作者如何用 Gemini Omni 把视频创作变成对话](daily-report/2026-08-08%205%20%E4%BD%8D%E5%88%9B%E4%BD%9C%E8%80%85%E5%A6%82%E4%BD%95%E7%94%A8%20Gemini%20Omni%20%E6%8A%8A%E8%A7%86%E9%A2%91%E5%88%9B%E4%BD%9C%E5%8F%98%E6%88%90%E5%AF%B9%E8%AF%9D.md) |
-| 2026-08-07 | [马斯克全面押注英伟达：SpaceX 芯片战略的信号意义](daily-report/2026-08-07%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9ASpaceX%20%E8%8A%AF%E7%89%87%E6%88%98%E7%95%A5%E7%9A%84%E4%BF%A1%E5%8F%B7%E6%84%8F%E4%B9%89.md) |
 
 ## ⭐ GitHub 精选  （共 43 篇）
 
