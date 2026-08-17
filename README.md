@@ -2,10 +2,11 @@
 
 AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自动归档仓库。由 Hermes cron 每日生成并推送。
 
-## 🧠 每日深读  （共 27 篇）
+## 🧠 每日深读  （共 28 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-18 | [云端调度还是本地自治 Codex 与 Claude Code 背后的 Agent 范式之争](deepdive/2026-08-18%20%E4%BA%91%E7%AB%AF%E8%B0%83%E5%BA%A6%E8%BF%98%E6%98%AF%E6%9C%AC%E5%9C%B0%E8%87%AA%E6%B2%BB%20Codex%20%E4%B8%8E%20Claude%20Code%20%E8%83%8C%E5%90%8E%E7%9A%84%20Agent%20%E8%8C%83%E5%BC%8F%E4%B9%8B%E4%BA%89.md) |
 | 2026-08-17 | [流水线即 Agent：GitHub 四个 Agent 应用如何重画 SDLC 交付边界](deepdive/2026-08-17%20%E6%B5%81%E6%B0%B4%E7%BA%BF%E5%8D%B3%20Agent%EF%BC%9AGitHub%20%E5%9B%9B%E4%B8%AA%20Agent%20%E5%BA%94%E7%94%A8%E5%A6%82%E4%BD%95%E9%87%8D%E7%94%BB%20SDLC%20%E4%BA%A4%E4%BB%98%E8%BE%B9%E7%95%8C.md) |
 | 2026-08-16 | [一张消费级显卡跑「Opus级」Agent：27B推理的成本坍缩与显存博弈](deepdive/2026-08-16%20%E4%B8%80%E5%BC%A0%E6%B6%88%E8%B4%B9%E7%BA%A7%E6%98%BE%E5%8D%A1%E8%B7%91%E3%80%8COpus%E7%BA%A7%E3%80%8DAgent%EF%BC%9A27B%E6%8E%A8%E7%90%86%E7%9A%84%E6%88%90%E6%9C%AC%E5%9D%8D%E7%BC%A9%E4%B8%8E%E6%98%BE%E5%AD%98%E5%8D%9A%E5%BC%88.md) |
 | 2026-08-15 | [Token 半价、性能逼近旗舰：Gemini 3.7 Flash 重画推理成本曲线](deepdive/2026-08-15%20Token%20%E5%8D%8A%E4%BB%B7%E3%80%81%E6%80%A7%E8%83%BD%E9%80%BC%E8%BF%91%E6%97%97%E8%88%B0%EF%BC%9AGemini%203.7%20Flash%20%E9%87%8D%E7%94%BB%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E6%9B%B2%E7%BA%BF.md) |
@@ -15,7 +16,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-11 | [30B 装进 24GB 显存、投机解码快 3.1 倍 单卡跑智能体模型的代价与权衡](deepdive/2026-08-11%2030B%20%E8%A3%85%E8%BF%9B%2024GB%20%E6%98%BE%E5%AD%98%E3%80%81%E6%8A%95%E6%9C%BA%E8%A7%A3%E7%A0%81%E5%BF%AB%203.1%20%E5%80%8D%20%E5%8D%95%E5%8D%A1%E8%B7%91%E6%99%BA%E8%83%BD%E4%BD%93%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BB%A3%E4%BB%B7%E4%B8%8E%E6%9D%83%E8%A1%A1.md) |
 | 2026-08-10 | [免费无限对话，OpenAI的推理成本账是怎么算平的？](deepdive/2026-08-10%20%E5%85%8D%E8%B4%B9%E6%97%A0%E9%99%90%E5%AF%B9%E8%AF%9D%EF%BC%8COpenAI%E7%9A%84%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E8%B4%A6%E6%98%AF%E6%80%8E%E4%B9%88%E7%AE%97%E5%B9%B3%E7%9A%84%EF%BC%9F.md) |
 | 2026-08-09 | [对话日志之外，把 Agent 运行变成可 fork 的状态](deepdive/2026-08-09%20%E5%AF%B9%E8%AF%9D%E6%97%A5%E5%BF%97%E4%B9%8B%E5%A4%96%EF%BC%8C%E6%8A%8A%20Agent%20%E8%BF%90%E8%A1%8C%E5%8F%98%E6%88%90%E5%8F%AF%20fork%20%E7%9A%84%E7%8A%B6%E6%80%81.md) |
-| 2026-08-07 | [车内跑得动前沿模型吗？开源Robotaxi模型背后的端侧权衡](deepdive/2026-08-07%20%E8%BD%A6%E5%86%85%E8%B7%91%E5%BE%97%E5%8A%A8%E5%89%8D%E6%B2%BF%E6%A8%A1%E5%9E%8B%E5%90%97%EF%BC%9F%E5%BC%80%E6%BA%90Robotaxi%E6%A8%A1%E5%9E%8B%E8%83%8C%E5%90%8E%E7%9A%84%E7%AB%AF%E4%BE%A7%E6%9D%83%E8%A1%A1.md) |
 
 ## 📰 AI 前沿日报  （共 46 篇）
 
