@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-10 | [马斯克将 NVIDIA 定为独家 AI 芯片供应商，Q2 财报须兑现预期](daily-report/2026-08-10%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%20NVIDIA%20%E5%AE%9A%E4%B8%BA%E7%8B%AC%E5%AE%B6%20AI%20%E8%8A%AF%E7%89%87%E4%BE%9B%E5%BA%94%E5%95%86%EF%BC%8CQ2%20%E8%B4%A2%E6%8A%A5%E9%A1%BB%E5%85%91%E7%8E%B0%E9%A2%84%E6%9C%9F.md) |
 | 2026-08-09 | [xAI 的 Imagine Image 2.0 在 Arena 基准测试中紧追 OpenAI GPT-Image-2](daily-report/2026-08-09%20xAI%20%E7%9A%84%20Imagine%20Image%202.0%20%E5%9C%A8%20Arena%20%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%E4%B8%AD%E7%B4%A7%E8%BF%BD%20OpenAI%20GPT-Image-2.md) |
 
-## ⭐ GitHub 精选  （共 44 篇）
+## ⭐ GitHub 精选  （共 45 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-18 | [MoneyPrinterTurbo · strix · nautilus_trader · ai-memory](github-trending/2026-08-18%20MoneyPrinterTurbo%20%C2%B7%20strix%20%C2%B7%20nautilus_trader%20%C2%B7%20ai-memory.md) |
 | 2026-08-17 | [cordis · omarchy · unsloth · OpenCut · public-apis · ToolJet](github-trending/2026-08-17%20cordis%20%C2%B7%20omarchy%20%C2%B7%20unsloth%20%C2%B7%20OpenCut%20%C2%B7%20public-apis%20%C2%B7%20ToolJet.md) |
 | 2026-08-16 | [cordis · diagram-design · plugins · needle · unsloth](github-trending/2026-08-16%20cordis%20%C2%B7%20diagram-design%20%C2%B7%20plugins%20%C2%B7%20needle%20%C2%B7%20unsloth.md) |
 | 2026-08-15 | [diagram-design · needle · holehe · macro · spiderfoot](github-trending/2026-08-15%20diagram-design%20%C2%B7%20needle%20%C2%B7%20holehe%20%C2%B7%20macro%20%C2%B7%20spiderfoot.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-11 | [semantica · agency-agents · MediaCrawler · agent-skills](github-trending/2026-08-11%20semantica%20%C2%B7%20agency-agents%20%C2%B7%20MediaCrawler%20%C2%B7%20agent-skills.md) |
 | 2026-08-10 | [prime-agent · code-graph-rag · agency-agents · witr](github-trending/2026-08-10%20prime-agent%20%C2%B7%20code-graph-rag%20%C2%B7%20agency-agents%20%C2%B7%20witr.md) |
 | 2026-08-09 | [prime-agent · code-graph-rag · agency-agents · witr](github-trending/2026-08-09%20prime-agent%20%C2%B7%20code-graph-rag%20%C2%B7%20agency-agents%20%C2%B7%20witr.md) |
-| 2026-08-08 | [prime-agent · agent-skills · computer · skills · superpowers](github-trending/2026-08-08%20prime-agent%20%C2%B7%20agent-skills%20%C2%B7%20computer%20%C2%B7%20skills%20%C2%B7%20superpowers.md) |
 
 ## 🐧 Linux 社区动态  （共 8 篇）
 
