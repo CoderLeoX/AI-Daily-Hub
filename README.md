@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-11 | [semantica · agency-agents · MediaCrawler · agent-skills](github-trending/2026-08-11%20semantica%20%C2%B7%20agency-agents%20%C2%B7%20MediaCrawler%20%C2%B7%20agent-skills.md) |
 | 2026-08-10 | [prime-agent · code-graph-rag · agency-agents · witr](github-trending/2026-08-10%20prime-agent%20%C2%B7%20code-graph-rag%20%C2%B7%20agency-agents%20%C2%B7%20witr.md) |
 
-## 🐧 Linux 社区动态  （共 9 篇）
+## 🐧 Linux 社区动态  （共 10 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-19 | [USN-8630-3：Linux 内核（Oracle）漏洞](linux-community/2026-08-19%20USN-8630-3%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%EF%BC%88Oracle%EF%BC%89%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-18 | [USN-8640-1：Engrampa 符号链接漏洞](linux-community/2026-08-18%20USN-8640-1%EF%BC%9AEngrampa%20%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-17 | [DSA-6444-1 neutron - security update](linux-community/2026-08-17%20DSA-6444-1%20neutron%20-%20security%20update.md) |
 | 2026-08-16 | [Linux社区动态](linux-community/2026-08-16%20Linux%E7%A4%BE%E5%8C%BA%E5%8A%A8%E6%80%81.md) |
