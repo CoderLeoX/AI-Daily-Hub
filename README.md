@@ -2,10 +2,11 @@
 
 AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自动归档仓库。由 Hermes cron 每日生成并推送。
 
-## 🧠 每日深读  （共 30 篇）
+## 🧠 每日深读  （共 31 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-21 | [OpenAI 的控制面收敛与关键人风险](deepdive/2026-08-21%20OpenAI%20%E7%9A%84%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%94%B6%E6%95%9B%E4%B8%8E%E5%85%B3%E9%94%AE%E4%BA%BA%E9%A3%8E%E9%99%A9.md) |
 | 2026-08-20 | [从模型逃逸到自愿刹车 Agent 安全闸门不能只靠自律](deepdive/2026-08-20%20%E4%BB%8E%E6%A8%A1%E5%9E%8B%E9%80%83%E9%80%B8%E5%88%B0%E8%87%AA%E6%84%BF%E5%88%B9%E8%BD%A6%20Agent%20%E5%AE%89%E5%85%A8%E9%97%B8%E9%97%A8%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E8%87%AA%E5%BE%8B.md) |
 | 2026-08-19 | [AI 逃出沙箱误击 Hugging Face Agent 工具调用的信任边界](deepdive/2026-08-19%20AI%20%E9%80%83%E5%87%BA%E6%B2%99%E7%AE%B1%E8%AF%AF%E5%87%BB%20Hugging%20Face%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E7%9A%84%E4%BF%A1%E4%BB%BB%E8%BE%B9%E7%95%8C.md) |
 | 2026-08-18 | [云端调度还是本地自治 Codex 与 Claude Code 背后的 Agent 范式之争](deepdive/2026-08-18%20%E4%BA%91%E7%AB%AF%E8%B0%83%E5%BA%A6%E8%BF%98%E6%98%AF%E6%9C%AC%E5%9C%B0%E8%87%AA%E6%B2%BB%20Codex%20%E4%B8%8E%20Claude%20Code%20%E8%83%8C%E5%90%8E%E7%9A%84%20Agent%20%E8%8C%83%E5%BC%8F%E4%B9%8B%E4%BA%89.md) |
@@ -15,7 +16,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-14 | [运行时解耦：AI工作流如何同时保住稳定与迭代速度](deepdive/2026-08-14%20%E8%BF%90%E8%A1%8C%E6%97%B6%E8%A7%A3%E8%80%A6%EF%BC%9AAI%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%A6%82%E4%BD%95%E5%90%8C%E6%97%B6%E4%BF%9D%E4%BD%8F%E7%A8%B3%E5%AE%9A%E4%B8%8E%E8%BF%AD%E4%BB%A3%E9%80%9F%E5%BA%A6.md) |
 | 2026-08-13 | [5000 亿美元算力基金进场：AI 工厂正变成可融资资产](deepdive/2026-08-13%205000%20%E4%BA%BF%E7%BE%8E%E5%85%83%E7%AE%97%E5%8A%9B%E5%9F%BA%E9%87%91%E8%BF%9B%E5%9C%BA%EF%BC%9AAI%20%E5%B7%A5%E5%8E%82%E6%AD%A3%E5%8F%98%E6%88%90%E5%8F%AF%E8%9E%8D%E8%B5%84%E8%B5%84%E4%BA%A7.md) |
 | 2026-08-12 | [路由下沉、快慢分层 Lightning + Switchyard 重构 Agent 推理](deepdive/2026-08-12%20%E8%B7%AF%E7%94%B1%E4%B8%8B%E6%B2%89%E3%80%81%E5%BF%AB%E6%85%A2%E5%88%86%E5%B1%82%20Lightning%20%2B%20Switchyard%20%E9%87%8D%E6%9E%84%20Agent%20%E6%8E%A8%E7%90%86.md) |
-| 2026-08-11 | [30B 装进 24GB 显存、投机解码快 3.1 倍 单卡跑智能体模型的代价与权衡](deepdive/2026-08-11%2030B%20%E8%A3%85%E8%BF%9B%2024GB%20%E6%98%BE%E5%AD%98%E3%80%81%E6%8A%95%E6%9C%BA%E8%A7%A3%E7%A0%81%E5%BF%AB%203.1%20%E5%80%8D%20%E5%8D%95%E5%8D%A1%E8%B7%91%E6%99%BA%E8%83%BD%E4%BD%93%E6%A8%A1%E5%9E%8B%E7%9A%84%E4%BB%A3%E4%BB%B7%E4%B8%8E%E6%9D%83%E8%A1%A1.md) |
 
 ## 📰 AI 前沿日报  （共 49 篇）
 
