@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-13 | [NVIDIA CEO 登顶 Glassdoor 2026 最佳 CEO 榜](daily-report/2026-08-13%20NVIDIA%20CEO%20%E7%99%BB%E9%A1%B6%20Glassdoor%202026%20%E6%9C%80%E4%BD%B3%20CEO%20%E6%A6%9C.md) |
 | 2026-08-12 | [谷歌创始人布林紧急接管 Gemini 团队，3.5 Pro 已取消](daily-report/2026-08-12%20%E8%B0%B7%E6%AD%8C%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B8%83%E6%9E%97%E7%B4%A7%E6%80%A5%E6%8E%A5%E7%AE%A1%20Gemini%20%E5%9B%A2%E9%98%9F%EF%BC%8C3.5%20Pro%20%E5%B7%B2%E5%8F%96%E6%B6%88.md) |
 
-## ⭐ GitHub 精选  （共 47 篇）
+## ⭐ GitHub 精选  （共 48 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-21 | [modular · skills · OpenLogi · superpowers · plugins](github-trending/2026-08-21%20modular%20%C2%B7%20skills%20%C2%B7%20OpenLogi%20%C2%B7%20superpowers%20%C2%B7%20plugins.md) |
 | 2026-08-20 | [MoneyPrinterTurbo · OpenViking · munder-difflin](github-trending/2026-08-20%20MoneyPrinterTurbo%20%C2%B7%20OpenViking%20%C2%B7%20munder-difflin.md) |
 | 2026-08-19 | [MoneyPrinterTurbo · munder-difflin · ai-memory · OpenViking](github-trending/2026-08-19%20MoneyPrinterTurbo%20%C2%B7%20munder-difflin%20%C2%B7%20ai-memory%20%C2%B7%20OpenViking.md) |
 | 2026-08-18 | [MoneyPrinterTurbo · strix · nautilus_trader · ai-memory](github-trending/2026-08-18%20MoneyPrinterTurbo%20%C2%B7%20strix%20%C2%B7%20nautilus_trader%20%C2%B7%20ai-memory.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-14 | [diagram-design · semantica · skills · needle · FluidVoice](github-trending/2026-08-14%20diagram-design%20%C2%B7%20semantica%20%C2%B7%20skills%20%C2%B7%20needle%20%C2%B7%20FluidVoice.md) |
 | 2026-08-13 | [diagram-design · macro · semantica · orca · agency-agents](github-trending/2026-08-13%20diagram-design%20%C2%B7%20macro%20%C2%B7%20semantica%20%C2%B7%20orca%20%C2%B7%20agency-agents.md) |
 | 2026-08-12 | [agency-agents · semantica · nvm · agent-skills](github-trending/2026-08-12%20agency-agents%20%C2%B7%20semantica%20%C2%B7%20nvm%20%C2%B7%20agent-skills.md) |
-| 2026-08-11 | [semantica · agency-agents · MediaCrawler · agent-skills](github-trending/2026-08-11%20semantica%20%C2%B7%20agency-agents%20%C2%B7%20MediaCrawler%20%C2%B7%20agent-skills.md) |
 
 ## 🐧 Linux 社区动态  （共 11 篇）
 
