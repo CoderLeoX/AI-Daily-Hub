@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-14 | [马斯克至少 6 次点赞中国电力](daily-report/2026-08-14%20%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%B3%E5%B0%91%206%20%E6%AC%A1%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%9B.md) |
 | 2026-08-13 | [NVIDIA CEO 登顶 Glassdoor 2026 最佳 CEO 榜](daily-report/2026-08-13%20NVIDIA%20CEO%20%E7%99%BB%E9%A1%B6%20Glassdoor%202026%20%E6%9C%80%E4%BD%B3%20CEO%20%E6%A6%9C.md) |
 
-## ⭐ GitHub 精选  （共 48 篇）
+## ⭐ GitHub 精选  （共 49 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-22 | [skills · google-timeline-visualizer · MoneyPrinterTurbo](github-trending/2026-08-22%20skills%20%C2%B7%20google-timeline-visualizer%20%C2%B7%20MoneyPrinterTurbo.md) |
 | 2026-08-21 | [modular · skills · OpenLogi · superpowers · plugins](github-trending/2026-08-21%20modular%20%C2%B7%20skills%20%C2%B7%20OpenLogi%20%C2%B7%20superpowers%20%C2%B7%20plugins.md) |
 | 2026-08-20 | [MoneyPrinterTurbo · OpenViking · munder-difflin](github-trending/2026-08-20%20MoneyPrinterTurbo%20%C2%B7%20OpenViking%20%C2%B7%20munder-difflin.md) |
 | 2026-08-19 | [MoneyPrinterTurbo · munder-difflin · ai-memory · OpenViking](github-trending/2026-08-19%20MoneyPrinterTurbo%20%C2%B7%20munder-difflin%20%C2%B7%20ai-memory%20%C2%B7%20OpenViking.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-15 | [diagram-design · needle · holehe · macro · spiderfoot](github-trending/2026-08-15%20diagram-design%20%C2%B7%20needle%20%C2%B7%20holehe%20%C2%B7%20macro%20%C2%B7%20spiderfoot.md) |
 | 2026-08-14 | [diagram-design · semantica · skills · needle · FluidVoice](github-trending/2026-08-14%20diagram-design%20%C2%B7%20semantica%20%C2%B7%20skills%20%C2%B7%20needle%20%C2%B7%20FluidVoice.md) |
 | 2026-08-13 | [diagram-design · macro · semantica · orca · agency-agents](github-trending/2026-08-13%20diagram-design%20%C2%B7%20macro%20%C2%B7%20semantica%20%C2%B7%20orca%20%C2%B7%20agency-agents.md) |
-| 2026-08-12 | [agency-agents · semantica · nvm · agent-skills](github-trending/2026-08-12%20agency-agents%20%C2%B7%20semantica%20%C2%B7%20nvm%20%C2%B7%20agent-skills.md) |
 
 ## 🐧 Linux 社区动态  （共 12 篇）
 
