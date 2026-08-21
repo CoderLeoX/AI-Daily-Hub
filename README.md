@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-13 | [5000 亿美元算力基金进场：AI 工厂正变成可融资资产](deepdive/2026-08-13%205000%20%E4%BA%BF%E7%BE%8E%E5%85%83%E7%AE%97%E5%8A%9B%E5%9F%BA%E9%87%91%E8%BF%9B%E5%9C%BA%EF%BC%9AAI%20%E5%B7%A5%E5%8E%82%E6%AD%A3%E5%8F%98%E6%88%90%E5%8F%AF%E8%9E%8D%E8%B5%84%E8%B5%84%E4%BA%A7.md) |
 | 2026-08-12 | [路由下沉、快慢分层 Lightning + Switchyard 重构 Agent 推理](deepdive/2026-08-12%20%E8%B7%AF%E7%94%B1%E4%B8%8B%E6%B2%89%E3%80%81%E5%BF%AB%E6%85%A2%E5%88%86%E5%B1%82%20Lightning%20%2B%20Switchyard%20%E9%87%8D%E6%9E%84%20Agent%20%E6%8E%A8%E7%90%86.md) |
 
-## 📰 AI 前沿日报  （共 49 篇）
+## 📰 AI 前沿日报  （共 50 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-22 | [谁来审判 OpenAI？](daily-report/2026-08-22%20%E8%B0%81%E6%9D%A5%E5%AE%A1%E5%88%A4%20OpenAI%EF%BC%9F.md) |
 | 2026-08-21 | [现在是 Greg Brockman 的 OpenAI](daily-report/2026-08-21%20%E7%8E%B0%E5%9C%A8%E6%98%AF%20Greg%20Brockman%20%E7%9A%84%20OpenAI.md) |
 | 2026-08-20 | [OpenAI 踩下刹车，然后呢？](daily-report/2026-08-20%20OpenAI%20%E8%B8%A9%E4%B8%8B%E5%88%B9%E8%BD%A6%EF%BC%8C%E7%84%B6%E5%90%8E%E5%91%A2%EF%BC%9F.md) |
 | 2026-08-19 | [前 SpaceX 工程师创业，用 AI 与机器人打造钢铁零件自动化工厂](daily-report/2026-08-19%20%E5%89%8D%20SpaceX%20%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%88%9B%E4%B8%9A%EF%BC%8C%E7%94%A8%20AI%20%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E9%80%A0%E9%92%A2%E9%93%81%E9%9B%B6%E4%BB%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%8E%82.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-15 | [GitHub 四款 Agent 应用：软件交付全流程不出 GitHub](daily-report/2026-08-15%20GitHub%20%E5%9B%9B%E6%AC%BE%20Agent%20%E5%BA%94%E7%94%A8%EF%BC%9A%E8%BD%AF%E4%BB%B6%E4%BA%A4%E4%BB%98%E5%85%A8%E6%B5%81%E7%A8%8B%E4%B8%8D%E5%87%BA%20GitHub.md) |
 | 2026-08-14 | [马斯克至少 6 次点赞中国电力](daily-report/2026-08-14%20%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%B3%E5%B0%91%206%20%E6%AC%A1%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%9B.md) |
 | 2026-08-13 | [NVIDIA CEO 登顶 Glassdoor 2026 最佳 CEO 榜](daily-report/2026-08-13%20NVIDIA%20CEO%20%E7%99%BB%E9%A1%B6%20Glassdoor%202026%20%E6%9C%80%E4%BD%B3%20CEO%20%E6%A6%9C.md) |
-| 2026-08-12 | [谷歌创始人布林紧急接管 Gemini 团队，3.5 Pro 已取消](daily-report/2026-08-12%20%E8%B0%B7%E6%AD%8C%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B8%83%E6%9E%97%E7%B4%A7%E6%80%A5%E6%8E%A5%E7%AE%A1%20Gemini%20%E5%9B%A2%E9%98%9F%EF%BC%8C3.5%20Pro%20%E5%B7%B2%E5%8F%96%E6%B6%88.md) |
 
 ## ⭐ GitHub 精选  （共 48 篇）
 
