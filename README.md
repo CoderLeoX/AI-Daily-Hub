@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-14 | [diagram-design · semantica · skills · needle · FluidVoice](github-trending/2026-08-14%20diagram-design%20%C2%B7%20semantica%20%C2%B7%20skills%20%C2%B7%20needle%20%C2%B7%20FluidVoice.md) |
 | 2026-08-13 | [diagram-design · macro · semantica · orca · agency-agents](github-trending/2026-08-13%20diagram-design%20%C2%B7%20macro%20%C2%B7%20semantica%20%C2%B7%20orca%20%C2%B7%20agency-agents.md) |
 
-## 🐧 Linux 社区动态  （共 12 篇）
+## 🐧 Linux 社区动态  （共 13 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-22 | [USN-8658-2：Linux 内核 (IBM) 多个漏洞](linux-community/2026-08-22%20USN-8658-2%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%20%28IBM%29%20%E5%A4%9A%E4%B8%AA%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-21 | [USN-8643-2：Linux 内核漏洞](linux-community/2026-08-21%20USN-8643-2%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-20 | [USN-8563-4 nginx 回归](linux-community/2026-08-20%20USN-8563-4%20nginx%20%E5%9B%9E%E5%BD%92.md) |
 | 2026-08-19 | [USN-8630-3：Linux 内核（Oracle）漏洞](linux-community/2026-08-19%20USN-8630-3%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%EF%BC%88Oracle%EF%BC%89%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-15 | [DSA-6442-1 util-linux 安全更新](linux-community/2026-08-15%20DSA-6442-1%20util-linux%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-08-14 | [USN-8631-3：Linux 内核（NVIDIA Tegra IGX）漏洞](linux-community/2026-08-14%20USN-8631-3%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%EF%BC%88NVIDIA%20Tegra%20IGX%EF%BC%89%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-13 | [USN-8636-1：Linux 内核安全漏洞](linux-community/2026-08-13%20USN-8636-1%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E.md) |
-| 2026-08-12 | [USN-8627-1：Yelp 漏洞](linux-community/2026-08-12%20USN-8627-1%EF%BC%9AYelp%20%E6%BC%8F%E6%B4%9E.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
