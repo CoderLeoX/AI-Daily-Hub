@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-14 | [运行时解耦：AI工作流如何同时保住稳定与迭代速度](deepdive/2026-08-14%20%E8%BF%90%E8%A1%8C%E6%97%B6%E8%A7%A3%E8%80%A6%EF%BC%9AAI%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%A6%82%E4%BD%95%E5%90%8C%E6%97%B6%E4%BF%9D%E4%BD%8F%E7%A8%B3%E5%AE%9A%E4%B8%8E%E8%BF%AD%E4%BB%A3%E9%80%9F%E5%BA%A6.md) |
 | 2026-08-13 | [5000 亿美元算力基金进场：AI 工厂正变成可融资资产](deepdive/2026-08-13%205000%20%E4%BA%BF%E7%BE%8E%E5%85%83%E7%AE%97%E5%8A%9B%E5%9F%BA%E9%87%91%E8%BF%9B%E5%9C%BA%EF%BC%9AAI%20%E5%B7%A5%E5%8E%82%E6%AD%A3%E5%8F%98%E6%88%90%E5%8F%AF%E8%9E%8D%E8%B5%84%E8%B5%84%E4%BA%A7.md) |
 
-## 📰 AI 前沿日报  （共 50 篇）
+## 📰 AI 前沿日报  （共 51 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-23 | [xAI 发布 Grok Bot：常驻式 AI Agent](daily-report/2026-08-23%20xAI%20%E5%8F%91%E5%B8%83%20Grok%20Bot%EF%BC%9A%E5%B8%B8%E9%A9%BB%E5%BC%8F%20AI%20Agent.md) |
 | 2026-08-22 | [谁来审判 OpenAI？](daily-report/2026-08-22%20%E8%B0%81%E6%9D%A5%E5%AE%A1%E5%88%A4%20OpenAI%EF%BC%9F.md) |
 | 2026-08-21 | [现在是 Greg Brockman 的 OpenAI](daily-report/2026-08-21%20%E7%8E%B0%E5%9C%A8%E6%98%AF%20Greg%20Brockman%20%E7%9A%84%20OpenAI.md) |
 | 2026-08-20 | [OpenAI 踩下刹车，然后呢？](daily-report/2026-08-20%20OpenAI%20%E8%B8%A9%E4%B8%8B%E5%88%B9%E8%BD%A6%EF%BC%8C%E7%84%B6%E5%90%8E%E5%91%A2%EF%BC%9F.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-16 | [Nvidia 披露 210 亿美元 SpaceX 持股](daily-report/2026-08-16%20Nvidia%20%E6%8A%AB%E9%9C%B2%20210%20%E4%BA%BF%E7%BE%8E%E5%85%83%20SpaceX%20%E6%8C%81%E8%82%A1.md) |
 | 2026-08-15 | [GitHub 四款 Agent 应用：软件交付全流程不出 GitHub](daily-report/2026-08-15%20GitHub%20%E5%9B%9B%E6%AC%BE%20Agent%20%E5%BA%94%E7%94%A8%EF%BC%9A%E8%BD%AF%E4%BB%B6%E4%BA%A4%E4%BB%98%E5%85%A8%E6%B5%81%E7%A8%8B%E4%B8%8D%E5%87%BA%20GitHub.md) |
 | 2026-08-14 | [马斯克至少 6 次点赞中国电力](daily-report/2026-08-14%20%E9%A9%AC%E6%96%AF%E5%85%8B%E8%87%B3%E5%B0%91%206%20%E6%AC%A1%E7%82%B9%E8%B5%9E%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%9B.md) |
-| 2026-08-13 | [NVIDIA CEO 登顶 Glassdoor 2026 最佳 CEO 榜](daily-report/2026-08-13%20NVIDIA%20CEO%20%E7%99%BB%E9%A1%B6%20Glassdoor%202026%20%E6%9C%80%E4%BD%B3%20CEO%20%E6%A6%9C.md) |
 
 ## ⭐ GitHub 精选  （共 49 篇）
 
