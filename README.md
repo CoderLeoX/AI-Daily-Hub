@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-16 | [Nvidia 披露 210 亿美元 SpaceX 持股](daily-report/2026-08-16%20Nvidia%20%E6%8A%AB%E9%9C%B2%20210%20%E4%BA%BF%E7%BE%8E%E5%85%83%20SpaceX%20%E6%8C%81%E8%82%A1.md) |
 | 2026-08-15 | [GitHub 四款 Agent 应用：软件交付全流程不出 GitHub](daily-report/2026-08-15%20GitHub%20%E5%9B%9B%E6%AC%BE%20Agent%20%E5%BA%94%E7%94%A8%EF%BC%9A%E8%BD%AF%E4%BB%B6%E4%BA%A4%E4%BB%98%E5%85%A8%E6%B5%81%E7%A8%8B%E4%B8%8D%E5%87%BA%20GitHub.md) |
 
-## ⭐ GitHub 精选  （共 50 篇）
+## ⭐ GitHub 精选  （共 51 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-24 | [codex · awesome-gpt-image-2 · skills · omarchy · OpenLogi](github-trending/2026-08-24%20codex%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20skills%20%C2%B7%20omarchy%20%C2%B7%20OpenLogi.md) |
 | 2026-08-23 | [codex · skills · ECC · superpowers · sub2api · plane · n8n](github-trending/2026-08-23%20codex%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20superpowers%20%C2%B7%20sub2api%20%C2%B7%20plane%20%C2%B7%20n8n.md) |
 | 2026-08-22 | [skills · google-timeline-visualizer · MoneyPrinterTurbo](github-trending/2026-08-22%20skills%20%C2%B7%20google-timeline-visualizer%20%C2%B7%20MoneyPrinterTurbo.md) |
 | 2026-08-21 | [modular · skills · OpenLogi · superpowers · plugins](github-trending/2026-08-21%20modular%20%C2%B7%20skills%20%C2%B7%20OpenLogi%20%C2%B7%20superpowers%20%C2%B7%20plugins.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-17 | [cordis · omarchy · unsloth · OpenCut · public-apis · ToolJet](github-trending/2026-08-17%20cordis%20%C2%B7%20omarchy%20%C2%B7%20unsloth%20%C2%B7%20OpenCut%20%C2%B7%20public-apis%20%C2%B7%20ToolJet.md) |
 | 2026-08-16 | [cordis · diagram-design · plugins · needle · unsloth](github-trending/2026-08-16%20cordis%20%C2%B7%20diagram-design%20%C2%B7%20plugins%20%C2%B7%20needle%20%C2%B7%20unsloth.md) |
 | 2026-08-15 | [diagram-design · needle · holehe · macro · spiderfoot](github-trending/2026-08-15%20diagram-design%20%C2%B7%20needle%20%C2%B7%20holehe%20%C2%B7%20macro%20%C2%B7%20spiderfoot.md) |
-| 2026-08-14 | [diagram-design · semantica · skills · needle · FluidVoice](github-trending/2026-08-14%20diagram-design%20%C2%B7%20semantica%20%C2%B7%20skills%20%C2%B7%20needle%20%C2%B7%20FluidVoice.md) |
 
 ## 🐧 Linux 社区动态  （共 14 篇）
 
