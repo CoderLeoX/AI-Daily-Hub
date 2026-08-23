@@ -2,10 +2,11 @@
 
 AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自动归档仓库。由 Hermes cron 每日生成并推送。
 
-## 🧠 每日深读  （共 33 篇）
+## 🧠 每日深读  （共 34 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-24 | [开源基座+垂直后训练：Harvey Tenet 的法律 Agent 架构与评测可信度陷阱](deepdive/2026-08-24%20%E5%BC%80%E6%BA%90%E5%9F%BA%E5%BA%A7%2B%E5%9E%82%E7%9B%B4%E5%90%8E%E8%AE%AD%E7%BB%83%EF%BC%9AHarvey%20Tenet%20%E7%9A%84%E6%B3%95%E5%BE%8B%20Agent%20%E6%9E%B6%E6%9E%84%E4%B8%8E%E8%AF%84%E6%B5%8B%E5%8F%AF%E4%BF%A1%E5%BA%A6%E9%99%B7%E9%98%B1.md) |
 | 2026-08-23 | [换模型不如换 Harness：三种 Agent Loop 的工程与成本真相](deepdive/2026-08-23%20%E6%8D%A2%E6%A8%A1%E5%9E%8B%E4%B8%8D%E5%A6%82%E6%8D%A2%20Harness%EF%BC%9A%E4%B8%89%E7%A7%8D%20Agent%20Loop%20%E7%9A%84%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%88%90%E6%9C%AC%E7%9C%9F%E7%9B%B8.md) |
 | 2026-08-22 | [Agent 领工牌上岗：持久权限与角色化，自治与可控的架构分水岭](deepdive/2026-08-22%20Agent%20%E9%A2%86%E5%B7%A5%E7%89%8C%E4%B8%8A%E5%B2%97%EF%BC%9A%E6%8C%81%E4%B9%85%E6%9D%83%E9%99%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8C%96%EF%BC%8C%E8%87%AA%E6%B2%BB%E4%B8%8E%E5%8F%AF%E6%8E%A7%E7%9A%84%E6%9E%B6%E6%9E%84%E5%88%86%E6%B0%B4%E5%B2%AD.md) |
 | 2026-08-21 | [OpenAI 的控制面收敛与关键人风险](deepdive/2026-08-21%20OpenAI%20%E7%9A%84%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%94%B6%E6%95%9B%E4%B8%8E%E5%85%B3%E9%94%AE%E4%BA%BA%E9%A3%8E%E9%99%A9.md) |
@@ -15,7 +16,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-17 | [流水线即 Agent：GitHub 四个 Agent 应用如何重画 SDLC 交付边界](deepdive/2026-08-17%20%E6%B5%81%E6%B0%B4%E7%BA%BF%E5%8D%B3%20Agent%EF%BC%9AGitHub%20%E5%9B%9B%E4%B8%AA%20Agent%20%E5%BA%94%E7%94%A8%E5%A6%82%E4%BD%95%E9%87%8D%E7%94%BB%20SDLC%20%E4%BA%A4%E4%BB%98%E8%BE%B9%E7%95%8C.md) |
 | 2026-08-16 | [一张消费级显卡跑「Opus级」Agent：27B推理的成本坍缩与显存博弈](deepdive/2026-08-16%20%E4%B8%80%E5%BC%A0%E6%B6%88%E8%B4%B9%E7%BA%A7%E6%98%BE%E5%8D%A1%E8%B7%91%E3%80%8COpus%E7%BA%A7%E3%80%8DAgent%EF%BC%9A27B%E6%8E%A8%E7%90%86%E7%9A%84%E6%88%90%E6%9C%AC%E5%9D%8D%E7%BC%A9%E4%B8%8E%E6%98%BE%E5%AD%98%E5%8D%9A%E5%BC%88.md) |
 | 2026-08-15 | [Token 半价、性能逼近旗舰：Gemini 3.7 Flash 重画推理成本曲线](deepdive/2026-08-15%20Token%20%E5%8D%8A%E4%BB%B7%E3%80%81%E6%80%A7%E8%83%BD%E9%80%BC%E8%BF%91%E6%97%97%E8%88%B0%EF%BC%9AGemini%203.7%20Flash%20%E9%87%8D%E7%94%BB%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E6%9B%B2%E7%BA%BF.md) |
-| 2026-08-14 | [运行时解耦：AI工作流如何同时保住稳定与迭代速度](deepdive/2026-08-14%20%E8%BF%90%E8%A1%8C%E6%97%B6%E8%A7%A3%E8%80%A6%EF%BC%9AAI%E5%B7%A5%E4%BD%9C%E6%B5%81%E5%A6%82%E4%BD%95%E5%90%8C%E6%97%B6%E4%BF%9D%E4%BD%8F%E7%A8%B3%E5%AE%9A%E4%B8%8E%E8%BF%AD%E4%BB%A3%E9%80%9F%E5%BA%A6.md) |
 
 ## 📰 AI 前沿日报  （共 52 篇）
 
