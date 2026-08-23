@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-16 | [cordis · diagram-design · plugins · needle · unsloth](github-trending/2026-08-16%20cordis%20%C2%B7%20diagram-design%20%C2%B7%20plugins%20%C2%B7%20needle%20%C2%B7%20unsloth.md) |
 | 2026-08-15 | [diagram-design · needle · holehe · macro · spiderfoot](github-trending/2026-08-15%20diagram-design%20%C2%B7%20needle%20%C2%B7%20holehe%20%C2%B7%20macro%20%C2%B7%20spiderfoot.md) |
 
-## 🐧 Linux 社区动态  （共 14 篇）
+## 🐧 Linux 社区动态  （共 15 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-24 | [DSA-6461-1 thunderbird 安全更新](linux-community/2026-08-24%20DSA-6461-1%20thunderbird%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-08-23 | [DSA-6458-1 gst-plugins-bad1.0 安全更新](linux-community/2026-08-23%20DSA-6458-1%20gst-plugins-bad1.0%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-08-22 | [USN-8658-2：Linux 内核 (IBM) 多个漏洞](linux-community/2026-08-22%20USN-8658-2%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%20%28IBM%29%20%E5%A4%9A%E4%B8%AA%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-21 | [USN-8643-2：Linux 内核漏洞](linux-community/2026-08-21%20USN-8643-2%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-17 | [DSA-6444-1 neutron - security update](linux-community/2026-08-17%20DSA-6444-1%20neutron%20-%20security%20update.md) |
 | 2026-08-16 | [Linux社区动态](linux-community/2026-08-16%20Linux%E7%A4%BE%E5%8C%BA%E5%8A%A8%E6%80%81.md) |
 | 2026-08-15 | [DSA-6442-1 util-linux 安全更新](linux-community/2026-08-15%20DSA-6442-1%20util-linux%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
-| 2026-08-14 | [USN-8631-3：Linux 内核（NVIDIA Tegra IGX）漏洞](linux-community/2026-08-14%20USN-8631-3%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%EF%BC%88NVIDIA%20Tegra%20IGX%EF%BC%89%E6%BC%8F%E6%B4%9E.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
