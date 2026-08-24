@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-17 | [英伟达 5000 亿 AI 融资计划暗藏隐忧，特朗普顾问警示“暗 GPU”过剩风险](daily-report/2026-08-17%20%E8%8B%B1%E4%BC%9F%E8%BE%BE%205000%20%E4%BA%BF%20AI%20%E8%9E%8D%E8%B5%84%E8%AE%A1%E5%88%92%E6%9A%97%E8%97%8F%E9%9A%90%E5%BF%A7%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%A1%BE%E9%97%AE%E8%AD%A6%E7%A4%BA%E2%80%9C%E6%9A%97%20GPU%E2%80%9D%E8%BF%87%E5%89%A9%E9%A3%8E%E9%99%A9.md) |
 | 2026-08-16 | [Nvidia 披露 210 亿美元 SpaceX 持股](daily-report/2026-08-16%20Nvidia%20%E6%8A%AB%E9%9C%B2%20210%20%E4%BA%BF%E7%BE%8E%E5%85%83%20SpaceX%20%E6%8C%81%E8%82%A1.md) |
 
-## ⭐ GitHub 精选  （共 51 篇）
+## ⭐ GitHub 精选  （共 52 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-25 | [free-claude-code · codex · ai-job-search](github-trending/2026-08-25%20free-claude-code%20%C2%B7%20codex%20%C2%B7%20ai-job-search.md) |
 | 2026-08-24 | [codex · awesome-gpt-image-2 · skills · omarchy · OpenLogi](github-trending/2026-08-24%20codex%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20skills%20%C2%B7%20omarchy%20%C2%B7%20OpenLogi.md) |
 | 2026-08-23 | [codex · skills · ECC · superpowers · sub2api · plane · n8n](github-trending/2026-08-23%20codex%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20superpowers%20%C2%B7%20sub2api%20%C2%B7%20plane%20%C2%B7%20n8n.md) |
 | 2026-08-22 | [skills · google-timeline-visualizer · MoneyPrinterTurbo](github-trending/2026-08-22%20skills%20%C2%B7%20google-timeline-visualizer%20%C2%B7%20MoneyPrinterTurbo.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-18 | [MoneyPrinterTurbo · strix · nautilus_trader · ai-memory](github-trending/2026-08-18%20MoneyPrinterTurbo%20%C2%B7%20strix%20%C2%B7%20nautilus_trader%20%C2%B7%20ai-memory.md) |
 | 2026-08-17 | [cordis · omarchy · unsloth · OpenCut · public-apis · ToolJet](github-trending/2026-08-17%20cordis%20%C2%B7%20omarchy%20%C2%B7%20unsloth%20%C2%B7%20OpenCut%20%C2%B7%20public-apis%20%C2%B7%20ToolJet.md) |
 | 2026-08-16 | [cordis · diagram-design · plugins · needle · unsloth](github-trending/2026-08-16%20cordis%20%C2%B7%20diagram-design%20%C2%B7%20plugins%20%C2%B7%20needle%20%C2%B7%20unsloth.md) |
-| 2026-08-15 | [diagram-design · needle · holehe · macro · spiderfoot](github-trending/2026-08-15%20diagram-design%20%C2%B7%20needle%20%C2%B7%20holehe%20%C2%B7%20macro%20%C2%B7%20spiderfoot.md) |
 
 ## 🐧 Linux 社区动态  （共 15 篇）
 
