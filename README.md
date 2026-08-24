@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-17 | [cordis · omarchy · unsloth · OpenCut · public-apis · ToolJet](github-trending/2026-08-17%20cordis%20%C2%B7%20omarchy%20%C2%B7%20unsloth%20%C2%B7%20OpenCut%20%C2%B7%20public-apis%20%C2%B7%20ToolJet.md) |
 | 2026-08-16 | [cordis · diagram-design · plugins · needle · unsloth](github-trending/2026-08-16%20cordis%20%C2%B7%20diagram-design%20%C2%B7%20plugins%20%C2%B7%20needle%20%C2%B7%20unsloth.md) |
 
-## 🐧 Linux 社区动态  （共 15 篇）
+## 🐧 Linux 社区动态  （共 16 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-25 | [USN-8671-1：FFmpeg 漏洞](linux-community/2026-08-25%20USN-8671-1%EF%BC%9AFFmpeg%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-24 | [DSA-6461-1 thunderbird 安全更新](linux-community/2026-08-24%20DSA-6461-1%20thunderbird%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-08-23 | [DSA-6458-1 gst-plugins-bad1.0 安全更新](linux-community/2026-08-23%20DSA-6458-1%20gst-plugins-bad1.0%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-08-22 | [USN-8658-2：Linux 内核 (IBM) 多个漏洞](linux-community/2026-08-22%20USN-8658-2%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%20%28IBM%29%20%E5%A4%9A%E4%B8%AA%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-18 | [USN-8640-1：Engrampa 符号链接漏洞](linux-community/2026-08-18%20USN-8640-1%EF%BC%9AEngrampa%20%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-17 | [DSA-6444-1 neutron - security update](linux-community/2026-08-17%20DSA-6444-1%20neutron%20-%20security%20update.md) |
 | 2026-08-16 | [Linux社区动态](linux-community/2026-08-16%20Linux%E7%A4%BE%E5%8C%BA%E5%8A%A8%E6%80%81.md) |
-| 2026-08-15 | [DSA-6442-1 util-linux 安全更新](linux-community/2026-08-15%20DSA-6442-1%20util-linux%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
