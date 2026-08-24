@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-16 | [一张消费级显卡跑「Opus级」Agent：27B推理的成本坍缩与显存博弈](deepdive/2026-08-16%20%E4%B8%80%E5%BC%A0%E6%B6%88%E8%B4%B9%E7%BA%A7%E6%98%BE%E5%8D%A1%E8%B7%91%E3%80%8COpus%E7%BA%A7%E3%80%8DAgent%EF%BC%9A27B%E6%8E%A8%E7%90%86%E7%9A%84%E6%88%90%E6%9C%AC%E5%9D%8D%E7%BC%A9%E4%B8%8E%E6%98%BE%E5%AD%98%E5%8D%9A%E5%BC%88.md) |
 | 2026-08-15 | [Token 半价、性能逼近旗舰：Gemini 3.7 Flash 重画推理成本曲线](deepdive/2026-08-15%20Token%20%E5%8D%8A%E4%BB%B7%E3%80%81%E6%80%A7%E8%83%BD%E9%80%BC%E8%BF%91%E6%97%97%E8%88%B0%EF%BC%9AGemini%203.7%20Flash%20%E9%87%8D%E7%94%BB%E6%8E%A8%E7%90%86%E6%88%90%E6%9C%AC%E6%9B%B2%E7%BA%BF.md) |
 
-## 📰 AI 前沿日报  （共 52 篇）
+## 📰 AI 前沿日报  （共 53 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-25 | [NVIDIA 扩展 Vera Rubin Agent 推理能力，Groq 3 LPX 全面量产](daily-report/2026-08-25%20NVIDIA%20%E6%89%A9%E5%B1%95%20Vera%20Rubin%20Agent%20%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%EF%BC%8CGroq%203%20LPX%20%E5%85%A8%E9%9D%A2%E9%87%8F%E4%BA%A7.md) |
 | 2026-08-24 | [xAI 推出 Grok Bot：常驻 AI Agent 进场](daily-report/2026-08-24%20xAI%20%E6%8E%A8%E5%87%BA%20Grok%20Bot%EF%BC%9A%E5%B8%B8%E9%A9%BB%20AI%20Agent%20%E8%BF%9B%E5%9C%BA.md) |
 | 2026-08-23 | [xAI 发布 Grok Bot：常驻式 AI Agent](daily-report/2026-08-23%20xAI%20%E5%8F%91%E5%B8%83%20Grok%20Bot%EF%BC%9A%E5%B8%B8%E9%A9%BB%E5%BC%8F%20AI%20Agent.md) |
 | 2026-08-22 | [谁来审判 OpenAI？](daily-report/2026-08-22%20%E8%B0%81%E6%9D%A5%E5%AE%A1%E5%88%A4%20OpenAI%EF%BC%9F.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-18 | [OpenAI 加入 PORTS-Pike 项目](daily-report/2026-08-18%20OpenAI%20%E5%8A%A0%E5%85%A5%20PORTS-Pike%20%E9%A1%B9%E7%9B%AE.md) |
 | 2026-08-17 | [英伟达 5000 亿 AI 融资计划暗藏隐忧，特朗普顾问警示“暗 GPU”过剩风险](daily-report/2026-08-17%20%E8%8B%B1%E4%BC%9F%E8%BE%BE%205000%20%E4%BA%BF%20AI%20%E8%9E%8D%E8%B5%84%E8%AE%A1%E5%88%92%E6%9A%97%E8%97%8F%E9%9A%90%E5%BF%A7%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%A1%BE%E9%97%AE%E8%AD%A6%E7%A4%BA%E2%80%9C%E6%9A%97%20GPU%E2%80%9D%E8%BF%87%E5%89%A9%E9%A3%8E%E9%99%A9.md) |
 | 2026-08-16 | [Nvidia 披露 210 亿美元 SpaceX 持股](daily-report/2026-08-16%20Nvidia%20%E6%8A%AB%E9%9C%B2%20210%20%E4%BA%BF%E7%BE%8E%E5%85%83%20SpaceX%20%E6%8C%81%E8%82%A1.md) |
-| 2026-08-15 | [GitHub 四款 Agent 应用：软件交付全流程不出 GitHub](daily-report/2026-08-15%20GitHub%20%E5%9B%9B%E6%AC%BE%20Agent%20%E5%BA%94%E7%94%A8%EF%BC%9A%E8%BD%AF%E4%BB%B6%E4%BA%A4%E4%BB%98%E5%85%A8%E6%B5%81%E7%A8%8B%E4%B8%8D%E5%87%BA%20GitHub.md) |
 
 ## ⭐ GitHub 精选  （共 51 篇）
 
