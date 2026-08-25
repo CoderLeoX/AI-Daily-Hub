@@ -2,10 +2,11 @@
 
 AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自动归档仓库。由 Hermes cron 每日生成并推送。
 
-## 🧠 每日深读  （共 35 篇）
+## 🧠 每日深读  （共 36 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-26 | [Agent推理吞Token翻15倍，NVL72用30倍能效重写算力经济学](deepdive/2026-08-26%20Agent%E6%8E%A8%E7%90%86%E5%90%9EToken%E7%BF%BB15%E5%80%8D%EF%BC%8CNVL72%E7%94%A830%E5%80%8D%E8%83%BD%E6%95%88%E9%87%8D%E5%86%99%E7%AE%97%E5%8A%9B%E7%BB%8F%E6%B5%8E%E5%AD%A6.md) |
 | 2026-08-25 | [内存池化是 Agent 长上下文的解药，也是新绑定：拆解 Vera Rubin LPX 推理平台](deepdive/2026-08-25%20%E5%86%85%E5%AD%98%E6%B1%A0%E5%8C%96%E6%98%AF%20Agent%20%E9%95%BF%E4%B8%8A%E4%B8%8B%E6%96%87%E7%9A%84%E8%A7%A3%E8%8D%AF%EF%BC%8C%E4%B9%9F%E6%98%AF%E6%96%B0%E7%BB%91%E5%AE%9A%EF%BC%9A%E6%8B%86%E8%A7%A3%20Vera%20Rubin%20LPX%20%E6%8E%A8%E7%90%86%E5%B9%B3%E5%8F%B0.md) |
 | 2026-08-24 | [开源基座+垂直后训练：Harvey Tenet 的法律 Agent 架构与评测可信度陷阱](deepdive/2026-08-24%20%E5%BC%80%E6%BA%90%E5%9F%BA%E5%BA%A7%2B%E5%9E%82%E7%9B%B4%E5%90%8E%E8%AE%AD%E7%BB%83%EF%BC%9AHarvey%20Tenet%20%E7%9A%84%E6%B3%95%E5%BE%8B%20Agent%20%E6%9E%B6%E6%9E%84%E4%B8%8E%E8%AF%84%E6%B5%8B%E5%8F%AF%E4%BF%A1%E5%BA%A6%E9%99%B7%E9%98%B1.md) |
 | 2026-08-23 | [换模型不如换 Harness：三种 Agent Loop 的工程与成本真相](deepdive/2026-08-23%20%E6%8D%A2%E6%A8%A1%E5%9E%8B%E4%B8%8D%E5%A6%82%E6%8D%A2%20Harness%EF%BC%9A%E4%B8%89%E7%A7%8D%20Agent%20Loop%20%E7%9A%84%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%88%90%E6%9C%AC%E7%9C%9F%E7%9B%B8.md) |
@@ -15,7 +16,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-19 | [AI 逃出沙箱误击 Hugging Face Agent 工具调用的信任边界](deepdive/2026-08-19%20AI%20%E9%80%83%E5%87%BA%E6%B2%99%E7%AE%B1%E8%AF%AF%E5%87%BB%20Hugging%20Face%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E7%9A%84%E4%BF%A1%E4%BB%BB%E8%BE%B9%E7%95%8C.md) |
 | 2026-08-18 | [云端调度还是本地自治 Codex 与 Claude Code 背后的 Agent 范式之争](deepdive/2026-08-18%20%E4%BA%91%E7%AB%AF%E8%B0%83%E5%BA%A6%E8%BF%98%E6%98%AF%E6%9C%AC%E5%9C%B0%E8%87%AA%E6%B2%BB%20Codex%20%E4%B8%8E%20Claude%20Code%20%E8%83%8C%E5%90%8E%E7%9A%84%20Agent%20%E8%8C%83%E5%BC%8F%E4%B9%8B%E4%BA%89.md) |
 | 2026-08-17 | [流水线即 Agent：GitHub 四个 Agent 应用如何重画 SDLC 交付边界](deepdive/2026-08-17%20%E6%B5%81%E6%B0%B4%E7%BA%BF%E5%8D%B3%20Agent%EF%BC%9AGitHub%20%E5%9B%9B%E4%B8%AA%20Agent%20%E5%BA%94%E7%94%A8%E5%A6%82%E4%BD%95%E9%87%8D%E7%94%BB%20SDLC%20%E4%BA%A4%E4%BB%98%E8%BE%B9%E7%95%8C.md) |
-| 2026-08-16 | [一张消费级显卡跑「Opus级」Agent：27B推理的成本坍缩与显存博弈](deepdive/2026-08-16%20%E4%B8%80%E5%BC%A0%E6%B6%88%E8%B4%B9%E7%BA%A7%E6%98%BE%E5%8D%A1%E8%B7%91%E3%80%8COpus%E7%BA%A7%E3%80%8DAgent%EF%BC%9A27B%E6%8E%A8%E7%90%86%E7%9A%84%E6%88%90%E6%9C%AC%E5%9D%8D%E7%BC%A9%E4%B8%8E%E6%98%BE%E5%AD%98%E5%8D%9A%E5%BC%88.md) |
 
 ## 📰 AI 前沿日报  （共 54 篇）
 
