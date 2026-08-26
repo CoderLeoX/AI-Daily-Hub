@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-19 | [前 SpaceX 工程师创业，用 AI 与机器人打造钢铁零件自动化工厂](daily-report/2026-08-19%20%E5%89%8D%20SpaceX%20%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%88%9B%E4%B8%9A%EF%BC%8C%E7%94%A8%20AI%20%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E9%80%A0%E9%92%A2%E9%93%81%E9%9B%B6%E4%BB%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%8E%82.md) |
 | 2026-08-18 | [OpenAI 加入 PORTS-Pike 项目](daily-report/2026-08-18%20OpenAI%20%E5%8A%A0%E5%85%A5%20PORTS-Pike%20%E9%A1%B9%E7%9B%AE.md) |
 
-## ⭐ GitHub 精选  （共 53 篇）
+## ⭐ GitHub 精选  （共 54 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-27 | [archify · awesome-gpt-image-2 · claude-plugins-official](github-trending/2026-08-27%20archify%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20claude-plugins-official.md) |
 | 2026-08-26 | [awesome-gpt-image-2 · claude-plugins-community · maka](github-trending/2026-08-26%20awesome-gpt-image-2%20%C2%B7%20claude-plugins-community%20%C2%B7%20maka.md) |
 | 2026-08-25 | [free-claude-code · codex · ai-job-search](github-trending/2026-08-25%20free-claude-code%20%C2%B7%20codex%20%C2%B7%20ai-job-search.md) |
 | 2026-08-24 | [codex · awesome-gpt-image-2 · skills · omarchy · OpenLogi](github-trending/2026-08-24%20codex%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20skills%20%C2%B7%20omarchy%20%C2%B7%20OpenLogi.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-20 | [MoneyPrinterTurbo · OpenViking · munder-difflin](github-trending/2026-08-20%20MoneyPrinterTurbo%20%C2%B7%20OpenViking%20%C2%B7%20munder-difflin.md) |
 | 2026-08-19 | [MoneyPrinterTurbo · munder-difflin · ai-memory · OpenViking](github-trending/2026-08-19%20MoneyPrinterTurbo%20%C2%B7%20munder-difflin%20%C2%B7%20ai-memory%20%C2%B7%20OpenViking.md) |
 | 2026-08-18 | [MoneyPrinterTurbo · strix · nautilus_trader · ai-memory](github-trending/2026-08-18%20MoneyPrinterTurbo%20%C2%B7%20strix%20%C2%B7%20nautilus_trader%20%C2%B7%20ai-memory.md) |
-| 2026-08-17 | [cordis · omarchy · unsloth · OpenCut · public-apis · ToolJet](github-trending/2026-08-17%20cordis%20%C2%B7%20omarchy%20%C2%B7%20unsloth%20%C2%B7%20OpenCut%20%C2%B7%20public-apis%20%C2%B7%20ToolJet.md) |
 
 ## 🐧 Linux 社区动态  （共 17 篇）
 
