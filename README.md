@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-18 | [云端调度还是本地自治 Codex 与 Claude Code 背后的 Agent 范式之争](deepdive/2026-08-18%20%E4%BA%91%E7%AB%AF%E8%B0%83%E5%BA%A6%E8%BF%98%E6%98%AF%E6%9C%AC%E5%9C%B0%E8%87%AA%E6%B2%BB%20Codex%20%E4%B8%8E%20Claude%20Code%20%E8%83%8C%E5%90%8E%E7%9A%84%20Agent%20%E8%8C%83%E5%BC%8F%E4%B9%8B%E4%BA%89.md) |
 | 2026-08-17 | [流水线即 Agent：GitHub 四个 Agent 应用如何重画 SDLC 交付边界](deepdive/2026-08-17%20%E6%B5%81%E6%B0%B4%E7%BA%BF%E5%8D%B3%20Agent%EF%BC%9AGitHub%20%E5%9B%9B%E4%B8%AA%20Agent%20%E5%BA%94%E7%94%A8%E5%A6%82%E4%BD%95%E9%87%8D%E7%94%BB%20SDLC%20%E4%BA%A4%E4%BB%98%E8%BE%B9%E7%95%8C.md) |
 
-## 📰 AI 前沿日报  （共 54 篇）
+## 📰 AI 前沿日报  （共 55 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-27 | [AI Agent 时代，CX 的新挑战是编排](daily-report/2026-08-27%20AI%20Agent%20%E6%97%B6%E4%BB%A3%EF%BC%8CCX%20%E7%9A%84%E6%96%B0%E6%8C%91%E6%88%98%E6%98%AF%E7%BC%96%E6%8E%92.md) |
 | 2026-08-26 | [头部发行商携重磅 PC 游戏与技术登陆 NVIDIA RTX Spark](daily-report/2026-08-26%20%E5%A4%B4%E9%83%A8%E5%8F%91%E8%A1%8C%E5%95%86%E6%90%BA%E9%87%8D%E7%A3%85%20PC%20%E6%B8%B8%E6%88%8F%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%99%BB%E9%99%86%20NVIDIA%20RTX%20Spark.md) |
 | 2026-08-25 | [NVIDIA 扩展 Vera Rubin Agent 推理能力，Groq 3 LPX 全面量产](daily-report/2026-08-25%20NVIDIA%20%E6%89%A9%E5%B1%95%20Vera%20Rubin%20Agent%20%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%EF%BC%8CGroq%203%20LPX%20%E5%85%A8%E9%9D%A2%E9%87%8F%E4%BA%A7.md) |
 | 2026-08-24 | [xAI 推出 Grok Bot：常驻 AI Agent 进场](daily-report/2026-08-24%20xAI%20%E6%8E%A8%E5%87%BA%20Grok%20Bot%EF%BC%9A%E5%B8%B8%E9%A9%BB%20AI%20Agent%20%E8%BF%9B%E5%9C%BA.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-20 | [OpenAI 踩下刹车，然后呢？](daily-report/2026-08-20%20OpenAI%20%E8%B8%A9%E4%B8%8B%E5%88%B9%E8%BD%A6%EF%BC%8C%E7%84%B6%E5%90%8E%E5%91%A2%EF%BC%9F.md) |
 | 2026-08-19 | [前 SpaceX 工程师创业，用 AI 与机器人打造钢铁零件自动化工厂](daily-report/2026-08-19%20%E5%89%8D%20SpaceX%20%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%88%9B%E4%B8%9A%EF%BC%8C%E7%94%A8%20AI%20%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%93%E9%80%A0%E9%92%A2%E9%93%81%E9%9B%B6%E4%BB%B6%E8%87%AA%E5%8A%A8%E5%8C%96%E5%B7%A5%E5%8E%82.md) |
 | 2026-08-18 | [OpenAI 加入 PORTS-Pike 项目](daily-report/2026-08-18%20OpenAI%20%E5%8A%A0%E5%85%A5%20PORTS-Pike%20%E9%A1%B9%E7%9B%AE.md) |
-| 2026-08-17 | [英伟达 5000 亿 AI 融资计划暗藏隐忧，特朗普顾问警示“暗 GPU”过剩风险](daily-report/2026-08-17%20%E8%8B%B1%E4%BC%9F%E8%BE%BE%205000%20%E4%BA%BF%20AI%20%E8%9E%8D%E8%B5%84%E8%AE%A1%E5%88%92%E6%9A%97%E8%97%8F%E9%9A%90%E5%BF%A7%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%A1%BE%E9%97%AE%E8%AD%A6%E7%A4%BA%E2%80%9C%E6%9A%97%20GPU%E2%80%9D%E8%BF%87%E5%89%A9%E9%A3%8E%E9%99%A9.md) |
 
 ## ⭐ GitHub 精选  （共 53 篇）
 
