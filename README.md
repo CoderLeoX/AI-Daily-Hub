@@ -2,10 +2,11 @@
 
 AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自动归档仓库。由 Hermes cron 每日生成并推送。
 
-## 🧠 每日深读  （共 38 篇）
+## 🧠 每日深读  （共 39 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-29 | [内存才是新瓶颈：NVLink Fusion 与 NVHBM 的体系级重构](deepdive/2026-08-29%20%E5%86%85%E5%AD%98%E6%89%8D%E6%98%AF%E6%96%B0%E7%93%B6%E9%A2%88%EF%BC%9ANVLink%20Fusion%20%E4%B8%8E%20NVHBM%20%E7%9A%84%E4%BD%93%E7%B3%BB%E7%BA%A7%E9%87%8D%E6%9E%84.md) |
 | 2026-08-28 | [Agent 负载的瓶颈回到 CPU Vera 交付背后的架构赌注](deepdive/2026-08-28%20Agent%20%E8%B4%9F%E8%BD%BD%E7%9A%84%E7%93%B6%E9%A2%88%E5%9B%9E%E5%88%B0%20CPU%20Vera%20%E4%BA%A4%E4%BB%98%E8%83%8C%E5%90%8E%E7%9A%84%E6%9E%B6%E6%9E%84%E8%B5%8C%E6%B3%A8.md) |
 | 2026-08-27 | [数据中心 92% vs 边缘 7.5%：内存瓶颈正在决定推理部署在哪一层](deepdive/2026-08-27%20%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2092%25%20vs%20%E8%BE%B9%E7%BC%98%207.5%25%EF%BC%9A%E5%86%85%E5%AD%98%E7%93%B6%E9%A2%88%E6%AD%A3%E5%9C%A8%E5%86%B3%E5%AE%9A%E6%8E%A8%E7%90%86%E9%83%A8%E7%BD%B2%E5%9C%A8%E5%93%AA%E4%B8%80%E5%B1%82.md) |
 | 2026-08-26 | [Agent推理吞Token翻15倍，NVL72用30倍能效重写算力经济学](deepdive/2026-08-26%20Agent%E6%8E%A8%E7%90%86%E5%90%9EToken%E7%BF%BB15%E5%80%8D%EF%BC%8CNVL72%E7%94%A830%E5%80%8D%E8%83%BD%E6%95%88%E9%87%8D%E5%86%99%E7%AE%97%E5%8A%9B%E7%BB%8F%E6%B5%8E%E5%AD%A6.md) |
@@ -15,7 +16,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-22 | [Agent 领工牌上岗：持久权限与角色化，自治与可控的架构分水岭](deepdive/2026-08-22%20Agent%20%E9%A2%86%E5%B7%A5%E7%89%8C%E4%B8%8A%E5%B2%97%EF%BC%9A%E6%8C%81%E4%B9%85%E6%9D%83%E9%99%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8C%96%EF%BC%8C%E8%87%AA%E6%B2%BB%E4%B8%8E%E5%8F%AF%E6%8E%A7%E7%9A%84%E6%9E%B6%E6%9E%84%E5%88%86%E6%B0%B4%E5%B2%AD.md) |
 | 2026-08-21 | [OpenAI 的控制面收敛与关键人风险](deepdive/2026-08-21%20OpenAI%20%E7%9A%84%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%94%B6%E6%95%9B%E4%B8%8E%E5%85%B3%E9%94%AE%E4%BA%BA%E9%A3%8E%E9%99%A9.md) |
 | 2026-08-20 | [从模型逃逸到自愿刹车 Agent 安全闸门不能只靠自律](deepdive/2026-08-20%20%E4%BB%8E%E6%A8%A1%E5%9E%8B%E9%80%83%E9%80%B8%E5%88%B0%E8%87%AA%E6%84%BF%E5%88%B9%E8%BD%A6%20Agent%20%E5%AE%89%E5%85%A8%E9%97%B8%E9%97%A8%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E8%87%AA%E5%BE%8B.md) |
-| 2026-08-19 | [AI 逃出沙箱误击 Hugging Face Agent 工具调用的信任边界](deepdive/2026-08-19%20AI%20%E9%80%83%E5%87%BA%E6%B2%99%E7%AE%B1%E8%AF%AF%E5%87%BB%20Hugging%20Face%20Agent%20%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E7%9A%84%E4%BF%A1%E4%BB%BB%E8%BE%B9%E7%95%8C.md) |
 
 ## 📰 AI 前沿日报  （共 57 篇）
 
