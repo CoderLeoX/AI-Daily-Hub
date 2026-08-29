@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-22 | [谁来审判 OpenAI？](daily-report/2026-08-22%20%E8%B0%81%E6%9D%A5%E5%AE%A1%E5%88%A4%20OpenAI%EF%BC%9F.md) |
 | 2026-08-21 | [现在是 Greg Brockman 的 OpenAI](daily-report/2026-08-21%20%E7%8E%B0%E5%9C%A8%E6%98%AF%20Greg%20Brockman%20%E7%9A%84%20OpenAI.md) |
 
-## ⭐ GitHub 精选  （共 56 篇）
+## ⭐ GitHub 精选  （共 57 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-30 | [archify · gods-eye-view · scientific-agent-skills · tailcat](github-trending/2026-08-30%20archify%20%C2%B7%20gods-eye-view%20%C2%B7%20scientific-agent-skills%20%C2%B7%20tailcat.md) |
 | 2026-08-29 | [archify · scientific-agent-skills · claude-plugins-official](github-trending/2026-08-29%20archify%20%C2%B7%20scientific-agent-skills%20%C2%B7%20claude-plugins-official.md) |
 | 2026-08-28 | [gods-eye-view · nitter · awesome-gpt-image-2 · archify](github-trending/2026-08-28%20gods-eye-view%20%C2%B7%20nitter%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20archify.md) |
 | 2026-08-27 | [archify · awesome-gpt-image-2 · claude-plugins-official](github-trending/2026-08-27%20archify%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20claude-plugins-official.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-23 | [codex · skills · ECC · superpowers · sub2api · plane · n8n](github-trending/2026-08-23%20codex%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20superpowers%20%C2%B7%20sub2api%20%C2%B7%20plane%20%C2%B7%20n8n.md) |
 | 2026-08-22 | [skills · google-timeline-visualizer · MoneyPrinterTurbo](github-trending/2026-08-22%20skills%20%C2%B7%20google-timeline-visualizer%20%C2%B7%20MoneyPrinterTurbo.md) |
 | 2026-08-21 | [modular · skills · OpenLogi · superpowers · plugins](github-trending/2026-08-21%20modular%20%C2%B7%20skills%20%C2%B7%20OpenLogi%20%C2%B7%20superpowers%20%C2%B7%20plugins.md) |
-| 2026-08-20 | [MoneyPrinterTurbo · OpenViking · munder-difflin](github-trending/2026-08-20%20MoneyPrinterTurbo%20%C2%B7%20OpenViking%20%C2%B7%20munder-difflin.md) |
 
 ## 🐧 Linux 社区动态  （共 20 篇）
 
