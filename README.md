@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-22 | [skills · google-timeline-visualizer · MoneyPrinterTurbo](github-trending/2026-08-22%20skills%20%C2%B7%20google-timeline-visualizer%20%C2%B7%20MoneyPrinterTurbo.md) |
 | 2026-08-21 | [modular · skills · OpenLogi · superpowers · plugins](github-trending/2026-08-21%20modular%20%C2%B7%20skills%20%C2%B7%20OpenLogi%20%C2%B7%20superpowers%20%C2%B7%20plugins.md) |
 
-## 🐧 Linux 社区动态  （共 20 篇）
+## 🐧 Linux 社区动态  （共 21 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-30 | [Ryabitsev：AI 爬虫的侵扰](linux-community/2026-08-30%20Ryabitsev%EF%BC%9AAI%20%E7%88%AC%E8%99%AB%E7%9A%84%E4%BE%B5%E6%89%B0.md) |
 | 2026-08-29 | [7.2.2 至 5.10.268：8 个 stable 内核仅修复一漏洞](linux-community/2026-08-29%207.2.2%20%E8%87%B3%205.10.268%EF%BC%9A8%20%E4%B8%AA%20stable%20%E5%86%85%E6%A0%B8%E4%BB%85%E4%BF%AE%E5%A4%8D%E4%B8%80%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-28 | [USN-8666-3 Linux kernel (GCP FIPS) 漏洞](linux-community/2026-08-28%20USN-8666-3%20Linux%20kernel%20%28GCP%20FIPS%29%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-27 | [USN-8683-1：libheif 漏洞](linux-community/2026-08-27%20USN-8683-1%EF%BC%9Alibheif%20%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-23 | [DSA-6458-1 gst-plugins-bad1.0 安全更新](linux-community/2026-08-23%20DSA-6458-1%20gst-plugins-bad1.0%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-08-22 | [USN-8658-2：Linux 内核 (IBM) 多个漏洞](linux-community/2026-08-22%20USN-8658-2%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%20%28IBM%29%20%E5%A4%9A%E4%B8%AA%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-21 | [USN-8643-2：Linux 内核漏洞](linux-community/2026-08-21%20USN-8643-2%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%E6%BC%8F%E6%B4%9E.md) |
-| 2026-08-20 | [USN-8563-4 nginx 回归](linux-community/2026-08-20%20USN-8563-4%20nginx%20%E5%9B%9E%E5%BD%92.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
