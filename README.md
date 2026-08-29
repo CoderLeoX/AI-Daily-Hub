@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-21 | [OpenAI 的控制面收敛与关键人风险](deepdive/2026-08-21%20OpenAI%20%E7%9A%84%E6%8E%A7%E5%88%B6%E9%9D%A2%E6%94%B6%E6%95%9B%E4%B8%8E%E5%85%B3%E9%94%AE%E4%BA%BA%E9%A3%8E%E9%99%A9.md) |
 | 2026-08-20 | [从模型逃逸到自愿刹车 Agent 安全闸门不能只靠自律](deepdive/2026-08-20%20%E4%BB%8E%E6%A8%A1%E5%9E%8B%E9%80%83%E9%80%B8%E5%88%B0%E8%87%AA%E6%84%BF%E5%88%B9%E8%BD%A6%20Agent%20%E5%AE%89%E5%85%A8%E9%97%B8%E9%97%A8%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E8%87%AA%E5%BE%8B.md) |
 
-## 📰 AI 前沿日报  （共 57 篇）
+## 📰 AI 前沿日报  （共 58 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-08-30 | [OpenAI 将终止向马斯克旗下 Cursor 提供模型访问](daily-report/2026-08-30%20OpenAI%20%E5%B0%86%E7%BB%88%E6%AD%A2%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8B%20Cursor%20%E6%8F%90%E4%BE%9B%E6%A8%A1%E5%9E%8B%E8%AE%BF%E9%97%AE.md) |
 | 2026-08-29 | [教父落榜：Time 百大 AI 名单未列黄仁勋](daily-report/2026-08-29%20%E6%95%99%E7%88%B6%E8%90%BD%E6%A6%9C%EF%BC%9ATime%20%E7%99%BE%E5%A4%A7%20AI%20%E5%90%8D%E5%8D%95%E6%9C%AA%E5%88%97%E9%BB%84%E4%BB%81%E5%8B%8B.md) |
 | 2026-08-28 | [企业 AI 的真正风险不是自主智能体，而是智能体之间的复杂度](daily-report/2026-08-28%20%E4%BC%81%E4%B8%9A%20AI%20%E7%9A%84%E7%9C%9F%E6%AD%A3%E9%A3%8E%E9%99%A9%E4%B8%8D%E6%98%AF%E8%87%AA%E4%B8%BB%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%8C%E8%80%8C%E6%98%AF%E6%99%BA%E8%83%BD%E4%BD%93%E4%B9%8B%E9%97%B4%E7%9A%84%E5%A4%8D%E6%9D%82%E5%BA%A6.md) |
 | 2026-08-27 | [AI Agent 时代，CX 的新挑战是编排](daily-report/2026-08-27%20AI%20Agent%20%E6%97%B6%E4%BB%A3%EF%BC%8CCX%20%E7%9A%84%E6%96%B0%E6%8C%91%E6%88%98%E6%98%AF%E7%BC%96%E6%8E%92.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-23 | [xAI 发布 Grok Bot：常驻式 AI Agent](daily-report/2026-08-23%20xAI%20%E5%8F%91%E5%B8%83%20Grok%20Bot%EF%BC%9A%E5%B8%B8%E9%A9%BB%E5%BC%8F%20AI%20Agent.md) |
 | 2026-08-22 | [谁来审判 OpenAI？](daily-report/2026-08-22%20%E8%B0%81%E6%9D%A5%E5%AE%A1%E5%88%A4%20OpenAI%EF%BC%9F.md) |
 | 2026-08-21 | [现在是 Greg Brockman 的 OpenAI](daily-report/2026-08-21%20%E7%8E%B0%E5%9C%A8%E6%98%AF%20Greg%20Brockman%20%E7%9A%84%20OpenAI.md) |
-| 2026-08-20 | [OpenAI 踩下刹车，然后呢？](daily-report/2026-08-20%20OpenAI%20%E8%B8%A9%E4%B8%8B%E5%88%B9%E8%BD%A6%EF%BC%8C%E7%84%B6%E5%90%8E%E5%91%A2%EF%BC%9F.md) |
 
 ## ⭐ GitHub 精选  （共 56 篇）
 
