@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-23 | [换模型不如换 Harness：三种 Agent Loop 的工程与成本真相](deepdive/2026-08-23%20%E6%8D%A2%E6%A8%A1%E5%9E%8B%E4%B8%8D%E5%A6%82%E6%8D%A2%20Harness%EF%BC%9A%E4%B8%89%E7%A7%8D%20Agent%20Loop%20%E7%9A%84%E5%B7%A5%E7%A8%8B%E4%B8%8E%E6%88%90%E6%9C%AC%E7%9C%9F%E7%9B%B8.md) |
 | 2026-08-22 | [Agent 领工牌上岗：持久权限与角色化，自治与可控的架构分水岭](deepdive/2026-08-22%20Agent%20%E9%A2%86%E5%B7%A5%E7%89%8C%E4%B8%8A%E5%B2%97%EF%BC%9A%E6%8C%81%E4%B9%85%E6%9D%83%E9%99%90%E4%B8%8E%E8%A7%92%E8%89%B2%E5%8C%96%EF%BC%8C%E8%87%AA%E6%B2%BB%E4%B8%8E%E5%8F%AF%E6%8E%A7%E7%9A%84%E6%9E%B6%E6%9E%84%E5%88%86%E6%B0%B4%E5%B2%AD.md) |
 
-## 📰 AI 前沿日报  （共 59 篇）
+## 📰 AI 前沿日报  （共 60 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-01 | [马斯克点名AI 界的下一个英伟达：Howmet Aerospace](daily-report/2026-09-01%20%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E5%90%8DAI%20%E7%95%8C%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9AHowmet%20Aerospace.md) |
 | 2026-08-31 | [OpenAI 以「不信任马斯克」为由终止与 Cursor 的合作](daily-report/2026-08-31%20OpenAI%20%E4%BB%A5%E3%80%8C%E4%B8%8D%E4%BF%A1%E4%BB%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E3%80%8D%E4%B8%BA%E7%94%B1%E7%BB%88%E6%AD%A2%E4%B8%8E%20Cursor%20%E7%9A%84%E5%90%88%E4%BD%9C.md) |
 | 2026-08-30 | [OpenAI 将终止向马斯克旗下 Cursor 提供模型访问](daily-report/2026-08-30%20OpenAI%20%E5%B0%86%E7%BB%88%E6%AD%A2%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8B%20Cursor%20%E6%8F%90%E4%BE%9B%E6%A8%A1%E5%9E%8B%E8%AE%BF%E9%97%AE.md) |
 | 2026-08-29 | [教父落榜：Time 百大 AI 名单未列黄仁勋](daily-report/2026-08-29%20%E6%95%99%E7%88%B6%E8%90%BD%E6%A6%9C%EF%BC%9ATime%20%E7%99%BE%E5%A4%A7%20AI%20%E5%90%8D%E5%8D%95%E6%9C%AA%E5%88%97%E9%BB%84%E4%BB%81%E5%8B%8B.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-25 | [NVIDIA 扩展 Vera Rubin Agent 推理能力，Groq 3 LPX 全面量产](daily-report/2026-08-25%20NVIDIA%20%E6%89%A9%E5%B1%95%20Vera%20Rubin%20Agent%20%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%EF%BC%8CGroq%203%20LPX%20%E5%85%A8%E9%9D%A2%E9%87%8F%E4%BA%A7.md) |
 | 2026-08-24 | [xAI 推出 Grok Bot：常驻 AI Agent 进场](daily-report/2026-08-24%20xAI%20%E6%8E%A8%E5%87%BA%20Grok%20Bot%EF%BC%9A%E5%B8%B8%E9%A9%BB%20AI%20Agent%20%E8%BF%9B%E5%9C%BA.md) |
 | 2026-08-23 | [xAI 发布 Grok Bot：常驻式 AI Agent](daily-report/2026-08-23%20xAI%20%E5%8F%91%E5%B8%83%20Grok%20Bot%EF%BC%9A%E5%B8%B8%E9%A9%BB%E5%BC%8F%20AI%20Agent.md) |
-| 2026-08-22 | [谁来审判 OpenAI？](daily-report/2026-08-22%20%E8%B0%81%E6%9D%A5%E5%AE%A1%E5%88%A4%20OpenAI%EF%BC%9F.md) |
 
 ## ⭐ GitHub 精选  （共 58 篇）
 
