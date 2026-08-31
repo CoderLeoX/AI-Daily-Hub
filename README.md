@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-24 | [codex · awesome-gpt-image-2 · skills · omarchy · OpenLogi](github-trending/2026-08-24%20codex%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20skills%20%C2%B7%20omarchy%20%C2%B7%20OpenLogi.md) |
 | 2026-08-23 | [codex · skills · ECC · superpowers · sub2api · plane · n8n](github-trending/2026-08-23%20codex%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20superpowers%20%C2%B7%20sub2api%20%C2%B7%20plane%20%C2%B7%20n8n.md) |
 
-## 🐧 Linux 社区动态  （共 22 篇）
+## 🐧 Linux 社区动态  （共 23 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-01 | [USN-8704-1 GNU cpio 多个漏洞](linux-community/2026-09-01%20USN-8704-1%20GNU%20cpio%20%E5%A4%9A%E4%B8%AA%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-31 | [DSA-6479-1 roundcube 安全更新](linux-community/2026-08-31%20DSA-6479-1%20roundcube%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-08-30 | [Ryabitsev：AI 爬虫的侵扰](linux-community/2026-08-30%20Ryabitsev%EF%BC%9AAI%20%E7%88%AC%E8%99%AB%E7%9A%84%E4%BE%B5%E6%89%B0.md) |
 | 2026-08-29 | [7.2.2 至 5.10.268：8 个 stable 内核仅修复一漏洞](linux-community/2026-08-29%207.2.2%20%E8%87%B3%205.10.268%EF%BC%9A8%20%E4%B8%AA%20stable%20%E5%86%85%E6%A0%B8%E4%BB%85%E4%BF%AE%E5%A4%8D%E4%B8%80%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-25 | [USN-8671-1：FFmpeg 漏洞](linux-community/2026-08-25%20USN-8671-1%EF%BC%9AFFmpeg%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-24 | [DSA-6461-1 thunderbird 安全更新](linux-community/2026-08-24%20DSA-6461-1%20thunderbird%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-08-23 | [DSA-6458-1 gst-plugins-bad1.0 安全更新](linux-community/2026-08-23%20DSA-6458-1%20gst-plugins-bad1.0%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
-| 2026-08-22 | [USN-8658-2：Linux 内核 (IBM) 多个漏洞](linux-community/2026-08-22%20USN-8658-2%EF%BC%9ALinux%20%E5%86%85%E6%A0%B8%20%28IBM%29%20%E5%A4%9A%E4%B8%AA%E6%BC%8F%E6%B4%9E.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
