@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-24 | [xAI 推出 Grok Bot：常驻 AI Agent 进场](daily-report/2026-08-24%20xAI%20%E6%8E%A8%E5%87%BA%20Grok%20Bot%EF%BC%9A%E5%B8%B8%E9%A9%BB%20AI%20Agent%20%E8%BF%9B%E5%9C%BA.md) |
 | 2026-08-23 | [xAI 发布 Grok Bot：常驻式 AI Agent](daily-report/2026-08-23%20xAI%20%E5%8F%91%E5%B8%83%20Grok%20Bot%EF%BC%9A%E5%B8%B8%E9%A9%BB%E5%BC%8F%20AI%20Agent.md) |
 
-## ⭐ GitHub 精选  （共 58 篇）
+## ⭐ GitHub 精选  （共 59 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-01 | [OpenMAIC · archify · scientific-agent-skills · Wand-Enhancer](github-trending/2026-09-01%20OpenMAIC%20%C2%B7%20archify%20%C2%B7%20scientific-agent-skills%20%C2%B7%20Wand-Enhancer.md) |
 | 2026-08-31 | [OpenMAIC · scientific-agent-skills · vphone-cli · archify](github-trending/2026-08-31%20OpenMAIC%20%C2%B7%20scientific-agent-skills%20%C2%B7%20vphone-cli%20%C2%B7%20archify.md) |
 | 2026-08-30 | [archify · gods-eye-view · scientific-agent-skills · tailcat](github-trending/2026-08-30%20archify%20%C2%B7%20gods-eye-view%20%C2%B7%20scientific-agent-skills%20%C2%B7%20tailcat.md) |
 | 2026-08-29 | [archify · scientific-agent-skills · claude-plugins-official](github-trending/2026-08-29%20archify%20%C2%B7%20scientific-agent-skills%20%C2%B7%20claude-plugins-official.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-25 | [free-claude-code · codex · ai-job-search](github-trending/2026-08-25%20free-claude-code%20%C2%B7%20codex%20%C2%B7%20ai-job-search.md) |
 | 2026-08-24 | [codex · awesome-gpt-image-2 · skills · omarchy · OpenLogi](github-trending/2026-08-24%20codex%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20skills%20%C2%B7%20omarchy%20%C2%B7%20OpenLogi.md) |
 | 2026-08-23 | [codex · skills · ECC · superpowers · sub2api · plane · n8n](github-trending/2026-08-23%20codex%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20superpowers%20%C2%B7%20sub2api%20%C2%B7%20plane%20%C2%B7%20n8n.md) |
-| 2026-08-22 | [skills · google-timeline-visualizer · MoneyPrinterTurbo](github-trending/2026-08-22%20skills%20%C2%B7%20google-timeline-visualizer%20%C2%B7%20MoneyPrinterTurbo.md) |
 
 ## 🐧 Linux 社区动态  （共 22 篇）
 
