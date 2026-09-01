@@ -7,7 +7,7 @@
 
 当前主线 [v7.2](https://github.com/torvalds/linux/tree/v7.2)，今日无新版本。
 
-## 🛡️ 安全通告
+## 🛡 安全通告
 
 ### 1. USN-8630-3：Linux 内核（Oracle）漏洞
 Linux 内核发现多个安全问题，攻击者可能借此入侵系统；本次更新修复 x86 架构子系统的缺陷。
@@ -72,7 +72,7 @@ Debian 发布 librabbitmq 安全更新，建议及时升级修复。
 
 ## ⏳ LTS / EOL 生命周期
 
-状态无变化，最近到期：[openssl 3.0 LTS](https://endoflife.date/openssl) 2026-09-07（⚠️ 仅剩 19 天）。
+状态无变化，最近到期：[openssl 3.0 LTS](https://endoflife.date/openssl) 2026-09-07（⚠ 仅剩 19 天）。
 
 ## 🔧 工具链更新
 

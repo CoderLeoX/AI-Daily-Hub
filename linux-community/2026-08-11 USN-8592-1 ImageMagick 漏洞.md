@@ -15,7 +15,7 @@
 | [v7.2-rc1](https://github.com/torvalds/linux/tree/v7.2-rc1) | Linux 7.2 第 1 个发布候选版 (RC) |
 | [v7.1](https://github.com/torvalds/linux/tree/v7.1) | Linux 7.1 正式版 |
 
-## 🛡️ 安全通告
+## 🛡 安全通告
 
 ### 1. USN-8592-1: ImageMagick 漏洞
 Hao Ren 发现 ImageMagick 在使用 wavelet-denoise 操作处理特定图像时校验不当，攻击者可触发越界堆写入，可能导致任意代码执行。
@@ -85,7 +85,7 @@ Greg Kroah-Hartman 宣布发布 7.1.7、6.18.43、6.6.149、6.1.181、5.15.214�
 ### 2. 🔀 合并子系统树 v7.2-p3（08-10）
 [查看提交](https://github.com/torvalds/linux/commit/5eabf07a0bf317723da229376b4e910f12b4644b)
 
-### 3. 🏷️ 版本发布 Linux 7.2-rc7（08-09）
+### 3. 🏷 版本发布 Linux 7.2-rc7（08-09）
 [查看提交](https://github.com/torvalds/linux/commit/db2ddb87143519e20a95aa36c60b36107b736a58)
 
 ### 4. 🔀 合并子系统树 trace-v7.2-rc6（08-09）
@@ -107,9 +107,9 @@ Greg Kroah-Hartman 宣布发布 7.1.7、6.18.43、6.6.149、6.1.181、5.15.214�
 
 | 产品 | 版本 | EOL 日期 | 状态 |
 | --- | --- | --- | --- |
-| [openssl](https://endoflife.date/openssl) | 3.0 LTS | 2026-09-07 | ⚠️ 仅剩 27 天 |
-| [openssl](https://endoflife.date/openssl) | 3.4 | 2026-10-22 | ⚠️ 仅剩 72 天 |
-| [openssl](https://endoflife.date/openssl) | 3.6 | 2026-11-01 | ⚠️ 仅剩 82 天 |
+| [openssl](https://endoflife.date/openssl) | 3.0 LTS | 2026-09-07 | ⚠ 仅剩 27 天 |
+| [openssl](https://endoflife.date/openssl) | 3.4 | 2026-10-22 | ⚠ 仅剩 72 天 |
+| [openssl](https://endoflife.date/openssl) | 3.6 | 2026-11-01 | ⚠ 仅剩 82 天 |
 | [linux](https://endoflife.date/linux) | 5.15 LTS | 2026-12-31 | 📅 约 4 个月 |
 | [linux](https://endoflife.date/linux) | 5.10 LTS | 2026-12-31 | 📅 约 4 个月 |
 | [ubuntu](https://endoflife.date/ubuntu) | 22.04 LTS | 2027-04-01 | ✅ 约 7 个月 |

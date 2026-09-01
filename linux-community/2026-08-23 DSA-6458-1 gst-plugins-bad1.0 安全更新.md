@@ -7,7 +7,7 @@
 
 当前主线 [v7.2](https://github.com/torvalds/linux/tree/v7.2)，今日无新版本。
 
-## 🛡️ 安全通告
+## 🛡 安全通告
 
 ### 1. DSA-6458-1 gst-plugins-bad1.0 安全更新
 修复 GStreamer 媒体解析器多处越界读写漏洞，恶意媒体文件可致崩溃、信息泄露甚至任意代码执行
@@ -37,7 +37,7 @@ _今日无新增文章。_
 
 ## ⏳ LTS / EOL 生命周期
 
-状态无变化，最近到期：[openssl 3.0 LTS](https://endoflife.date/openssl) 2026-09-07（⚠️ 仅剩 15 天）。
+状态无变化，最近到期：[openssl 3.0 LTS](https://endoflife.date/openssl) 2026-09-07（⚠ 仅剩 15 天）。
 
 ## 🔧 工具链更新
 

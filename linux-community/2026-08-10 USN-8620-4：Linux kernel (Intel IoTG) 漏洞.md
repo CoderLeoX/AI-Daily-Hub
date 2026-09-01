@@ -15,7 +15,7 @@
 | [v7.2-rc1](https://github.com/torvalds/linux/tree/v7.2-rc1) | Linux 7.2 第 1 个发布候选版 (RC) |
 | [v7.1](https://github.com/torvalds/linux/tree/v7.1) | Linux 7.1 正式版 |
 
-## 🛡️ 安全通告
+## 🛡 安全通告
 
 ### 1. USN-8620-4：Linux kernel (Intel IoTG) 漏洞
 Maxim Suhanov 发现 Linux 内核 NTFS 实现在特定情况下未正确校验文件名长度，导致越界读取；本地攻击者可利用该问题造成拒绝服务（系统崩溃）。
@@ -89,7 +89,7 @@ FUSE 维护者 Miklos Szeredi 在 2026 Linux Storage、Filesystem、Memory Manag
 
 ## 💻 Linus 动态
 
-### 1. 🏷️ 版本发布 Linux 7.2-rc7（08-09）
+### 1. 🏷 版本发布 Linux 7.2-rc7（08-09）
 [查看提交](https://github.com/torvalds/linux/commit/db2ddb87143519e20a95aa36c60b36107b736a58)
 
 ### 2. 🔀 合并子系统树 trace-v7.2-rc6（08-09）
@@ -117,9 +117,9 @@ FUSE 维护者 Miklos Szeredi 在 2026 Linux Storage、Filesystem、Memory Manag
 
 | 产品 | 版本 | EOL 日期 | 状态 |
 | --- | --- | --- | --- |
-| [openssl](https://endoflife.date/openssl) | 3.0 LTS | 2026-09-07 | ⚠️ 仅剩 28 天 |
-| [openssl](https://endoflife.date/openssl) | 3.4 | 2026-10-22 | ⚠️ 仅剩 73 天 |
-| [openssl](https://endoflife.date/openssl) | 3.6 | 2026-11-01 | ⚠️ 仅剩 83 天 |
+| [openssl](https://endoflife.date/openssl) | 3.0 LTS | 2026-09-07 | ⚠ 仅剩 28 天 |
+| [openssl](https://endoflife.date/openssl) | 3.4 | 2026-10-22 | ⚠ 仅剩 73 天 |
+| [openssl](https://endoflife.date/openssl) | 3.6 | 2026-11-01 | ⚠ 仅剩 83 天 |
 | [linux](https://endoflife.date/linux) | 5.15 LTS | 2026-12-31 | 📅 约 4 个月 |
 | [linux](https://endoflife.date/linux) | 5.10 LTS | 2026-12-31 | 📅 约 4 个月 |
 | [ubuntu](https://endoflife.date/ubuntu) | 22.04 LTS | 2027-04-01 | ✅ 约 7 个月 |

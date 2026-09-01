@@ -7,7 +7,7 @@
 
 当前主线 [v7.2](https://github.com/torvalds/linux/tree/v7.2)，今日无新版本。
 
-## 🛡️ 安全通告
+## 🛡 安全通告
 
 _今日无新增安全通告。_
 
@@ -36,9 +36,9 @@ git.kernel.org 每日约 600 万请求中 66% 被 Anubis 工作量证明拦截�
 
 | 产品 | 版本 | EOL 日期 | 状态 |
 | --- | --- | --- | --- |
-| [openssl](https://endoflife.date/openssl) | 3.0 LTS | 2026-09-07 | ⚠️ 仅剩 8 天 |
-| [openssl](https://endoflife.date/openssl) | 3.4 | 2026-10-22 | ⚠️ 仅剩 53 天 |
-| [openssl](https://endoflife.date/openssl) | 3.6 | 2026-11-01 | ⚠️ 仅剩 63 天 |
+| [openssl](https://endoflife.date/openssl) | 3.0 LTS | 2026-09-07 | ⚠ 仅剩 8 天 |
+| [openssl](https://endoflife.date/openssl) | 3.4 | 2026-10-22 | ⚠ 仅剩 53 天 |
+| [openssl](https://endoflife.date/openssl) | 3.6 | 2026-11-01 | ⚠ 仅剩 63 天 |
 | [linux](https://endoflife.date/linux) | 5.15 LTS | 2026-12-31 | 📅 约 4 个月 |
 | [linux](https://endoflife.date/linux) | 5.10 LTS | 2026-12-31 | 📅 约 4 个月 |
 | [openssl](https://endoflife.date/openssl) | 4.0 | 2027-05-14 | ✅ 约 8 个月 |

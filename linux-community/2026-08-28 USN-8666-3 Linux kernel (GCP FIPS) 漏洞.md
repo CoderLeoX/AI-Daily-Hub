@@ -7,7 +7,7 @@
 
 当前主线 [v7.2](https://github.com/torvalds/linux/tree/v7.2)，今日无新版本。
 
-## 🛡️ 安全通告
+## 🛡 安全通告
 
 ### 1. USN-8666-3: Linux kernel (GCP FIPS) 漏洞
 研究人员发现，Linux kernel 的 WiFi 实现因某 CVE 修复不正确，未能在 mesh 网络中正确处理聚合帧（aggregated frames）。
@@ -72,7 +72,7 @@ Greg Kroah-Hartman 发布 7.2.1、7.1.11、6.18.47、6.12.106、6.6.154、6.1.18
 
 ## ⏳ LTS / EOL 生命周期
 
-状态无变化，最近到期：[openssl 3.0 LTS](https://endoflife.date/openssl) 2026-09-07（⚠️ 仅剩 10 天）。
+状态无变化，最近到期：[openssl 3.0 LTS](https://endoflife.date/openssl) 2026-09-07（⚠ 仅剩 10 天）。
 
 ## 🔧 工具链更新
 

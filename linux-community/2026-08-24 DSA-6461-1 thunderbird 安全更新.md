@@ -7,7 +7,7 @@
 
 当前主线 [v7.2](https://github.com/torvalds/linux/tree/v7.2)，今日无新版本。
 
-## 🛡️ 安全通告
+## 🛡 安全通告
 
 ### 1. DSA-6461-1 thunderbird 安全更新
 修复 13 个 CVE（CVE-2026-74963 至 CVE-2026-74990 等），trixie 修复版 1:140.14.0esr-1~deb13u1
@@ -57,7 +57,7 @@ Jeremy Allison 带来噩耗：Steve French 辞世，他曾多年担任内核 SMB
 
 ## ⏳ LTS / EOL 生命周期
 
-状态无变化，最近到期：[openssl 3.0 LTS](https://endoflife.date/openssl) 2026-09-07（⚠️ 仅剩 14 天）。
+状态无变化，最近到期：[openssl 3.0 LTS](https://endoflife.date/openssl) 2026-09-07（⚠ 仅剩 14 天）。
 
 ## 🔧 工具链更新
 

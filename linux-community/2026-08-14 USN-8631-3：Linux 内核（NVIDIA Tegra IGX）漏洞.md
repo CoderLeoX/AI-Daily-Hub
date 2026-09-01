@@ -7,7 +7,7 @@
 
 当前主线 [v7.2-rc7](https://github.com/torvalds/linux/tree/v7.2-rc7)，今日无新版本。
 
-## 🛡️ 安全通告
+## 🛡 安全通告
 
 ### 1. USN-8631-3：Linux 内核（NVIDIA Tegra IGX）漏洞
 研究人员发现 Linux 内核 WiFi 实现因 CVE 修复不当，未能正确处理网状网络中的聚合帧。
@@ -57,7 +57,7 @@ _今日无新增文章。_
 
 ## ⏳ LTS / EOL 生命周期
 
-状态无变化，最近到期：[openssl 3.0 LTS](https://endoflife.date/openssl) 2026-09-07（⚠️ 仅剩 24 天）。
+状态无变化，最近到期：[openssl 3.0 LTS](https://endoflife.date/openssl) 2026-09-07（⚠ 仅剩 24 天）。
 
 ## 🔧 工具链更新
 
