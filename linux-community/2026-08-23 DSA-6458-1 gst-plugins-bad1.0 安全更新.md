@@ -21,7 +21,7 @@
 
 _今日无新增文章。_
 
-## 👨‍💻 Linus 动态
+## 💻 Linus 动态
 
 ### 1. 🔀 合并子系统树 caps-pr-20260820（08-22）
 [查看提交](https://github.com/torvalds/linux/commit/66fb95a521110da673090294561844c9f76ebe64)

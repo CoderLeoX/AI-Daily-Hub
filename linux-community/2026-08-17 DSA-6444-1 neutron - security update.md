@@ -21,7 +21,7 @@ https://security-tracker.debian.org/tracker/DSA-6443-1
 
 _今日无新增文章。_
 
-## 👨‍💻 Linus 动态
+## 💻 Linus 动态
 
 ### 1. 🔀 合并子系统树 sched_urgent_for_v7.2（08-16）
 [查看提交](https://github.com/torvalds/linux/commit/fd923b32d7614047c8b2acecae3915ec94f7afab)

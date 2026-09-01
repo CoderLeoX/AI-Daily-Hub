@@ -44,7 +44,7 @@ Greg Kroah-Hartman 发布 7.2.1、7.1.11、6.18.47、6.12.106、6.6.154、6.1.18
 📍 *来源：[LWN](https://lwn.net/Articles/1090940/)*
 📅 2026-08-27
 
-## 👨‍💻 Linus 动态
+## 💻 Linus 动态
 
 ### 1. 🔀 合并子系统树 net-7.3-rc1（08-27）
 [查看提交](https://github.com/torvalds/linux/commit/1b78070aaef63512688aebfbc82365ef9d6660f1)

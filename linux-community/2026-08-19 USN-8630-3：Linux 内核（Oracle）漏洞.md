@@ -44,7 +44,7 @@ Debian 发布 librabbitmq 安全更新，建议及时升级修复。
 📍 *来源：[LWN](https://lwn.net/Articles/1088489/)*
 📅 2026-08-18
 
-## 👨‍💻 Linus 动态
+## 💻 Linus 动态
 
 ### 1. 🔀 合并子系统树 x86-documentation-2026-08-17（08-18）
 [查看提交](https://github.com/torvalds/linux/commit/3a0dd7ba4f44cdc116d83712f61e7c1a95be3588)

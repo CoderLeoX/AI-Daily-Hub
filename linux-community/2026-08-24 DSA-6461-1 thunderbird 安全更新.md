@@ -29,7 +29,7 @@ Jeremy Allison 带来噩耗：Steve French 辞世，他曾多年担任内核 SMB
 📍 *来源：[LWN](https://lwn.net/Articles/1090098/)*
 📅 2026-08-23
 
-## 👨‍💻 Linus 动态
+## 💻 Linus 动态
 
 ### 1. 🔀 合并子系统树 i3c/for-7.3（08-23）
 [查看提交](https://github.com/torvalds/linux/commit/4352b8aee98005853aa63f57d6377282de17a33f)

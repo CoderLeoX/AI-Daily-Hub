@@ -41,7 +41,7 @@ Debian 安全通告，具体内容详见来源链接。
 
 _今日无新增文章。_
 
-## 👨‍💻 Linus 动态
+## 💻 Linus 动态
 
 ### 1. 🔀 合并子系统树 net-7.2-rc8（08-13）
 [查看提交](https://github.com/torvalds/linux/commit/e14aacefb78d942d2308d9821fe52d75d21a824e)

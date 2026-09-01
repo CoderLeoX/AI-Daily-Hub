@@ -87,7 +87,7 @@ FUSE 维护者 Miklos Szeredi 在 2026 Linux Storage、Filesystem、Memory Manag
 📍 *来源：[LWN](https://lwn.net/Articles/1086336/)*
 📅 2026-08-05
 
-## 👨‍💻 Linus 动态
+## 💻 Linus 动态
 
 ### 1. 🏷️ 版本发布 Linux 7.2-rc7（08-09）
 [查看提交](https://github.com/torvalds/linux/commit/db2ddb87143519e20a95aa36c60b36107b736a58)

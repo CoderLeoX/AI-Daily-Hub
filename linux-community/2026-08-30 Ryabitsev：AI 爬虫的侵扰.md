@@ -18,7 +18,7 @@ git.kernel.org 每日约 600 万请求中 66% 被 Anubis 工作量证明拦截�
 📍 *来源：[LWN](https://lwn.net/Articles/1091203/)*
 📅 2026-08-29
 
-## 👨‍💻 Linus 动态
+## 💻 Linus 动态
 
 ### 1. 🔀 合并子系统树 for-linus（08-29）
 [查看提交](https://github.com/torvalds/linux/commit/08dbfad3f5040f5bdb6c529da20d6d4e81fefd72)

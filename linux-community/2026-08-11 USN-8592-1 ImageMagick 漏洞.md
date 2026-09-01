@@ -77,7 +77,7 @@ Greg Kroah-Hartman 宣布发布 7.1.7、6.18.43、6.6.149、6.1.181、5.15.214�
 📍 *来源：[LWN](https://lwn.net/Articles/1086947/)*
 📅 2026-08-06
 
-## 👨‍💻 Linus 动态
+## 💻 Linus 动态
 
 ### 1. 🔀 合并子系统树 regmap-fix-v7.2-rc7（08-10）
 [查看提交](https://github.com/torvalds/linux/commit/d58772d8520c7ef247c4b95c9bd76d3a25da9ff5)
