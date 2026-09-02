@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-25 | [内存池化是 Agent 长上下文的解药，也是新绑定：拆解 Vera Rubin LPX 推理平台](deepdive/2026-08-25%20%E5%86%85%E5%AD%98%E6%B1%A0%E5%8C%96%E6%98%AF%20Agent%20%E9%95%BF%E4%B8%8A%E4%B8%8B%E6%96%87%E7%9A%84%E8%A7%A3%E8%8D%AF%EF%BC%8C%E4%B9%9F%E6%98%AF%E6%96%B0%E7%BB%91%E5%AE%9A%EF%BC%9A%E6%8B%86%E8%A7%A3%20Vera%20Rubin%20LPX%20%E6%8E%A8%E7%90%86%E5%B9%B3%E5%8F%B0.md) |
 | 2026-08-24 | [开源基座+垂直后训练：Harvey Tenet 的法律 Agent 架构与评测可信度陷阱](deepdive/2026-08-24%20%E5%BC%80%E6%BA%90%E5%9F%BA%E5%BA%A7%2B%E5%9E%82%E7%9B%B4%E5%90%8E%E8%AE%AD%E7%BB%83%EF%BC%9AHarvey%20Tenet%20%E7%9A%84%E6%B3%95%E5%BE%8B%20Agent%20%E6%9E%B6%E6%9E%84%E4%B8%8E%E8%AF%84%E6%B5%8B%E5%8F%AF%E4%BF%A1%E5%BA%A6%E9%99%B7%E9%98%B1.md) |
 
-## 📰 AI 前沿日报  （共 61 篇）
+## 📰 AI 前沿日报  （共 62 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-03 | [企业级 Agent 落地样板间！百融硅基员工批量上岗、按结果领工资](daily-report/2026-09-03%20%E4%BC%81%E4%B8%9A%E7%BA%A7%20Agent%20%E8%90%BD%E5%9C%B0%E6%A0%B7%E6%9D%BF%E9%97%B4%EF%BC%81%E7%99%BE%E8%9E%8D%E7%A1%85%E5%9F%BA%E5%91%98%E5%B7%A5%E6%89%B9%E9%87%8F%E4%B8%8A%E5%B2%97%E3%80%81%E6%8C%89%E7%BB%93%E6%9E%9C%E9%A2%86%E5%B7%A5%E8%B5%84.md) |
 | 2026-09-02 | [马斯克开造燃气轮机叶片，生产周期缩短 18 个月](daily-report/2026-09-02%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%80%A0%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E5%8F%B6%E7%89%87%EF%BC%8C%E7%94%9F%E4%BA%A7%E5%91%A8%E6%9C%9F%E7%BC%A9%E7%9F%AD%2018%20%E4%B8%AA%E6%9C%88.md) |
 | 2026-09-01 | [马斯克点名AI 界的下一个英伟达：Howmet Aerospace](daily-report/2026-09-01%20%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E5%90%8DAI%20%E7%95%8C%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9AHowmet%20Aerospace.md) |
 | 2026-08-31 | [OpenAI 以「不信任马斯克」为由终止与 Cursor 的合作](daily-report/2026-08-31%20OpenAI%20%E4%BB%A5%E3%80%8C%E4%B8%8D%E4%BF%A1%E4%BB%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E3%80%8D%E4%B8%BA%E7%94%B1%E7%BB%88%E6%AD%A2%E4%B8%8E%20Cursor%20%E7%9A%84%E5%90%88%E4%BD%9C.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-27 | [AI Agent 时代，CX 的新挑战是编排](daily-report/2026-08-27%20AI%20Agent%20%E6%97%B6%E4%BB%A3%EF%BC%8CCX%20%E7%9A%84%E6%96%B0%E6%8C%91%E6%88%98%E6%98%AF%E7%BC%96%E6%8E%92.md) |
 | 2026-08-26 | [头部发行商携重磅 PC 游戏与技术登陆 NVIDIA RTX Spark](daily-report/2026-08-26%20%E5%A4%B4%E9%83%A8%E5%8F%91%E8%A1%8C%E5%95%86%E6%90%BA%E9%87%8D%E7%A3%85%20PC%20%E6%B8%B8%E6%88%8F%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%99%BB%E9%99%86%20NVIDIA%20RTX%20Spark.md) |
 | 2026-08-25 | [NVIDIA 扩展 Vera Rubin Agent 推理能力，Groq 3 LPX 全面量产](daily-report/2026-08-25%20NVIDIA%20%E6%89%A9%E5%B1%95%20Vera%20Rubin%20Agent%20%E6%8E%A8%E7%90%86%E8%83%BD%E5%8A%9B%EF%BC%8CGroq%203%20LPX%20%E5%85%A8%E9%9D%A2%E9%87%8F%E4%BA%A7.md) |
-| 2026-08-24 | [xAI 推出 Grok Bot：常驻 AI Agent 进场](daily-report/2026-08-24%20xAI%20%E6%8E%A8%E5%87%BA%20Grok%20Bot%EF%BC%9A%E5%B8%B8%E9%A9%BB%20AI%20Agent%20%E8%BF%9B%E5%9C%BA.md) |
 
 ## ⭐ GitHub 精选  （共 60 篇）
 
