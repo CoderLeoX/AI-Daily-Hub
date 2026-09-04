@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-28 | [gods-eye-view · nitter · awesome-gpt-image-2 · archify](github-trending/2026-08-28%20gods-eye-view%20%C2%B7%20nitter%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20archify.md) |
 | 2026-08-27 | [archify · awesome-gpt-image-2 · claude-plugins-official](github-trending/2026-08-27%20archify%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20claude-plugins-official.md) |
 
-## 🐧 Linux 社区动态  （共 26 篇）
+## 🐧 Linux 社区动态  （共 27 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-05 | [USN-8714-2 Linux 内核漏洞](linux-community/2026-09-05%20USN-8714-2%20Linux%20%E5%86%85%E6%A0%B8%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-04 | [USN-8724-1 rabbitmq-c 漏洞](linux-community/2026-09-04%20USN-8724-1%20rabbitmq-c%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-03 | [USN-8661-4：Linux kernel 漏洞修复](linux-community/2026-09-03%20USN-8661-4%EF%BC%9ALinux%20kernel%20%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D.md) |
 | 2026-09-02 | [USN-8712-1 pyasn1 漏洞](linux-community/2026-09-02%20USN-8712-1%20pyasn1%20%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-29 | [7.2.2 至 5.10.268：8 个 stable 内核仅修复一漏洞](linux-community/2026-08-29%207.2.2%20%E8%87%B3%205.10.268%EF%BC%9A8%20%E4%B8%AA%20stable%20%E5%86%85%E6%A0%B8%E4%BB%85%E4%BF%AE%E5%A4%8D%E4%B8%80%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-28 | [USN-8666-3 Linux kernel (GCP FIPS) 漏洞](linux-community/2026-08-28%20USN-8666-3%20Linux%20kernel%20%28GCP%20FIPS%29%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-27 | [USN-8683-1：libheif 漏洞](linux-community/2026-08-27%20USN-8683-1%EF%BC%9Alibheif%20%E6%BC%8F%E6%B4%9E.md) |
-| 2026-08-26 | [USN-8666-2 Linux 内核（Azure）漏洞](linux-community/2026-08-26%20USN-8666-2%20Linux%20%E5%86%85%E6%A0%B8%EF%BC%88Azure%EF%BC%89%E6%BC%8F%E6%B4%9E.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
