@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-27 | [AI Agent 时代，CX 的新挑战是编排](daily-report/2026-08-27%20AI%20Agent%20%E6%97%B6%E4%BB%A3%EF%BC%8CCX%20%E7%9A%84%E6%96%B0%E6%8C%91%E6%88%98%E6%98%AF%E7%BC%96%E6%8E%92.md) |
 | 2026-08-26 | [头部发行商携重磅 PC 游戏与技术登陆 NVIDIA RTX Spark](daily-report/2026-08-26%20%E5%A4%B4%E9%83%A8%E5%8F%91%E8%A1%8C%E5%95%86%E6%90%BA%E9%87%8D%E7%A3%85%20PC%20%E6%B8%B8%E6%88%8F%E4%B8%8E%E6%8A%80%E6%9C%AF%E7%99%BB%E9%99%86%20NVIDIA%20RTX%20Spark.md) |
 
-## ⭐ GitHub 精选  （共 62 篇）
+## ⭐ GitHub 精选  （共 63 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-05 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-05%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
 | 2026-09-04 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-04%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
 | 2026-09-03 | [fmt · timesfm · ponytail · VoiceStudio · Sequoia-X](github-trending/2026-09-03%20fmt%20%C2%B7%20timesfm%20%C2%B7%20ponytail%20%C2%B7%20VoiceStudio%20%C2%B7%20Sequoia-X.md) |
 | 2026-09-02 | [openclaude · academic-research-skills · OpenMAIC · invidious](github-trending/2026-09-02%20openclaude%20%C2%B7%20academic-research-skills%20%C2%B7%20OpenMAIC%20%C2%B7%20invidious.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-29 | [archify · scientific-agent-skills · claude-plugins-official](github-trending/2026-08-29%20archify%20%C2%B7%20scientific-agent-skills%20%C2%B7%20claude-plugins-official.md) |
 | 2026-08-28 | [gods-eye-view · nitter · awesome-gpt-image-2 · archify](github-trending/2026-08-28%20gods-eye-view%20%C2%B7%20nitter%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20archify.md) |
 | 2026-08-27 | [archify · awesome-gpt-image-2 · claude-plugins-official](github-trending/2026-08-27%20archify%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20claude-plugins-official.md) |
-| 2026-08-26 | [awesome-gpt-image-2 · claude-plugins-community · maka](github-trending/2026-08-26%20awesome-gpt-image-2%20%C2%B7%20claude-plugins-community%20%C2%B7%20maka.md) |
 
 ## 🐧 Linux 社区动态  （共 26 篇）
 
