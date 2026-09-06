@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-29 | [教父落榜：Time 百大 AI 名单未列黄仁勋](daily-report/2026-08-29%20%E6%95%99%E7%88%B6%E8%90%BD%E6%A6%9C%EF%BC%9ATime%20%E7%99%BE%E5%A4%A7%20AI%20%E5%90%8D%E5%8D%95%E6%9C%AA%E5%88%97%E9%BB%84%E4%BB%81%E5%8B%8B.md) |
 | 2026-08-28 | [企业 AI 的真正风险不是自主智能体，而是智能体之间的复杂度](daily-report/2026-08-28%20%E4%BC%81%E4%B8%9A%20AI%20%E7%9A%84%E7%9C%9F%E6%AD%A3%E9%A3%8E%E9%99%A9%E4%B8%8D%E6%98%AF%E8%87%AA%E4%B8%BB%E6%99%BA%E8%83%BD%E4%BD%93%EF%BC%8C%E8%80%8C%E6%98%AF%E6%99%BA%E8%83%BD%E4%BD%93%E4%B9%8B%E9%97%B4%E7%9A%84%E5%A4%8D%E6%9D%82%E5%BA%A6.md) |
 
-## ⭐ GitHub 精选  （共 64 篇）
+## ⭐ GitHub 精选  （共 65 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-07 | [skills · ECC · ponytail · hermes-agent · fmt](github-trending/2026-09-07%20skills%20%C2%B7%20ECC%20%C2%B7%20ponytail%20%C2%B7%20hermes-agent%20%C2%B7%20fmt.md) |
 | 2026-09-06 | [skills · ponytail · fmt · ECC · humanizer · hermes-agent](github-trending/2026-09-06%20skills%20%C2%B7%20ponytail%20%C2%B7%20fmt%20%C2%B7%20ECC%20%C2%B7%20humanizer%20%C2%B7%20hermes-agent.md) |
 | 2026-09-05 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-05%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
 | 2026-09-04 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-04%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-31 | [OpenMAIC · scientific-agent-skills · vphone-cli · archify](github-trending/2026-08-31%20OpenMAIC%20%C2%B7%20scientific-agent-skills%20%C2%B7%20vphone-cli%20%C2%B7%20archify.md) |
 | 2026-08-30 | [archify · gods-eye-view · scientific-agent-skills · tailcat](github-trending/2026-08-30%20archify%20%C2%B7%20gods-eye-view%20%C2%B7%20scientific-agent-skills%20%C2%B7%20tailcat.md) |
 | 2026-08-29 | [archify · scientific-agent-skills · claude-plugins-official](github-trending/2026-08-29%20archify%20%C2%B7%20scientific-agent-skills%20%C2%B7%20claude-plugins-official.md) |
-| 2026-08-28 | [gods-eye-view · nitter · awesome-gpt-image-2 · archify](github-trending/2026-08-28%20gods-eye-view%20%C2%B7%20nitter%20%C2%B7%20awesome-gpt-image-2%20%C2%B7%20archify.md) |
 
 ## 🐧 Linux 社区动态  （共 28 篇）
 
