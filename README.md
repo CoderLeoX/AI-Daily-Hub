@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-30 | [OpenAI 将终止向马斯克旗下 Cursor 提供模型访问](daily-report/2026-08-30%20OpenAI%20%E5%B0%86%E7%BB%88%E6%AD%A2%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8B%20Cursor%20%E6%8F%90%E4%BE%9B%E6%A8%A1%E5%9E%8B%E8%AE%BF%E9%97%AE.md) |
 | 2026-08-29 | [教父落榜：Time 百大 AI 名单未列黄仁勋](daily-report/2026-08-29%20%E6%95%99%E7%88%B6%E8%90%BD%E6%A6%9C%EF%BC%9ATime%20%E7%99%BE%E5%A4%A7%20AI%20%E5%90%8D%E5%8D%95%E6%9C%AA%E5%88%97%E9%BB%84%E4%BB%81%E5%8B%8B.md) |
 
-## ⭐ GitHub 精选  （共 65 篇）
+## ⭐ GitHub 精选  （共 66 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-08 | [ECC · skills · diagram-design · hermes-agent · opencode](github-trending/2026-09-08%20ECC%20%C2%B7%20skills%20%C2%B7%20diagram-design%20%C2%B7%20hermes-agent%20%C2%B7%20opencode.md) |
 | 2026-09-07 | [skills · ECC · ponytail · hermes-agent · fmt](github-trending/2026-09-07%20skills%20%C2%B7%20ECC%20%C2%B7%20ponytail%20%C2%B7%20hermes-agent%20%C2%B7%20fmt.md) |
 | 2026-09-06 | [skills · ponytail · fmt · ECC · humanizer · hermes-agent](github-trending/2026-09-06%20skills%20%C2%B7%20ponytail%20%C2%B7%20fmt%20%C2%B7%20ECC%20%C2%B7%20humanizer%20%C2%B7%20hermes-agent.md) |
 | 2026-09-05 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-05%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-01 | [OpenMAIC · archify · scientific-agent-skills · Wand-Enhancer](github-trending/2026-09-01%20OpenMAIC%20%C2%B7%20archify%20%C2%B7%20scientific-agent-skills%20%C2%B7%20Wand-Enhancer.md) |
 | 2026-08-31 | [OpenMAIC · scientific-agent-skills · vphone-cli · archify](github-trending/2026-08-31%20OpenMAIC%20%C2%B7%20scientific-agent-skills%20%C2%B7%20vphone-cli%20%C2%B7%20archify.md) |
 | 2026-08-30 | [archify · gods-eye-view · scientific-agent-skills · tailcat](github-trending/2026-08-30%20archify%20%C2%B7%20gods-eye-view%20%C2%B7%20scientific-agent-skills%20%C2%B7%20tailcat.md) |
-| 2026-08-29 | [archify · scientific-agent-skills · claude-plugins-official](github-trending/2026-08-29%20archify%20%C2%B7%20scientific-agent-skills%20%C2%B7%20claude-plugins-official.md) |
 
 ## 🐧 Linux 社区动态  （共 29 篇）
 
