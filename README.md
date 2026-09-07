@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-31 | [OpenMAIC · scientific-agent-skills · vphone-cli · archify](github-trending/2026-08-31%20OpenMAIC%20%C2%B7%20scientific-agent-skills%20%C2%B7%20vphone-cli%20%C2%B7%20archify.md) |
 | 2026-08-30 | [archify · gods-eye-view · scientific-agent-skills · tailcat](github-trending/2026-08-30%20archify%20%C2%B7%20gods-eye-view%20%C2%B7%20scientific-agent-skills%20%C2%B7%20tailcat.md) |
 
-## 🐧 Linux 社区动态  （共 29 篇）
+## 🐧 Linux 社区动态  （共 30 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-08 | [USN-8732-1 Minetest 漏洞](linux-community/2026-09-08%20USN-8732-1%20Minetest%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-07 | [DSA-6486-1 libde265 安全更新](linux-community/2026-09-07%20DSA-6486-1%20libde265%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-09-06 | [🔀 合并子系统树 driver-core-7.3-rc2（09-05）](linux-community/2026-09-06%20%F0%9F%94%80%20%E5%90%88%E5%B9%B6%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%A0%91%20driver-core-7.3-rc2%EF%BC%8809-05%EF%BC%89.md) |
 | 2026-09-05 | [USN-8714-2 Linux 内核漏洞](linux-community/2026-09-05%20USN-8714-2%20Linux%20%E5%86%85%E6%A0%B8%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-01 | [USN-8704-1 GNU cpio 多个漏洞](linux-community/2026-09-01%20USN-8704-1%20GNU%20cpio%20%E5%A4%9A%E4%B8%AA%E6%BC%8F%E6%B4%9E.md) |
 | 2026-08-31 | [DSA-6479-1 roundcube 安全更新](linux-community/2026-08-31%20DSA-6479-1%20roundcube%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-08-30 | [Ryabitsev：AI 爬虫的侵扰](linux-community/2026-08-30%20Ryabitsev%EF%BC%9AAI%20%E7%88%AC%E8%99%AB%E7%9A%84%E4%BE%B5%E6%89%B0.md) |
-| 2026-08-29 | [7.2.2 至 5.10.268：8 个 stable 内核仅修复一漏洞](linux-community/2026-08-29%207.2.2%20%E8%87%B3%205.10.268%EF%BC%9A8%20%E4%B8%AA%20stable%20%E5%86%85%E6%A0%B8%E4%BB%85%E4%BF%AE%E5%A4%8D%E4%B8%80%E6%BC%8F%E6%B4%9E.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
