@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-08-31 | [OpenAI 以「不信任马斯克」为由终止与 Cursor 的合作](daily-report/2026-08-31%20OpenAI%20%E4%BB%A5%E3%80%8C%E4%B8%8D%E4%BF%A1%E4%BB%BB%E9%A9%AC%E6%96%AF%E5%85%8B%E3%80%8D%E4%B8%BA%E7%94%B1%E7%BB%88%E6%AD%A2%E4%B8%8E%20Cursor%20%E7%9A%84%E5%90%88%E4%BD%9C.md) |
 | 2026-08-30 | [OpenAI 将终止向马斯克旗下 Cursor 提供模型访问](daily-report/2026-08-30%20OpenAI%20%E5%B0%86%E7%BB%88%E6%AD%A2%E5%90%91%E9%A9%AC%E6%96%AF%E5%85%8B%E6%97%97%E4%B8%8B%20Cursor%20%E6%8F%90%E4%BE%9B%E6%A8%A1%E5%9E%8B%E8%AE%BF%E9%97%AE.md) |
 
-## ⭐ GitHub 精选  （共 66 篇）
+## ⭐ GitHub 精选  （共 67 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-09 | [hyperframes · markitdown · context-mode · camofox-browser](github-trending/2026-09-09%20hyperframes%20%C2%B7%20markitdown%20%C2%B7%20context-mode%20%C2%B7%20camofox-browser.md) |
 | 2026-09-08 | [ECC · skills · diagram-design · hermes-agent · opencode](github-trending/2026-09-08%20ECC%20%C2%B7%20skills%20%C2%B7%20diagram-design%20%C2%B7%20hermes-agent%20%C2%B7%20opencode.md) |
 | 2026-09-07 | [skills · ECC · ponytail · hermes-agent · fmt](github-trending/2026-09-07%20skills%20%C2%B7%20ECC%20%C2%B7%20ponytail%20%C2%B7%20hermes-agent%20%C2%B7%20fmt.md) |
 | 2026-09-06 | [skills · ponytail · fmt · ECC · humanizer · hermes-agent](github-trending/2026-09-06%20skills%20%C2%B7%20ponytail%20%C2%B7%20fmt%20%C2%B7%20ECC%20%C2%B7%20humanizer%20%C2%B7%20hermes-agent.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-02 | [openclaude · academic-research-skills · OpenMAIC · invidious](github-trending/2026-09-02%20openclaude%20%C2%B7%20academic-research-skills%20%C2%B7%20OpenMAIC%20%C2%B7%20invidious.md) |
 | 2026-09-01 | [OpenMAIC · archify · scientific-agent-skills · Wand-Enhancer](github-trending/2026-09-01%20OpenMAIC%20%C2%B7%20archify%20%C2%B7%20scientific-agent-skills%20%C2%B7%20Wand-Enhancer.md) |
 | 2026-08-31 | [OpenMAIC · scientific-agent-skills · vphone-cli · archify](github-trending/2026-08-31%20OpenMAIC%20%C2%B7%20scientific-agent-skills%20%C2%B7%20vphone-cli%20%C2%B7%20archify.md) |
-| 2026-08-30 | [archify · gods-eye-view · scientific-agent-skills · tailcat](github-trending/2026-08-30%20archify%20%C2%B7%20gods-eye-view%20%C2%B7%20scientific-agent-skills%20%C2%B7%20tailcat.md) |
 
 ## 🐧 Linux 社区动态  （共 30 篇）
 
