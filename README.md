@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-02 | [openclaude · academic-research-skills · OpenMAIC · invidious](github-trending/2026-09-02%20openclaude%20%C2%B7%20academic-research-skills%20%C2%B7%20OpenMAIC%20%C2%B7%20invidious.md) |
 | 2026-09-01 | [OpenMAIC · archify · scientific-agent-skills · Wand-Enhancer](github-trending/2026-09-01%20OpenMAIC%20%C2%B7%20archify%20%C2%B7%20scientific-agent-skills%20%C2%B7%20Wand-Enhancer.md) |
 
-## 🐧 Linux 社区动态  （共 31 篇）
+## 🐧 Linux 社区动态  （共 32 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-10 | [USN-8716-2：FFmpeg 漏洞](linux-community/2026-09-10%20USN-8716-2%EF%BC%9AFFmpeg%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-09 | [USN-8737-1：GNU C Library 漏洞](linux-community/2026-09-09%20USN-8737-1%EF%BC%9AGNU%20C%20Library%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-08 | [USN-8732-1 Minetest 漏洞](linux-community/2026-09-08%20USN-8732-1%20Minetest%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-07 | [DSA-6486-1 libde265 安全更新](linux-community/2026-09-07%20DSA-6486-1%20libde265%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-03 | [USN-8661-4：Linux kernel 漏洞修复](linux-community/2026-09-03%20USN-8661-4%EF%BC%9ALinux%20kernel%20%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D.md) |
 | 2026-09-02 | [USN-8712-1 pyasn1 漏洞](linux-community/2026-09-02%20USN-8712-1%20pyasn1%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-01 | [USN-8704-1 GNU cpio 多个漏洞](linux-community/2026-09-01%20USN-8704-1%20GNU%20cpio%20%E5%A4%9A%E4%B8%AA%E6%BC%8F%E6%B4%9E.md) |
-| 2026-08-31 | [DSA-6479-1 roundcube 安全更新](linux-community/2026-08-31%20DSA-6479-1%20roundcube%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
