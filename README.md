@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-02 | [马斯克开造燃气轮机叶片，生产周期缩短 18 个月](daily-report/2026-09-02%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%80%A0%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E5%8F%B6%E7%89%87%EF%BC%8C%E7%94%9F%E4%BA%A7%E5%91%A8%E6%9C%9F%E7%BC%A9%E7%9F%AD%2018%20%E4%B8%AA%E6%9C%88.md) |
 | 2026-09-01 | [马斯克点名AI 界的下一个英伟达：Howmet Aerospace](daily-report/2026-09-01%20%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E5%90%8DAI%20%E7%95%8C%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8B%B1%E4%BC%9F%E8%BE%BE%EF%BC%9AHowmet%20Aerospace.md) |
 
-## ⭐ GitHub 精选  （共 68 篇）
+## ⭐ GitHub 精选  （共 69 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-11 | [i-have-adhd · teamai-cli · superpowers · editor](github-trending/2026-09-11%20i-have-adhd%20%C2%B7%20teamai-cli%20%C2%B7%20superpowers%20%C2%B7%20editor.md) |
 | 2026-09-10 | [i-have-adhd · diagram-design · skills · ECC · hyperframes](github-trending/2026-09-10%20i-have-adhd%20%C2%B7%20diagram-design%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20hyperframes.md) |
 | 2026-09-09 | [hyperframes · markitdown · context-mode · camofox-browser](github-trending/2026-09-09%20hyperframes%20%C2%B7%20markitdown%20%C2%B7%20context-mode%20%C2%B7%20camofox-browser.md) |
 | 2026-09-08 | [ECC · skills · diagram-design · hermes-agent · opencode](github-trending/2026-09-08%20ECC%20%C2%B7%20skills%20%C2%B7%20diagram-design%20%C2%B7%20hermes-agent%20%C2%B7%20opencode.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-04 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-04%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
 | 2026-09-03 | [fmt · timesfm · ponytail · VoiceStudio · Sequoia-X](github-trending/2026-09-03%20fmt%20%C2%B7%20timesfm%20%C2%B7%20ponytail%20%C2%B7%20VoiceStudio%20%C2%B7%20Sequoia-X.md) |
 | 2026-09-02 | [openclaude · academic-research-skills · OpenMAIC · invidious](github-trending/2026-09-02%20openclaude%20%C2%B7%20academic-research-skills%20%C2%B7%20OpenMAIC%20%C2%B7%20invidious.md) |
-| 2026-09-01 | [OpenMAIC · archify · scientific-agent-skills · Wand-Enhancer](github-trending/2026-09-01%20OpenMAIC%20%C2%B7%20archify%20%C2%B7%20scientific-agent-skills%20%C2%B7%20Wand-Enhancer.md) |
 
 ## 🐧 Linux 社区动态  （共 32 篇）
 
