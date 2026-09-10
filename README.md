@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-11 | [Agents API 发布：云端 Agent 的托管底座](daily-report/2026-09-11%20Agents%20API%20%E5%8F%91%E5%B8%83%EF%BC%9A%E4%BA%91%E7%AB%AF%20Agent%20%E7%9A%84%E6%89%98%E7%AE%A1%E5%BA%95%E5%BA%A7.md) |
+| 2026-09-11 | [OpenAI 推出 Agents API](daily-report/2026-09-11%20OpenAI%20%E6%8E%A8%E5%87%BA%20Agents%20API.md) |
 | 2026-09-10 | [Paul Christiano 加入 OpenAI 基金会董事会](daily-report/2026-09-10%20Paul%20Christiano%20%E5%8A%A0%E5%85%A5%20OpenAI%20%E5%9F%BA%E9%87%91%E4%BC%9A%E8%91%A3%E4%BA%8B%E4%BC%9A.md) |
 | 2026-09-09 | [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon 上海](daily-report/2026-09-09%20AI%20Coding%20%E5%9C%A8%E5%A4%A7%E5%9E%8B%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%B8%AD%E7%9A%84%E8%90%BD%E5%9C%B0%E5%AE%9E%E8%B7%B5%E2%80%94%E2%80%94%E4%BB%8E%E9%80%9A%E6%89%8D%E6%A8%A1%E5%9E%8B%E5%88%B0%E4%B8%93%E6%89%8D%20Agent%EF%BD%9CQCon%20%E4%B8%8A%E6%B5%B7.md) |
 | 2026-09-08 | [国内首份办公 Agent 用户行为报告发布：北京用户量居首，海外用户占比超 12%](daily-report/2026-09-08%20%E5%9B%BD%E5%86%85%E9%A6%96%E4%BB%BD%E5%8A%9E%E5%85%AC%20Agent%20%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%94%A8%E6%88%B7%E9%87%8F%E5%B1%85%E9%A6%96%EF%BC%8C%E6%B5%B7%E5%A4%96%E7%94%A8%E6%88%B7%E5%8D%A0%E6%AF%94%E8%B6%85%2012%25.md) |
