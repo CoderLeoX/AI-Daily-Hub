@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-03 | [多思考=多烧钱，Gemini 3.8 Flash 把推理算力账摆上台面](deepdive/2026-09-03%20%E5%A4%9A%E6%80%9D%E8%80%83%3D%E5%A4%9A%E7%83%A7%E9%92%B1%EF%BC%8CGemini%203.8%20Flash%20%E6%8A%8A%E6%8E%A8%E7%90%86%E7%AE%97%E5%8A%9B%E8%B4%A6%E6%91%86%E4%B8%8A%E5%8F%B0%E9%9D%A2.md) |
 | 2026-09-02 | [攻击自动化倒逼防御Agent化，本地推理成安全刚需](deepdive/2026-09-02%20%E6%94%BB%E5%87%BB%E8%87%AA%E5%8A%A8%E5%8C%96%E5%80%92%E9%80%BC%E9%98%B2%E5%BE%A1Agent%E5%8C%96%EF%BC%8C%E6%9C%AC%E5%9C%B0%E6%8E%A8%E7%90%86%E6%88%90%E5%AE%89%E5%85%A8%E5%88%9A%E9%9C%80.md) |
 
-## 📰 AI 前沿日报  （共 70 篇）
+## 📰 AI 前沿日报  （共 71 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-12 | [研究者让 AI 模型运行模拟社会：Grok 四天崩溃，Claude 建立起秩序](daily-report/2026-09-12%20%E7%A0%94%E7%A9%B6%E8%80%85%E8%AE%A9%20AI%20%E6%A8%A1%E5%9E%8B%E8%BF%90%E8%A1%8C%E6%A8%A1%E6%8B%9F%E7%A4%BE%E4%BC%9A%EF%BC%9AGrok%20%E5%9B%9B%E5%A4%A9%E5%B4%A9%E6%BA%83%EF%BC%8CClaude%20%E5%BB%BA%E7%AB%8B%E8%B5%B7%E7%A7%A9%E5%BA%8F.md) |
 | 2026-09-11 | [OpenAI 推出 Agents API](daily-report/2026-09-11%20OpenAI%20%E6%8E%A8%E5%87%BA%20Agents%20API.md) |
 | 2026-09-10 | [Paul Christiano 加入 OpenAI 基金会董事会](daily-report/2026-09-10%20Paul%20Christiano%20%E5%8A%A0%E5%85%A5%20OpenAI%20%E5%9F%BA%E9%87%91%E4%BC%9A%E8%91%A3%E4%BA%8B%E4%BC%9A.md) |
 | 2026-09-09 | [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon 上海](daily-report/2026-09-09%20AI%20Coding%20%E5%9C%A8%E5%A4%A7%E5%9E%8B%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%B8%AD%E7%9A%84%E8%90%BD%E5%9C%B0%E5%AE%9E%E8%B7%B5%E2%80%94%E2%80%94%E4%BB%8E%E9%80%9A%E6%89%8D%E6%A8%A1%E5%9E%8B%E5%88%B0%E4%B8%93%E6%89%8D%20Agent%EF%BD%9CQCon%20%E4%B8%8A%E6%B5%B7.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-05 | [马斯克确认 SpaceX 全面押注 Nvidia：算力账单就此锁定](daily-report/2026-09-05%20%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4%20SpaceX%20%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%20Nvidia%EF%BC%9A%E7%AE%97%E5%8A%9B%E8%B4%A6%E5%8D%95%E5%B0%B1%E6%AD%A4%E9%94%81%E5%AE%9A.md) |
 | 2026-09-04 | [前沿智能走向本地：NVIDIA×微软 IFA 2026 联手（Sparks Fly）](daily-report/2026-09-04%20%E5%89%8D%E6%B2%BF%E6%99%BA%E8%83%BD%E8%B5%B0%E5%90%91%E6%9C%AC%E5%9C%B0%EF%BC%9ANVIDIA%C3%97%E5%BE%AE%E8%BD%AF%20IFA%202026%20%E8%81%94%E6%89%8B%EF%BC%88Sparks%20Fly%EF%BC%89.md) |
 | 2026-09-03 | [企业级 Agent 落地样板间！百融硅基员工批量上岗、按结果领工资](daily-report/2026-09-03%20%E4%BC%81%E4%B8%9A%E7%BA%A7%20Agent%20%E8%90%BD%E5%9C%B0%E6%A0%B7%E6%9D%BF%E9%97%B4%EF%BC%81%E7%99%BE%E8%9E%8D%E7%A1%85%E5%9F%BA%E5%91%98%E5%B7%A5%E6%89%B9%E9%87%8F%E4%B8%8A%E5%B2%97%E3%80%81%E6%8C%89%E7%BB%93%E6%9E%9C%E9%A2%86%E5%B7%A5%E8%B5%84.md) |
-| 2026-09-02 | [马斯克开造燃气轮机叶片，生产周期缩短 18 个月](daily-report/2026-09-02%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%80%A0%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E5%8F%B6%E7%89%87%EF%BC%8C%E7%94%9F%E4%BA%A7%E5%91%A8%E6%9C%9F%E7%BC%A9%E7%9F%AD%2018%20%E4%B8%AA%E6%9C%88.md) |
 
 ## ⭐ GitHub 精选  （共 70 篇）
 
