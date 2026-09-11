@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-03 | [企业级 Agent 落地样板间！百融硅基员工批量上岗、按结果领工资](daily-report/2026-09-03%20%E4%BC%81%E4%B8%9A%E7%BA%A7%20Agent%20%E8%90%BD%E5%9C%B0%E6%A0%B7%E6%9D%BF%E9%97%B4%EF%BC%81%E7%99%BE%E8%9E%8D%E7%A1%85%E5%9F%BA%E5%91%98%E5%B7%A5%E6%89%B9%E9%87%8F%E4%B8%8A%E5%B2%97%E3%80%81%E6%8C%89%E7%BB%93%E6%9E%9C%E9%A2%86%E5%B7%A5%E8%B5%84.md) |
 | 2026-09-02 | [马斯克开造燃气轮机叶片，生产周期缩短 18 个月](daily-report/2026-09-02%20%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%80%A0%E7%87%83%E6%B0%94%E8%BD%AE%E6%9C%BA%E5%8F%B6%E7%89%87%EF%BC%8C%E7%94%9F%E4%BA%A7%E5%91%A8%E6%9C%9F%E7%BC%A9%E7%9F%AD%2018%20%E4%B8%AA%E6%9C%88.md) |
 
-## ⭐ GitHub 精选  （共 69 篇）
+## ⭐ GitHub 精选  （共 70 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-12 | [i-have-adhd · gods-eye-view · superpowers · CloddsBot](github-trending/2026-09-12%20i-have-adhd%20%C2%B7%20gods-eye-view%20%C2%B7%20superpowers%20%C2%B7%20CloddsBot.md) |
 | 2026-09-11 | [i-have-adhd · teamai-cli · superpowers · editor](github-trending/2026-09-11%20i-have-adhd%20%C2%B7%20teamai-cli%20%C2%B7%20superpowers%20%C2%B7%20editor.md) |
 | 2026-09-10 | [i-have-adhd · diagram-design · skills · ECC · hyperframes](github-trending/2026-09-10%20i-have-adhd%20%C2%B7%20diagram-design%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20hyperframes.md) |
 | 2026-09-09 | [hyperframes · markitdown · context-mode · camofox-browser](github-trending/2026-09-09%20hyperframes%20%C2%B7%20markitdown%20%C2%B7%20context-mode%20%C2%B7%20camofox-browser.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-05 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-05%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
 | 2026-09-04 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-04%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
 | 2026-09-03 | [fmt · timesfm · ponytail · VoiceStudio · Sequoia-X](github-trending/2026-09-03%20fmt%20%C2%B7%20timesfm%20%C2%B7%20ponytail%20%C2%B7%20VoiceStudio%20%C2%B7%20Sequoia-X.md) |
-| 2026-09-02 | [openclaude · academic-research-skills · OpenMAIC · invidious](github-trending/2026-09-02%20openclaude%20%C2%B7%20academic-research-skills%20%C2%B7%20OpenMAIC%20%C2%B7%20invidious.md) |
 
 ## 🐧 Linux 社区动态  （共 33 篇）
 
