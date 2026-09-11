@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-04 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-04%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
 | 2026-09-03 | [fmt · timesfm · ponytail · VoiceStudio · Sequoia-X](github-trending/2026-09-03%20fmt%20%C2%B7%20timesfm%20%C2%B7%20ponytail%20%C2%B7%20VoiceStudio%20%C2%B7%20Sequoia-X.md) |
 
-## 🐧 Linux 社区动态  （共 33 篇）
+## 🐧 Linux 社区动态  （共 34 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-12 | [USN-8571-2：Apache HTTP Server 修复回归问题](linux-community/2026-09-12%20USN-8571-2%EF%BC%9AApache%20HTTP%20Server%20%E4%BF%AE%E5%A4%8D%E5%9B%9E%E5%BD%92%E9%97%AE%E9%A2%98.md) |
 | 2026-09-11 | [USN-8747-1：Beets 漏洞](linux-community/2026-09-11%20USN-8747-1%EF%BC%9ABeets%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-10 | [USN-8716-2：FFmpeg 漏洞](linux-community/2026-09-10%20USN-8716-2%EF%BC%9AFFmpeg%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-09 | [USN-8737-1：GNU C Library 漏洞](linux-community/2026-09-09%20USN-8737-1%EF%BC%9AGNU%20C%20Library%20%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-05 | [USN-8714-2 Linux 内核漏洞](linux-community/2026-09-05%20USN-8714-2%20Linux%20%E5%86%85%E6%A0%B8%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-04 | [USN-8724-1 rabbitmq-c 漏洞](linux-community/2026-09-04%20USN-8724-1%20rabbitmq-c%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-03 | [USN-8661-4：Linux kernel 漏洞修复](linux-community/2026-09-03%20USN-8661-4%EF%BC%9ALinux%20kernel%20%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D.md) |
-| 2026-09-02 | [USN-8712-1 pyasn1 漏洞](linux-community/2026-09-02%20USN-8712-1%20pyasn1%20%E6%BC%8F%E6%B4%9E.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
