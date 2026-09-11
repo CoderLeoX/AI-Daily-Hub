@@ -2,10 +2,11 @@
 
 AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自动归档仓库。由 Hermes cron 每日生成并推送。
 
-## 🧠 每日深读  （共 51 篇）
+## 🧠 每日深读  （共 52 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-12 | [Agent 编排的「运行时收编」 OpenAI Agents API 想把长时任务变成托管基础设施](deepdive/2026-09-12%20Agent%20%E7%BC%96%E6%8E%92%E7%9A%84%E3%80%8C%E8%BF%90%E8%A1%8C%E6%97%B6%E6%94%B6%E7%BC%96%E3%80%8D%20OpenAI%20Agents%20API%20%E6%83%B3%E6%8A%8A%E9%95%BF%E6%97%B6%E4%BB%BB%E5%8A%A1%E5%8F%98%E6%88%90%E6%89%98%E7%AE%A1%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD.md) |
 | 2026-09-11 | [一万个并发 Agent 写出的证明，真正的瓶颈是验证与归因](deepdive/2026-09-11%20%E4%B8%80%E4%B8%87%E4%B8%AA%E5%B9%B6%E5%8F%91%20Agent%20%E5%86%99%E5%87%BA%E7%9A%84%E8%AF%81%E6%98%8E%EF%BC%8C%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%93%B6%E9%A2%88%E6%98%AF%E9%AA%8C%E8%AF%81%E4%B8%8E%E5%BD%92%E5%9B%A0.md) |
 | 2026-09-10 | [通才模型并不通吃 客户端 AI Coding 的专才 Agent 改造](deepdive/2026-09-10%20%E9%80%9A%E6%89%8D%E6%A8%A1%E5%9E%8B%E5%B9%B6%E4%B8%8D%E9%80%9A%E5%90%83%20%E5%AE%A2%E6%88%B7%E7%AB%AF%20AI%20Coding%20%E7%9A%84%E4%B8%93%E6%89%8D%20Agent%20%E6%94%B9%E9%80%A0.md) |
 | 2026-09-09 | [Agent 工时反超人类 3.1 倍之后：度量、分工与熔断](deepdive/2026-09-09%20Agent%20%E5%B7%A5%E6%97%B6%E5%8F%8D%E8%B6%85%E4%BA%BA%E7%B1%BB%203.1%20%E5%80%8D%E4%B9%8B%E5%90%8E%EF%BC%9A%E5%BA%A6%E9%87%8F%E3%80%81%E5%88%86%E5%B7%A5%E4%B8%8E%E7%86%94%E6%96%AD.md) |
@@ -15,7 +16,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-04 | [本地推理反攻云端：NVIDIA 把 Agent 推理栈搬上桌面的架构逻辑](deepdive/2026-09-04%20%E6%9C%AC%E5%9C%B0%E6%8E%A8%E7%90%86%E5%8F%8D%E6%94%BB%E4%BA%91%E7%AB%AF%EF%BC%9ANVIDIA%20%E6%8A%8A%20Agent%20%E6%8E%A8%E7%90%86%E6%A0%88%E6%90%AC%E4%B8%8A%E6%A1%8C%E9%9D%A2%E7%9A%84%E6%9E%B6%E6%9E%84%E9%80%BB%E8%BE%91.md) |
 | 2026-09-03 | [多思考=多烧钱，Gemini 3.8 Flash 把推理算力账摆上台面](deepdive/2026-09-03%20%E5%A4%9A%E6%80%9D%E8%80%83%3D%E5%A4%9A%E7%83%A7%E9%92%B1%EF%BC%8CGemini%203.8%20Flash%20%E6%8A%8A%E6%8E%A8%E7%90%86%E7%AE%97%E5%8A%9B%E8%B4%A6%E6%91%86%E4%B8%8A%E5%8F%B0%E9%9D%A2.md) |
 | 2026-09-02 | [攻击自动化倒逼防御Agent化，本地推理成安全刚需](deepdive/2026-09-02%20%E6%94%BB%E5%87%BB%E8%87%AA%E5%8A%A8%E5%8C%96%E5%80%92%E9%80%BC%E9%98%B2%E5%BE%A1Agent%E5%8C%96%EF%BC%8C%E6%9C%AC%E5%9C%B0%E6%8E%A8%E7%90%86%E6%88%90%E5%AE%89%E5%85%A8%E5%88%9A%E9%9C%80.md) |
-| 2026-09-01 | [AI 写代码飞快，交付为何没变快？瓶颈已从生成转移到验证](deepdive/2026-09-01%20AI%20%E5%86%99%E4%BB%A3%E7%A0%81%E9%A3%9E%E5%BF%AB%EF%BC%8C%E4%BA%A4%E4%BB%98%E4%B8%BA%E4%BD%95%E6%B2%A1%E5%8F%98%E5%BF%AB%EF%BC%9F%E7%93%B6%E9%A2%88%E5%B7%B2%E4%BB%8E%E7%94%9F%E6%88%90%E8%BD%AC%E7%A7%BB%E5%88%B0%E9%AA%8C%E8%AF%81.md) |
 
 ## 📰 AI 前沿日报  （共 70 篇）
 
