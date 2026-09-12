@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-12 | [88小时证NS与25封签名信：AI做数学的产能，已跑过它的审计能力](hotspot/2026-09-12%2088%E5%B0%8F%E6%97%B6%E8%AF%81NS%E4%B8%8E25%E5%B0%81%E7%AD%BE%E5%90%8D%E4%BF%A1%EF%BC%9AAI%E5%81%9A%E6%95%B0%E5%AD%A6%E7%9A%84%E4%BA%A7%E8%83%BD%EF%BC%8C%E5%B7%B2%E8%B7%91%E8%BF%87%E5%AE%83%E7%9A%84%E5%AE%A1%E8%AE%A1%E8%83%BD%E5%8A%9B.md) |
+| 2026-09-12 | [GPT-6 Astra 刷穿数学最后防线：评测饱和了，生产自治开场](hotspot/2026-09-12%20GPT-6%20Astra%20%E5%88%B7%E7%A9%BF%E6%95%B0%E5%AD%A6%E6%9C%80%E5%90%8E%E9%98%B2%E7%BA%BF%EF%BC%9A%E8%AF%84%E6%B5%8B%E9%A5%B1%E5%92%8C%E4%BA%86%EF%BC%8C%E7%94%9F%E4%BA%A7%E8%87%AA%E6%B2%BB%E5%BC%80%E5%9C%BA.md) |
 
 ## 📰 AI 前沿日报  （共 71 篇）
 
