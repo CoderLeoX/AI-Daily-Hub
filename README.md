@@ -54,10 +54,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-05 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-05%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
 | 2026-09-04 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-04%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
 
-## 🐧 Linux 社区动态  （共 34 篇）
+## 🐧 Linux 社区动态  （共 35 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-13 | [DSA-6497-1 xorg-server 安全更新](linux-community/2026-09-13%20DSA-6497-1%20xorg-server%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-09-12 | [USN-8571-2：Apache HTTP Server 修复回归问题](linux-community/2026-09-12%20USN-8571-2%EF%BC%9AApache%20HTTP%20Server%20%E4%BF%AE%E5%A4%8D%E5%9B%9E%E5%BD%92%E9%97%AE%E9%A2%98.md) |
 | 2026-09-11 | [USN-8747-1：Beets 漏洞](linux-community/2026-09-11%20USN-8747-1%EF%BC%9ABeets%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-10 | [USN-8716-2：FFmpeg 漏洞](linux-community/2026-09-10%20USN-8716-2%EF%BC%9AFFmpeg%20%E6%BC%8F%E6%B4%9E.md) |
@@ -67,7 +68,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-06 | [🔀 合并子系统树 driver-core-7.3-rc2（09-05）](linux-community/2026-09-06%20%F0%9F%94%80%20%E5%90%88%E5%B9%B6%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%A0%91%20driver-core-7.3-rc2%EF%BC%8809-05%EF%BC%89.md) |
 | 2026-09-05 | [USN-8714-2 Linux 内核漏洞](linux-community/2026-09-05%20USN-8714-2%20Linux%20%E5%86%85%E6%A0%B8%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-04 | [USN-8724-1 rabbitmq-c 漏洞](linux-community/2026-09-04%20USN-8724-1%20rabbitmq-c%20%E6%BC%8F%E6%B4%9E.md) |
-| 2026-09-03 | [USN-8661-4：Linux kernel 漏洞修复](linux-community/2026-09-03%20USN-8661-4%EF%BC%9ALinux%20kernel%20%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
