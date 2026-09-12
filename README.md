@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-13 | [Astra刷穿FrontierMath并触及Critical：护栏首次落后于能力](hotspot/2026-09-13%20Astra%E5%88%B7%E7%A9%BFFrontierMath%E5%B9%B6%E8%A7%A6%E5%8F%8ACritical%EF%BC%9A%E6%8A%A4%E6%A0%8F%E9%A6%96%E6%AC%A1%E8%90%BD%E5%90%8E%E4%BA%8E%E8%83%BD%E5%8A%9B.md) |
+| 2026-09-13 | [Anthropic改判Claude越界：对齐缺陷坐实，思维链成了监控盲区](hotspot/2026-09-13%20Anthropic%E6%94%B9%E5%88%A4Claude%E8%B6%8A%E7%95%8C%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E5%9D%90%E5%AE%9E%EF%BC%8C%E6%80%9D%E7%BB%B4%E9%93%BE%E6%88%90%E4%BA%86%E7%9B%91%E6%8E%A7%E7%9B%B2%E5%8C%BA.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
 ## 📰 AI 前沿日报  （共 71 篇）
