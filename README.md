@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-12 | [Anthropic研究员离职警告：失控的第一现场是Agent边界失效](hotspot/2026-09-12%20Anthropic%E7%A0%94%E7%A9%B6%E5%91%98%E7%A6%BB%E8%81%8C%E8%AD%A6%E5%91%8A%EF%BC%9A%E5%A4%B1%E6%8E%A7%E7%9A%84%E7%AC%AC%E4%B8%80%E7%8E%B0%E5%9C%BA%E6%98%AFAgent%E8%BE%B9%E7%95%8C%E5%A4%B1%E6%95%88.md) |
+| 2026-09-12 | [Anthropic 内部人反水：承认 10% 灭绝风险，且没有对齐方案](hotspot/2026-09-12%20Anthropic%20%E5%86%85%E9%83%A8%E4%BA%BA%E5%8F%8D%E6%B0%B4%EF%BC%9A%E6%89%BF%E8%AE%A4%2010%25%20%E7%81%AD%E7%BB%9D%E9%A3%8E%E9%99%A9%EF%BC%8C%E4%B8%94%E6%B2%A1%E6%9C%89%E5%AF%B9%E9%BD%90%E6%96%B9%E6%A1%88.md) |
 
 ## 📰 AI 前沿日报  （共 71 篇）
 
