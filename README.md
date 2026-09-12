@@ -24,10 +24,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-13 | [三家同时喊“减速”：前沿AI的瓶颈已从算力转向可验证性](hotspot/2026-09-13%20%E4%B8%89%E5%AE%B6%E5%90%8C%E6%97%B6%E5%96%8A%E2%80%9C%E5%87%8F%E9%80%9F%E2%80%9D%EF%BC%9A%E5%89%8D%E6%B2%BFAI%E7%9A%84%E7%93%B6%E9%A2%88%E5%B7%B2%E4%BB%8E%E7%AE%97%E5%8A%9B%E8%BD%AC%E5%90%91%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%80%A7.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
-## 📰 AI 前沿日报  （共 71 篇）
+## 📰 AI 前沿日报  （共 72 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-13 | [Anthropic 承认 Claude 安全对齐存在缺陷，且「尚无解决方案」](daily-report/2026-09-13%20Anthropic%20%E6%89%BF%E8%AE%A4%20Claude%20%E5%AE%89%E5%85%A8%E5%AF%B9%E9%BD%90%E5%AD%98%E5%9C%A8%E7%BC%BA%E9%99%B7%EF%BC%8C%E4%B8%94%E3%80%8C%E5%B0%9A%E6%97%A0%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%8D.md) |
 | 2026-09-12 | [研究者让 AI 模型运行模拟社会：Grok 四天崩溃，Claude 建立起秩序](daily-report/2026-09-12%20%E7%A0%94%E7%A9%B6%E8%80%85%E8%AE%A9%20AI%20%E6%A8%A1%E5%9E%8B%E8%BF%90%E8%A1%8C%E6%A8%A1%E6%8B%9F%E7%A4%BE%E4%BC%9A%EF%BC%9AGrok%20%E5%9B%9B%E5%A4%A9%E5%B4%A9%E6%BA%83%EF%BC%8CClaude%20%E5%BB%BA%E7%AB%8B%E8%B5%B7%E7%A7%A9%E5%BA%8F.md) |
 | 2026-09-11 | [OpenAI 推出 Agents API](daily-report/2026-09-11%20OpenAI%20%E6%8E%A8%E5%87%BA%20Agents%20API.md) |
 | 2026-09-10 | [Paul Christiano 加入 OpenAI 基金会董事会](daily-report/2026-09-10%20Paul%20Christiano%20%E5%8A%A0%E5%85%A5%20OpenAI%20%E5%9F%BA%E9%87%91%E4%BC%9A%E8%91%A3%E4%BA%8B%E4%BC%9A.md) |
@@ -37,7 +38,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-06 | [姚班校友主导，Claude 攻克费马大定理首个完整形式化证明](daily-report/2026-09-06%20%E5%A7%9A%E7%8F%AD%E6%A0%A1%E5%8F%8B%E4%B8%BB%E5%AF%BC%EF%BC%8CClaude%20%E6%94%BB%E5%85%8B%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%E9%A6%96%E4%B8%AA%E5%AE%8C%E6%95%B4%E5%BD%A2%E5%BC%8F%E5%8C%96%E8%AF%81%E6%98%8E.md) |
 | 2026-09-05 | [马斯克确认 SpaceX 全面押注 Nvidia：算力账单就此锁定](daily-report/2026-09-05%20%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4%20SpaceX%20%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%20Nvidia%EF%BC%9A%E7%AE%97%E5%8A%9B%E8%B4%A6%E5%8D%95%E5%B0%B1%E6%AD%A4%E9%94%81%E5%AE%9A.md) |
 | 2026-09-04 | [前沿智能走向本地：NVIDIA×微软 IFA 2026 联手（Sparks Fly）](daily-report/2026-09-04%20%E5%89%8D%E6%B2%BF%E6%99%BA%E8%83%BD%E8%B5%B0%E5%90%91%E6%9C%AC%E5%9C%B0%EF%BC%9ANVIDIA%C3%97%E5%BE%AE%E8%BD%AF%20IFA%202026%20%E8%81%94%E6%89%8B%EF%BC%88Sparks%20Fly%EF%BC%89.md) |
-| 2026-09-03 | [企业级 Agent 落地样板间！百融硅基员工批量上岗、按结果领工资](daily-report/2026-09-03%20%E4%BC%81%E4%B8%9A%E7%BA%A7%20Agent%20%E8%90%BD%E5%9C%B0%E6%A0%B7%E6%9D%BF%E9%97%B4%EF%BC%81%E7%99%BE%E8%9E%8D%E7%A1%85%E5%9F%BA%E5%91%98%E5%B7%A5%E6%89%B9%E9%87%8F%E4%B8%8A%E5%B2%97%E3%80%81%E6%8C%89%E7%BB%93%E6%9E%9C%E9%A2%86%E5%B7%A5%E8%B5%84.md) |
 
 ## ⭐ GitHub 精选  （共 71 篇）
 
