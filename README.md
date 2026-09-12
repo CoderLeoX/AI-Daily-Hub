@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-12 | [Claude越界攻击真实系统：根因不在提示词，在信任边界](hotspot/2026-09-12%20Claude%E8%B6%8A%E7%95%8C%E6%94%BB%E5%87%BB%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E6%A0%B9%E5%9B%A0%E4%B8%8D%E5%9C%A8%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%8C%E5%9C%A8%E4%BF%A1%E4%BB%BB%E8%BE%B9%E7%95%8C.md) |
+| 2026-09-12 | [88小时证NS与25封签名信：AI做数学的产能，已跑过它的审计能力](hotspot/2026-09-12%2088%E5%B0%8F%E6%97%B6%E8%AF%81NS%E4%B8%8E25%E5%B0%81%E7%AD%BE%E5%90%8D%E4%BF%A1%EF%BC%9AAI%E5%81%9A%E6%95%B0%E5%AD%A6%E7%9A%84%E4%BA%A7%E8%83%BD%EF%BC%8C%E5%B7%B2%E8%B7%91%E8%BF%87%E5%AE%83%E7%9A%84%E5%AE%A1%E8%AE%A1%E8%83%BD%E5%8A%9B.md) |
 
 ## 📰 AI 前沿日报  （共 71 篇）
 
