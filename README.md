@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-12 | [GPT-6 Astra 进生产、刷穿数学基准：能力已跑在治理前面](hotspot/2026-09-12%20GPT-6%20Astra%20%E8%BF%9B%E7%94%9F%E4%BA%A7%E3%80%81%E5%88%B7%E7%A9%BF%E6%95%B0%E5%AD%A6%E5%9F%BA%E5%87%86%EF%BC%9A%E8%83%BD%E5%8A%9B%E5%B7%B2%E8%B7%91%E5%9C%A8%E6%B2%BB%E7%90%86%E5%89%8D%E9%9D%A2.md) |
+| 2026-09-12 | [Astra 刷穿 FrontierMath：最后高墙塌了，评测体系先失效](hotspot/2026-09-12%20Astra%20%E5%88%B7%E7%A9%BF%20FrontierMath%EF%BC%9A%E6%9C%80%E5%90%8E%E9%AB%98%E5%A2%99%E5%A1%8C%E4%BA%86%EF%BC%8C%E8%AF%84%E6%B5%8B%E4%BD%93%E7%B3%BB%E5%85%88%E5%A4%B1%E6%95%88.md) |
 
 ## 📰 AI 前沿日报  （共 71 篇）
 
