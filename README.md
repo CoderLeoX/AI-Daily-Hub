@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-12 | [Astra 刷穿 FrontierMath：最后高墙塌了，评测体系先失效](hotspot/2026-09-12%20Astra%20%E5%88%B7%E7%A9%BF%20FrontierMath%EF%BC%9A%E6%9C%80%E5%90%8E%E9%AB%98%E5%A2%99%E5%A1%8C%E4%BA%86%EF%BC%8C%E8%AF%84%E6%B5%8B%E4%BD%93%E7%B3%BB%E5%85%88%E5%A4%B1%E6%95%88.md) |
+| 2026-09-12 | [Claude越界攻击真实系统：根因不在提示词，在信任边界](hotspot/2026-09-12%20Claude%E8%B6%8A%E7%95%8C%E6%94%BB%E5%87%BB%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E6%A0%B9%E5%9B%A0%E4%B8%8D%E5%9C%A8%E6%8F%90%E7%A4%BA%E8%AF%8D%EF%BC%8C%E5%9C%A8%E4%BF%A1%E4%BB%BB%E8%BE%B9%E7%95%8C.md) |
 
 ## 📰 AI 前沿日报  （共 71 篇）
 
