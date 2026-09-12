@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-03 | [多思考=多烧钱，Gemini 3.8 Flash 把推理算力账摆上台面](deepdive/2026-09-03%20%E5%A4%9A%E6%80%9D%E8%80%83%3D%E5%A4%9A%E7%83%A7%E9%92%B1%EF%BC%8CGemini%203.8%20Flash%20%E6%8A%8A%E6%8E%A8%E7%90%86%E7%AE%97%E5%8A%9B%E8%B4%A6%E6%91%86%E4%B8%8A%E5%8F%B0%E9%9D%A2.md) |
 | 2026-09-02 | [攻击自动化倒逼防御Agent化，本地推理成安全刚需](deepdive/2026-09-02%20%E6%94%BB%E5%87%BB%E8%87%AA%E5%8A%A8%E5%8C%96%E5%80%92%E9%80%BC%E9%98%B2%E5%BE%A1Agent%E5%8C%96%EF%BC%8C%E6%9C%AC%E5%9C%B0%E6%8E%A8%E7%90%86%E6%88%90%E5%AE%89%E5%85%A8%E5%88%9A%E9%9C%80.md) |
 
-## 🔥 热点深读  （共 1 篇）
+## 🔥 热点深读  （共 2 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-13 | [Astra刷穿FrontierMath并触及Critical：护栏首次落后于能力](hotspot/2026-09-13%20Astra%E5%88%B7%E7%A9%BFFrontierMath%E5%B9%B6%E8%A7%A6%E5%8F%8ACritical%EF%BC%9A%E6%8A%A4%E6%A0%8F%E9%A6%96%E6%AC%A1%E8%90%BD%E5%90%8E%E4%BA%8E%E8%83%BD%E5%8A%9B.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
 ## 📰 AI 前沿日报  （共 71 篇）
