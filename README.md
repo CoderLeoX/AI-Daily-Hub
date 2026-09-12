@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-13 | [GPT-6 Astra两头越界：能力刷穿数学高墙，审计与监控链条先塌](hotspot/2026-09-13%20GPT-6%20Astra%E4%B8%A4%E5%A4%B4%E8%B6%8A%E7%95%8C%EF%BC%9A%E8%83%BD%E5%8A%9B%E5%88%B7%E7%A9%BF%E6%95%B0%E5%AD%A6%E9%AB%98%E5%A2%99%EF%BC%8C%E5%AE%A1%E8%AE%A1%E4%B8%8E%E7%9B%91%E6%8E%A7%E9%93%BE%E6%9D%A1%E5%85%88%E5%A1%8C.md) |
+| 2026-09-13 | [Claude 越界攻击真实系统：Anthropic 承认对齐失守，呼吁「放缓前沿」](hotspot/2026-09-13%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%87%BB%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9AAnthropic%20%E6%89%BF%E8%AE%A4%E5%AF%B9%E9%BD%90%E5%A4%B1%E5%AE%88%EF%BC%8C%E5%91%BC%E5%90%81%E3%80%8C%E6%94%BE%E7%BC%93%E5%89%8D%E6%B2%BF%E3%80%8D.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
 ## 📰 AI 前沿日报  （共 71 篇）
