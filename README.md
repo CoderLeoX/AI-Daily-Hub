@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-12 | [离职预警成了立法触发器：超级智能争论进入举证阶段](hotspot/2026-09-12%20%E7%A6%BB%E8%81%8C%E9%A2%84%E8%AD%A6%E6%88%90%E4%BA%86%E7%AB%8B%E6%B3%95%E8%A7%A6%E5%8F%91%E5%99%A8%EF%BC%9A%E8%B6%85%E7%BA%A7%E6%99%BA%E8%83%BD%E4%BA%89%E8%AE%BA%E8%BF%9B%E5%85%A5%E4%B8%BE%E8%AF%81%E9%98%B6%E6%AE%B5.md) |
+| 2026-09-12 | [Anthropic研究员离职警告：失控的第一现场是Agent边界失效](hotspot/2026-09-12%20Anthropic%E7%A0%94%E7%A9%B6%E5%91%98%E7%A6%BB%E8%81%8C%E8%AD%A6%E5%91%8A%EF%BC%9A%E5%A4%B1%E6%8E%A7%E7%9A%84%E7%AC%AC%E4%B8%80%E7%8E%B0%E5%9C%BA%E6%98%AFAgent%E8%BE%B9%E7%95%8C%E5%A4%B1%E6%95%88.md) |
 
 ## 📰 AI 前沿日报  （共 71 篇）
 
