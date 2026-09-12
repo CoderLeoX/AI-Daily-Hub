@@ -39,10 +39,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-04 | [前沿智能走向本地：NVIDIA×微软 IFA 2026 联手（Sparks Fly）](daily-report/2026-09-04%20%E5%89%8D%E6%B2%BF%E6%99%BA%E8%83%BD%E8%B5%B0%E5%90%91%E6%9C%AC%E5%9C%B0%EF%BC%9ANVIDIA%C3%97%E5%BE%AE%E8%BD%AF%20IFA%202026%20%E8%81%94%E6%89%8B%EF%BC%88Sparks%20Fly%EF%BC%89.md) |
 | 2026-09-03 | [企业级 Agent 落地样板间！百融硅基员工批量上岗、按结果领工资](daily-report/2026-09-03%20%E4%BC%81%E4%B8%9A%E7%BA%A7%20Agent%20%E8%90%BD%E5%9C%B0%E6%A0%B7%E6%9D%BF%E9%97%B4%EF%BC%81%E7%99%BE%E8%9E%8D%E7%A1%85%E5%9F%BA%E5%91%98%E5%B7%A5%E6%89%B9%E9%87%8F%E4%B8%8A%E5%B2%97%E3%80%81%E6%8C%89%E7%BB%93%E6%9E%9C%E9%A2%86%E5%B7%A5%E8%B5%84.md) |
 
-## ⭐ GitHub 精选  （共 70 篇）
+## ⭐ GitHub 精选  （共 71 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-13 | [i-have-adhd · gods-eye-view · iloader · DeskcommCRM](github-trending/2026-09-13%20i-have-adhd%20%C2%B7%20gods-eye-view%20%C2%B7%20iloader%20%C2%B7%20DeskcommCRM.md) |
 | 2026-09-12 | [i-have-adhd · gods-eye-view · superpowers · CloddsBot](github-trending/2026-09-12%20i-have-adhd%20%C2%B7%20gods-eye-view%20%C2%B7%20superpowers%20%C2%B7%20CloddsBot.md) |
 | 2026-09-11 | [i-have-adhd · teamai-cli · superpowers · editor](github-trending/2026-09-11%20i-have-adhd%20%C2%B7%20teamai-cli%20%C2%B7%20superpowers%20%C2%B7%20editor.md) |
 | 2026-09-10 | [i-have-adhd · diagram-design · skills · ECC · hyperframes](github-trending/2026-09-10%20i-have-adhd%20%C2%B7%20diagram-design%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20hyperframes.md) |
@@ -52,7 +53,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-06 | [skills · ponytail · fmt · ECC · humanizer · hermes-agent](github-trending/2026-09-06%20skills%20%C2%B7%20ponytail%20%C2%B7%20fmt%20%C2%B7%20ECC%20%C2%B7%20humanizer%20%C2%B7%20hermes-agent.md) |
 | 2026-09-05 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-05%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
 | 2026-09-04 | [fmt · skills · hermes-agent · ponytail · ECC · caveman](github-trending/2026-09-04%20fmt%20%C2%B7%20skills%20%C2%B7%20hermes-agent%20%C2%B7%20ponytail%20%C2%B7%20ECC%20%C2%B7%20caveman.md) |
-| 2026-09-03 | [fmt · timesfm · ponytail · VoiceStudio · Sequoia-X](github-trending/2026-09-03%20fmt%20%C2%B7%20timesfm%20%C2%B7%20ponytail%20%C2%B7%20VoiceStudio%20%C2%B7%20Sequoia-X.md) |
 
 ## 🐧 Linux 社区动态  （共 34 篇）
 
