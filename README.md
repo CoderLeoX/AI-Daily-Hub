@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-12 | [97.6% 与 268：Astra 刷穿 FrontierMath，菲尔兹奖得主喊停](hotspot/2026-09-12%2097.6%25%20%E4%B8%8E%20268%EF%BC%9AAstra%20%E5%88%B7%E7%A9%BF%20FrontierMath%EF%BC%8C%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%BE%97%E4%B8%BB%E5%96%8A%E5%81%9C.md) |
+| 2026-09-12 | [Tier 4 饱和之后：塌的是评估体系，数学界才开始喊话](hotspot/2026-09-12%20Tier%204%20%E9%A5%B1%E5%92%8C%E4%B9%8B%E5%90%8E%EF%BC%9A%E5%A1%8C%E7%9A%84%E6%98%AF%E8%AF%84%E4%BC%B0%E4%BD%93%E7%B3%BB%EF%BC%8C%E6%95%B0%E5%AD%A6%E7%95%8C%E6%89%8D%E5%BC%80%E5%A7%8B%E5%96%8A%E8%AF%9D.md) |
 
 ## 📰 AI 前沿日报  （共 71 篇）
 
