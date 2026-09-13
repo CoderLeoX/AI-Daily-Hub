@@ -25,10 +25,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-13 | [模型开始值夜班：Perplexity 把生产系统交给 GPT-6 Astra 之后](hotspot/2026-09-13%20%E6%A8%A1%E5%9E%8B%E5%BC%80%E5%A7%8B%E5%80%BC%E5%A4%9C%E7%8F%AD%EF%BC%9APerplexity%20%E6%8A%8A%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F%E4%BA%A4%E7%BB%99%20GPT-6%20Astra%20%E4%B9%8B%E5%90%8E.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
-## 📰 AI 前沿日报  （共 72 篇）
+## 📰 AI 前沿日报  （共 73 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-14 | [AWS 推出 Pizza Bot：面向后台 AI Agent 的开源收件箱](daily-report/2026-09-14%20AWS%20%E6%8E%A8%E5%87%BA%20Pizza%20Bot%EF%BC%9A%E9%9D%A2%E5%90%91%E5%90%8E%E5%8F%B0%20AI%20Agent%20%E7%9A%84%E5%BC%80%E6%BA%90%E6%94%B6%E4%BB%B6%E7%AE%B1.md) |
 | 2026-09-13 | [Anthropic 承认 Claude 安全对齐存在缺陷，且「尚无解决方案」](daily-report/2026-09-13%20Anthropic%20%E6%89%BF%E8%AE%A4%20Claude%20%E5%AE%89%E5%85%A8%E5%AF%B9%E9%BD%90%E5%AD%98%E5%9C%A8%E7%BC%BA%E9%99%B7%EF%BC%8C%E4%B8%94%E3%80%8C%E5%B0%9A%E6%97%A0%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%8D.md) |
 | 2026-09-12 | [研究者让 AI 模型运行模拟社会：Grok 四天崩溃，Claude 建立起秩序](daily-report/2026-09-12%20%E7%A0%94%E7%A9%B6%E8%80%85%E8%AE%A9%20AI%20%E6%A8%A1%E5%9E%8B%E8%BF%90%E8%A1%8C%E6%A8%A1%E6%8B%9F%E7%A4%BE%E4%BC%9A%EF%BC%9AGrok%20%E5%9B%9B%E5%A4%A9%E5%B4%A9%E6%BA%83%EF%BC%8CClaude%20%E5%BB%BA%E7%AB%8B%E8%B5%B7%E7%A7%A9%E5%BA%8F.md) |
 | 2026-09-11 | [OpenAI 推出 Agents API](daily-report/2026-09-11%20OpenAI%20%E6%8E%A8%E5%87%BA%20Agents%20API.md) |
@@ -38,7 +39,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-07 | [OpenAI 披露内部数据：编码智能体已重塑 AI 研究流程](daily-report/2026-09-07%20OpenAI%20%E6%8A%AB%E9%9C%B2%E5%86%85%E9%83%A8%E6%95%B0%E6%8D%AE%EF%BC%9A%E7%BC%96%E7%A0%81%E6%99%BA%E8%83%BD%E4%BD%93%E5%B7%B2%E9%87%8D%E5%A1%91%20AI%20%E7%A0%94%E7%A9%B6%E6%B5%81%E7%A8%8B.md) |
 | 2026-09-06 | [姚班校友主导，Claude 攻克费马大定理首个完整形式化证明](daily-report/2026-09-06%20%E5%A7%9A%E7%8F%AD%E6%A0%A1%E5%8F%8B%E4%B8%BB%E5%AF%BC%EF%BC%8CClaude%20%E6%94%BB%E5%85%8B%E8%B4%B9%E9%A9%AC%E5%A4%A7%E5%AE%9A%E7%90%86%E9%A6%96%E4%B8%AA%E5%AE%8C%E6%95%B4%E5%BD%A2%E5%BC%8F%E5%8C%96%E8%AF%81%E6%98%8E.md) |
 | 2026-09-05 | [马斯克确认 SpaceX 全面押注 Nvidia：算力账单就此锁定](daily-report/2026-09-05%20%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A1%AE%E8%AE%A4%20SpaceX%20%E5%85%A8%E9%9D%A2%E6%8A%BC%E6%B3%A8%20Nvidia%EF%BC%9A%E7%AE%97%E5%8A%9B%E8%B4%A6%E5%8D%95%E5%B0%B1%E6%AD%A4%E9%94%81%E5%AE%9A.md) |
-| 2026-09-04 | [前沿智能走向本地：NVIDIA×微软 IFA 2026 联手（Sparks Fly）](daily-report/2026-09-04%20%E5%89%8D%E6%B2%BF%E6%99%BA%E8%83%BD%E8%B5%B0%E5%90%91%E6%9C%AC%E5%9C%B0%EF%BC%9ANVIDIA%C3%97%E5%BE%AE%E8%BD%AF%20IFA%202026%20%E8%81%94%E6%89%8B%EF%BC%88Sparks%20Fly%EF%BC%89.md) |
 
 ## ⭐ GitHub 精选  （共 72 篇）
 
