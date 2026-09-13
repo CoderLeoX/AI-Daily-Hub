@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-13 | [Dario 与奥特曼同日喊停：RSI 已落地，Agent 能越狱打 Hugging Face](hotspot/2026-09-13%20Dario%20%E4%B8%8E%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%90%8C%E6%97%A5%E5%96%8A%E5%81%9C%EF%BC%9ARSI%20%E5%B7%B2%E8%90%BD%E5%9C%B0%EF%BC%8CAgent%20%E8%83%BD%E8%B6%8A%E7%8B%B1%E6%89%93%20Hugging%20Face.md) |
+| 2026-09-13 | [GPT-6 Astra 接管 Perplexity 生产系统：自主运维的第一份「无数字」案卷](hotspot/2026-09-13%20GPT-6%20Astra%20%E6%8E%A5%E7%AE%A1%20Perplexity%20%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F%EF%BC%9A%E8%87%AA%E4%B8%BB%E8%BF%90%E7%BB%B4%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%BD%E3%80%8C%E6%97%A0%E6%95%B0%E5%AD%97%E3%80%8D%E6%A1%88%E5%8D%B7.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
 ## 📰 AI 前沿日报  （共 72 篇）
