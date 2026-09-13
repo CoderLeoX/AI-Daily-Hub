@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-13 | [OpenAI不上市、Anthropic喊刹车：前沿AI从竞速转向控速](hotspot/2026-09-13%20OpenAI%E4%B8%8D%E4%B8%8A%E5%B8%82%E3%80%81Anthropic%E5%96%8A%E5%88%B9%E8%BD%A6%EF%BC%9A%E5%89%8D%E6%B2%BFAI%E4%BB%8E%E7%AB%9E%E9%80%9F%E8%BD%AC%E5%90%91%E6%8E%A7%E9%80%9F.md) |
+| 2026-09-13 | [三巨头同日刹车：AI减速不是伦理觉醒，是观测能力欠债到期](hotspot/2026-09-13%20%E4%B8%89%E5%B7%A8%E5%A4%B4%E5%90%8C%E6%97%A5%E5%88%B9%E8%BD%A6%EF%BC%9AAI%E5%87%8F%E9%80%9F%E4%B8%8D%E6%98%AF%E4%BC%A6%E7%90%86%E8%A7%89%E9%86%92%EF%BC%8C%E6%98%AF%E8%A7%82%E6%B5%8B%E8%83%BD%E5%8A%9B%E6%AC%A0%E5%80%BA%E5%88%B0%E6%9C%9F.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
 ## 📰 AI 前沿日报  （共 72 篇）
