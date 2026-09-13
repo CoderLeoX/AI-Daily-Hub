@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-04 | [本地推理反攻云端：NVIDIA 把 Agent 推理栈搬上桌面的架构逻辑](deepdive/2026-09-04%20%E6%9C%AC%E5%9C%B0%E6%8E%A8%E7%90%86%E5%8F%8D%E6%94%BB%E4%BA%91%E7%AB%AF%EF%BC%9ANVIDIA%20%E6%8A%8A%20Agent%20%E6%8E%A8%E7%90%86%E6%A0%88%E6%90%AC%E4%B8%8A%E6%A1%8C%E9%9D%A2%E7%9A%84%E6%9E%B6%E6%9E%84%E9%80%BB%E8%BE%91.md) |
 | 2026-09-03 | [多思考=多烧钱，Gemini 3.8 Flash 把推理算力账摆上台面](deepdive/2026-09-03%20%E5%A4%9A%E6%80%9D%E8%80%83%3D%E5%A4%9A%E7%83%A7%E9%92%B1%EF%BC%8CGemini%203.8%20Flash%20%E6%8A%8A%E6%8E%A8%E7%90%86%E7%AE%97%E5%8A%9B%E8%B4%A6%E6%91%86%E4%B8%8A%E5%8F%B0%E9%9D%A2.md) |
 
-## 🔥 热点深读  （共 2 篇）
+## 🔥 热点深读  （共 3 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-14 | [Perplexity 敢把生产系统交给 Astra：信任不来自跑分，来自自验证](hotspot/2026-09-14%20Perplexity%20%E6%95%A2%E6%8A%8A%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F%E4%BA%A4%E7%BB%99%20Astra%EF%BC%9A%E4%BF%A1%E4%BB%BB%E4%B8%8D%E6%9D%A5%E8%87%AA%E8%B7%91%E5%88%86%EF%BC%8C%E6%9D%A5%E8%87%AA%E8%87%AA%E9%AA%8C%E8%AF%81.md) |
 | 2026-09-13 | [模型开始值夜班：Perplexity 把生产系统交给 GPT-6 Astra 之后](hotspot/2026-09-13%20%E6%A8%A1%E5%9E%8B%E5%BC%80%E5%A7%8B%E5%80%BC%E5%A4%9C%E7%8F%AD%EF%BC%9APerplexity%20%E6%8A%8A%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F%E4%BA%A4%E7%BB%99%20GPT-6%20Astra%20%E4%B9%8B%E5%90%8E.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
