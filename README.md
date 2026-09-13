@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-13 | [OpenAI缓IPO、Anthropic开放员工级权限：RSI让放慢第一次可验证](hotspot/2026-09-13%20OpenAI%E7%BC%93IPO%E3%80%81Anthropic%E5%BC%80%E6%94%BE%E5%91%98%E5%B7%A5%E7%BA%A7%E6%9D%83%E9%99%90%EF%BC%9ARSI%E8%AE%A9%E6%94%BE%E6%85%A2%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%8F%AF%E9%AA%8C%E8%AF%81.md) |
+| 2026-09-13 | [两大死对头同日踩刹车：RSI 已成真，AI 竞赛改为比可验证性](hotspot/2026-09-13%20%E4%B8%A4%E5%A4%A7%E6%AD%BB%E5%AF%B9%E5%A4%B4%E5%90%8C%E6%97%A5%E8%B8%A9%E5%88%B9%E8%BD%A6%EF%BC%9ARSI%20%E5%B7%B2%E6%88%90%E7%9C%9F%EF%BC%8CAI%20%E7%AB%9E%E8%B5%9B%E6%94%B9%E4%B8%BA%E6%AF%94%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%80%A7.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
 ## 📰 AI 前沿日报  （共 72 篇）
