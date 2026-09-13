@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-13 | [前沿AI「集体限速」共识成型：能力狂奔，监督掉队](hotspot/2026-09-13%20%E5%89%8D%E6%B2%BFAI%E3%80%8C%E9%9B%86%E4%BD%93%E9%99%90%E9%80%9F%E3%80%8D%E5%85%B1%E8%AF%86%E6%88%90%E5%9E%8B%EF%BC%9A%E8%83%BD%E5%8A%9B%E7%8B%82%E5%A5%94%EF%BC%8C%E7%9B%91%E7%9D%A3%E6%8E%89%E9%98%9F.md) |
+| 2026-09-13 | [前沿实验室首次同意被观看：Amodei 三阶减速方案，Altman 推迟 2026 IPO](hotspot/2026-09-13%20%E5%89%8D%E6%B2%BF%E5%AE%9E%E9%AA%8C%E5%AE%A4%E9%A6%96%E6%AC%A1%E5%90%8C%E6%84%8F%E8%A2%AB%E8%A7%82%E7%9C%8B%EF%BC%9AAmodei%20%E4%B8%89%E9%98%B6%E5%87%8F%E9%80%9F%E6%96%B9%E6%A1%88%EF%BC%8CAltman%20%E6%8E%A8%E8%BF%9F%202026%20IPO.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
 ## 📰 AI 前沿日报  （共 72 篇）
