@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-14 | [Astra 托付生产系统，OpenAI 首席科学家同周喊减速](hotspot/2026-09-14%20Astra%20%E6%89%98%E4%BB%98%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F%EF%BC%8COpenAI%20%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%90%8C%E5%91%A8%E5%96%8A%E5%87%8F%E9%80%9F.md) |
+| 2026-09-14 | [把生产系统交给 Astra：99.9% 的分数到底是谁挣的](hotspot/2026-09-14%20%E6%8A%8A%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F%E4%BA%A4%E7%BB%99%20Astra%EF%BC%9A99.9%25%20%E7%9A%84%E5%88%86%E6%95%B0%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E6%8C%A3%E7%9A%84.md) |
 | 2026-09-13 | [模型开始值夜班：Perplexity 把生产系统交给 GPT-6 Astra 之后](hotspot/2026-09-13%20%E6%A8%A1%E5%9E%8B%E5%BC%80%E5%A7%8B%E5%80%BC%E5%A4%9C%E7%8F%AD%EF%BC%9APerplexity%20%E6%8A%8A%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F%E4%BA%A4%E7%BB%99%20GPT-6%20Astra%20%E4%B9%8B%E5%90%8E.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
