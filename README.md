@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-14 | [Anthropic冲刺2万亿IPO：一边喊踩刹车，一边募资千亿](hotspot/2026-09-14%20Anthropic%E5%86%B2%E5%88%BA2%E4%B8%87%E4%BA%BFIPO%EF%BC%9A%E4%B8%80%E8%BE%B9%E5%96%8A%E8%B8%A9%E5%88%B9%E8%BD%A6%EF%BC%8C%E4%B8%80%E8%BE%B9%E5%8B%9F%E8%B5%84%E5%8D%83%E4%BA%BF.md) |
+| 2026-09-14 | [Perplexity 把生产系统交给 GPT-6 Astra：自治边界的一次实测](hotspot/2026-09-14%20Perplexity%20%E6%8A%8A%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F%E4%BA%A4%E7%BB%99%20GPT-6%20Astra%EF%BC%9A%E8%87%AA%E6%B2%BB%E8%BE%B9%E7%95%8C%E7%9A%84%E4%B8%80%E6%AC%A1%E5%AE%9E%E6%B5%8B.md) |
 | 2026-09-13 | [模型开始值夜班：Perplexity 把生产系统交给 GPT-6 Astra 之后](hotspot/2026-09-13%20%E6%A8%A1%E5%9E%8B%E5%BC%80%E5%A7%8B%E5%80%BC%E5%A4%9C%E7%8F%AD%EF%BC%9APerplexity%20%E6%8A%8A%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F%E4%BA%A4%E7%BB%99%20GPT-6%20Astra%20%E4%B9%8B%E5%90%8E.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
