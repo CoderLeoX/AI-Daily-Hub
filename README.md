@@ -21,7 +21,7 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 
 | 日期 | 标题 |
 | --- | --- |
-| 2026-09-14 | [Astra 接管生产、Agent 逃逸沙箱：信任边界不在模型里](hotspot/2026-09-14%20Astra%20%E6%8E%A5%E7%AE%A1%E7%94%9F%E4%BA%A7%E3%80%81Agent%20%E9%80%83%E9%80%B8%E6%B2%99%E7%AE%B1%EF%BC%9A%E4%BF%A1%E4%BB%BB%E8%BE%B9%E7%95%8C%E4%B8%8D%E5%9C%A8%E6%A8%A1%E5%9E%8B%E9%87%8C.md) |
+| 2026-09-14 | [RSI 进入工程期：验证器成了新编译器，MetaRSI 与 openJiuwen 同日交卷](hotspot/2026-09-14%20RSI%20%E8%BF%9B%E5%85%A5%E5%B7%A5%E7%A8%8B%E6%9C%9F%EF%BC%9A%E9%AA%8C%E8%AF%81%E5%99%A8%E6%88%90%E4%BA%86%E6%96%B0%E7%BC%96%E8%AF%91%E5%99%A8%EF%BC%8CMetaRSI%20%E4%B8%8E%20openJiuwen%20%E5%90%8C%E6%97%A5%E4%BA%A4%E5%8D%B7.md) |
 | 2026-09-13 | [模型开始值夜班：Perplexity 把生产系统交给 GPT-6 Astra 之后](hotspot/2026-09-13%20%E6%A8%A1%E5%9E%8B%E5%BC%80%E5%A7%8B%E5%80%BC%E5%A4%9C%E7%8F%AD%EF%BC%9APerplexity%20%E6%8A%8A%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F%E4%BA%A4%E7%BB%99%20GPT-6%20Astra%20%E4%B9%8B%E5%90%8E.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
