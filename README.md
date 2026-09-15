@@ -57,10 +57,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-08 | [ECC · skills · diagram-design · hermes-agent · opencode](github-trending/2026-09-08%20ECC%20%C2%B7%20skills%20%C2%B7%20diagram-design%20%C2%B7%20hermes-agent%20%C2%B7%20opencode.md) |
 | 2026-09-07 | [skills · ECC · ponytail · hermes-agent · fmt](github-trending/2026-09-07%20skills%20%C2%B7%20ECC%20%C2%B7%20ponytail%20%C2%B7%20hermes-agent%20%C2%B7%20fmt.md) |
 
-## 🐧 Linux 社区动态  （共 37 篇）
+## 🐧 Linux 社区动态  （共 38 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-16 | [USN-8770-1 SimpleSAMLphp 漏洞](linux-community/2026-09-16%20USN-8770-1%20SimpleSAMLphp%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-15 | [USN-8758-1：dracut 漏洞](linux-community/2026-09-15%20USN-8758-1%EF%BC%9Adracut%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-14 | [🏷 版本发布 Linux 7.3-rc3（09-13）](linux-community/2026-09-14%20%F0%9F%8F%B7%20%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%20Linux%207.3-rc3%EF%BC%8809-13%EF%BC%89.md) |
 | 2026-09-13 | [DSA-6497-1 xorg-server 安全更新](linux-community/2026-09-13%20DSA-6497-1%20xorg-server%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
@@ -70,7 +71,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-09 | [USN-8737-1：GNU C Library 漏洞](linux-community/2026-09-09%20USN-8737-1%EF%BC%9AGNU%20C%20Library%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-08 | [USN-8732-1 Minetest 漏洞](linux-community/2026-09-08%20USN-8732-1%20Minetest%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-07 | [DSA-6486-1 libde265 安全更新](linux-community/2026-09-07%20DSA-6486-1%20libde265%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
-| 2026-09-06 | [🔀 合并子系统树 driver-core-7.3-rc2（09-05）](linux-community/2026-09-06%20%F0%9F%94%80%20%E5%90%88%E5%B9%B6%E5%AD%90%E7%B3%BB%E7%BB%9F%E6%A0%91%20driver-core-7.3-rc2%EF%BC%8809-05%EF%BC%89.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
