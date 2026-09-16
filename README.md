@@ -28,10 +28,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-13 | [模型开始值夜班：Perplexity 把生产系统交给 GPT-6 Astra 之后](hotspot/2026-09-13%20%E6%A8%A1%E5%9E%8B%E5%BC%80%E5%A7%8B%E5%80%BC%E5%A4%9C%E7%8F%AD%EF%BC%9APerplexity%20%E6%8A%8A%E7%94%9F%E4%BA%A7%E7%B3%BB%E7%BB%9F%E4%BA%A4%E7%BB%99%20GPT-6%20Astra%20%E4%B9%8B%E5%90%8E.md) |
 | 2026-09-12 | [Claude 越界攻入真实系统：对齐缺陷被承认，Amodei 提三步放缓](hotspot/2026-09-12%20Claude%20%E8%B6%8A%E7%95%8C%E6%94%BB%E5%85%A5%E7%9C%9F%E5%AE%9E%E7%B3%BB%E7%BB%9F%EF%BC%9A%E5%AF%B9%E9%BD%90%E7%BC%BA%E9%99%B7%E8%A2%AB%E6%89%BF%E8%AE%A4%EF%BC%8CAmodei%20%E6%8F%90%E4%B8%89%E6%AD%A5%E6%94%BE%E7%BC%93.md) |
 
-## 📰 AI 前沿日报  （共 75 篇）
+## 📰 AI 前沿日报  （共 76 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-17 | [曼彻斯特大学用 NVIDIA Earth-2 预测全英空气污染](daily-report/2026-09-17%20%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6%E7%94%A8%20NVIDIA%20Earth-2%20%E9%A2%84%E6%B5%8B%E5%85%A8%E8%8B%B1%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93.md) |
 | 2026-09-16 | [OpenAI 发布面向编程与计算机应用的 GPT-6 Astra](daily-report/2026-09-16%20OpenAI%20%E5%8F%91%E5%B8%83%E9%9D%A2%E5%90%91%E7%BC%96%E7%A8%8B%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%BA%94%E7%94%A8%E7%9A%84%20GPT-6%20Astra.md) |
 | 2026-09-15 | [Perplexity 便携计算机登陆 Windows，由 NVIDIA RTX 驱动](daily-report/2026-09-15%20Perplexity%20%E4%BE%BF%E6%90%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%99%BB%E9%99%86%20Windows%EF%BC%8C%E7%94%B1%20NVIDIA%20RTX%20%E9%A9%B1%E5%8A%A8.md) |
 | 2026-09-14 | [AWS 推出 Pizza Bot：面向后台 AI Agent 的开源收件箱](daily-report/2026-09-14%20AWS%20%E6%8E%A8%E5%87%BA%20Pizza%20Bot%EF%BC%9A%E9%9D%A2%E5%90%91%E5%90%8E%E5%8F%B0%20AI%20Agent%20%E7%9A%84%E5%BC%80%E6%BA%90%E6%94%B6%E4%BB%B6%E7%AE%B1.md) |
@@ -41,7 +42,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-10 | [Paul Christiano 加入 OpenAI 基金会董事会](daily-report/2026-09-10%20Paul%20Christiano%20%E5%8A%A0%E5%85%A5%20OpenAI%20%E5%9F%BA%E9%87%91%E4%BC%9A%E8%91%A3%E4%BA%8B%E4%BC%9A.md) |
 | 2026-09-09 | [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon 上海](daily-report/2026-09-09%20AI%20Coding%20%E5%9C%A8%E5%A4%A7%E5%9E%8B%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%B8%AD%E7%9A%84%E8%90%BD%E5%9C%B0%E5%AE%9E%E8%B7%B5%E2%80%94%E2%80%94%E4%BB%8E%E9%80%9A%E6%89%8D%E6%A8%A1%E5%9E%8B%E5%88%B0%E4%B8%93%E6%89%8D%20Agent%EF%BD%9CQCon%20%E4%B8%8A%E6%B5%B7.md) |
 | 2026-09-08 | [国内首份办公 Agent 用户行为报告发布：北京用户量居首，海外用户占比超 12%](daily-report/2026-09-08%20%E5%9B%BD%E5%86%85%E9%A6%96%E4%BB%BD%E5%8A%9E%E5%85%AC%20Agent%20%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%94%A8%E6%88%B7%E9%87%8F%E5%B1%85%E9%A6%96%EF%BC%8C%E6%B5%B7%E5%A4%96%E7%94%A8%E6%88%B7%E5%8D%A0%E6%AF%94%E8%B6%85%2012%25.md) |
-| 2026-09-07 | [OpenAI 披露内部数据：编码智能体已重塑 AI 研究流程](daily-report/2026-09-07%20OpenAI%20%E6%8A%AB%E9%9C%B2%E5%86%85%E9%83%A8%E6%95%B0%E6%8D%AE%EF%BC%9A%E7%BC%96%E7%A0%81%E6%99%BA%E8%83%BD%E4%BD%93%E5%B7%B2%E9%87%8D%E5%A1%91%20AI%20%E7%A0%94%E7%A9%B6%E6%B5%81%E7%A8%8B.md) |
 
 ## ⭐ GitHub 精选  （共 75 篇）
 
