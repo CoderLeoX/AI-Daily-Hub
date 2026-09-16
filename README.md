@@ -43,10 +43,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-08 | [国内首份办公 Agent 用户行为报告发布：北京用户量居首，海外用户占比超 12%](daily-report/2026-09-08%20%E5%9B%BD%E5%86%85%E9%A6%96%E4%BB%BD%E5%8A%9E%E5%85%AC%20Agent%20%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%94%A8%E6%88%B7%E9%87%8F%E5%B1%85%E9%A6%96%EF%BC%8C%E6%B5%B7%E5%A4%96%E7%94%A8%E6%88%B7%E5%8D%A0%E6%AF%94%E8%B6%85%2012%25.md) |
 | 2026-09-07 | [OpenAI 披露内部数据：编码智能体已重塑 AI 研究流程](daily-report/2026-09-07%20OpenAI%20%E6%8A%AB%E9%9C%B2%E5%86%85%E9%83%A8%E6%95%B0%E6%8D%AE%EF%BC%9A%E7%BC%96%E7%A0%81%E6%99%BA%E8%83%BD%E4%BD%93%E5%B7%B2%E9%87%8D%E5%A1%91%20AI%20%E7%A0%94%E7%A9%B6%E6%B5%81%E7%A8%8B.md) |
 
-## ⭐ GitHub 精选  （共 74 篇）
+## ⭐ GitHub 精选  （共 75 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-17 | [open-code-review · colibri · ever-gauzy · VoiceStudio](github-trending/2026-09-17%20open-code-review%20%C2%B7%20colibri%20%C2%B7%20ever-gauzy%20%C2%B7%20VoiceStudio.md) |
 | 2026-09-16 | [colibri · open-code-review · YuE · VoiceStudio · MiroFish](github-trending/2026-09-16%20colibri%20%C2%B7%20open-code-review%20%C2%B7%20YuE%20%C2%B7%20VoiceStudio%20%C2%B7%20MiroFish.md) |
 | 2026-09-15 | [colibri · ever-gauzy · gods-eye-view · agent-skills](github-trending/2026-09-15%20colibri%20%C2%B7%20ever-gauzy%20%C2%B7%20gods-eye-view%20%C2%B7%20agent-skills.md) |
 | 2026-09-14 | [gods-eye-view · DeskcommCRM · system_prompts_leaks · iloader](github-trending/2026-09-14%20gods-eye-view%20%C2%B7%20DeskcommCRM%20%C2%B7%20system_prompts_leaks%20%C2%B7%20iloader.md) |
@@ -56,7 +57,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-10 | [i-have-adhd · diagram-design · skills · ECC · hyperframes](github-trending/2026-09-10%20i-have-adhd%20%C2%B7%20diagram-design%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20hyperframes.md) |
 | 2026-09-09 | [hyperframes · markitdown · context-mode · camofox-browser](github-trending/2026-09-09%20hyperframes%20%C2%B7%20markitdown%20%C2%B7%20context-mode%20%C2%B7%20camofox-browser.md) |
 | 2026-09-08 | [ECC · skills · diagram-design · hermes-agent · opencode](github-trending/2026-09-08%20ECC%20%C2%B7%20skills%20%C2%B7%20diagram-design%20%C2%B7%20hermes-agent%20%C2%B7%20opencode.md) |
-| 2026-09-07 | [skills · ECC · ponytail · hermes-agent · fmt](github-trending/2026-09-07%20skills%20%C2%B7%20ECC%20%C2%B7%20ponytail%20%C2%B7%20hermes-agent%20%C2%B7%20fmt.md) |
 
 ## 🐧 Linux 社区动态  （共 38 篇）
 
