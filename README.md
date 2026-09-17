@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-10 | [通才模型并不通吃 客户端 AI Coding 的专才 Agent 改造](deepdive/2026-09-10%20%E9%80%9A%E6%89%8D%E6%A8%A1%E5%9E%8B%E5%B9%B6%E4%B8%8D%E9%80%9A%E5%90%83%20%E5%AE%A2%E6%88%B7%E7%AB%AF%20AI%20Coding%20%E7%9A%84%E4%B8%93%E6%89%8D%20Agent%20%E6%94%B9%E9%80%A0.md) |
 | 2026-09-09 | [Agent 工时反超人类 3.1 倍之后：度量、分工与熔断](deepdive/2026-09-09%20Agent%20%E5%B7%A5%E6%97%B6%E5%8F%8D%E8%B6%85%E4%BA%BA%E7%B1%BB%203.1%20%E5%80%8D%E4%B9%8B%E5%90%8E%EF%BC%9A%E5%BA%A6%E9%87%8F%E3%80%81%E5%88%86%E5%B7%A5%E4%B8%8E%E7%86%94%E6%96%AD.md) |
 
-## 📰 AI 前沿日报  （共 76 篇）
+## 📰 AI 前沿日报  （共 77 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-18 | [Claude Code 团队公开内部方法：工程师的核心永远是解决问题](daily-report/2026-09-18%20Claude%20Code%20%E5%9B%A2%E9%98%9F%E5%85%AC%E5%BC%80%E5%86%85%E9%83%A8%E6%96%B9%E6%B3%95%EF%BC%9A%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E6%A0%B8%E5%BF%83%E6%B0%B8%E8%BF%9C%E6%98%AF%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98.md) |
 | 2026-09-17 | [曼彻斯特大学用 NVIDIA Earth-2 预测全英空气污染](daily-report/2026-09-17%20%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6%E7%94%A8%20NVIDIA%20Earth-2%20%E9%A2%84%E6%B5%8B%E5%85%A8%E8%8B%B1%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93.md) |
 | 2026-09-16 | [OpenAI 发布面向编程与计算机应用的 GPT-6 Astra](daily-report/2026-09-16%20OpenAI%20%E5%8F%91%E5%B8%83%E9%9D%A2%E5%90%91%E7%BC%96%E7%A8%8B%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%BA%94%E7%94%A8%E7%9A%84%20GPT-6%20Astra.md) |
 | 2026-09-15 | [Perplexity 便携计算机登陆 Windows，由 NVIDIA RTX 驱动](daily-report/2026-09-15%20Perplexity%20%E4%BE%BF%E6%90%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%99%BB%E9%99%86%20Windows%EF%BC%8C%E7%94%B1%20NVIDIA%20RTX%20%E9%A9%B1%E5%8A%A8.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-11 | [OpenAI 推出 Agents API](daily-report/2026-09-11%20OpenAI%20%E6%8E%A8%E5%87%BA%20Agents%20API.md) |
 | 2026-09-10 | [Paul Christiano 加入 OpenAI 基金会董事会](daily-report/2026-09-10%20Paul%20Christiano%20%E5%8A%A0%E5%85%A5%20OpenAI%20%E5%9F%BA%E9%87%91%E4%BC%9A%E8%91%A3%E4%BA%8B%E4%BC%9A.md) |
 | 2026-09-09 | [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon 上海](daily-report/2026-09-09%20AI%20Coding%20%E5%9C%A8%E5%A4%A7%E5%9E%8B%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%B8%AD%E7%9A%84%E8%90%BD%E5%9C%B0%E5%AE%9E%E8%B7%B5%E2%80%94%E2%80%94%E4%BB%8E%E9%80%9A%E6%89%8D%E6%A8%A1%E5%9E%8B%E5%88%B0%E4%B8%93%E6%89%8D%20Agent%EF%BD%9CQCon%20%E4%B8%8A%E6%B5%B7.md) |
-| 2026-09-08 | [国内首份办公 Agent 用户行为报告发布：北京用户量居首，海外用户占比超 12%](daily-report/2026-09-08%20%E5%9B%BD%E5%86%85%E9%A6%96%E4%BB%BD%E5%8A%9E%E5%85%AC%20Agent%20%E7%94%A8%E6%88%B7%E8%A1%8C%E4%B8%BA%E6%8A%A5%E5%91%8A%E5%8F%91%E5%B8%83%EF%BC%9A%E5%8C%97%E4%BA%AC%E7%94%A8%E6%88%B7%E9%87%8F%E5%B1%85%E9%A6%96%EF%BC%8C%E6%B5%B7%E5%A4%96%E7%94%A8%E6%88%B7%E5%8D%A0%E6%AF%94%E8%B6%85%2012%25.md) |
 
 ## ⭐ GitHub 精选  （共 76 篇）
 
