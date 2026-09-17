@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-10 | [i-have-adhd · diagram-design · skills · ECC · hyperframes](github-trending/2026-09-10%20i-have-adhd%20%C2%B7%20diagram-design%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20hyperframes.md) |
 | 2026-09-09 | [hyperframes · markitdown · context-mode · camofox-browser](github-trending/2026-09-09%20hyperframes%20%C2%B7%20markitdown%20%C2%B7%20context-mode%20%C2%B7%20camofox-browser.md) |
 
-## 🐧 Linux 社区动态  （共 39 篇）
+## 🐧 Linux 社区动态  （共 40 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-18 | [USN-8780-1 libsoup 漏洞](linux-community/2026-09-18%20USN-8780-1%20libsoup%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-17 | [USN-8776-1：python-cryptography 漏洞修复](linux-community/2026-09-17%20USN-8776-1%EF%BC%9Apython-cryptography%20%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D.md) |
 | 2026-09-16 | [USN-8770-1 SimpleSAMLphp 漏洞](linux-community/2026-09-16%20USN-8770-1%20SimpleSAMLphp%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-15 | [USN-8758-1：dracut 漏洞](linux-community/2026-09-15%20USN-8758-1%EF%BC%9Adracut%20%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-11 | [USN-8747-1：Beets 漏洞](linux-community/2026-09-11%20USN-8747-1%EF%BC%9ABeets%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-10 | [USN-8716-2：FFmpeg 漏洞](linux-community/2026-09-10%20USN-8716-2%EF%BC%9AFFmpeg%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-09 | [USN-8737-1：GNU C Library 漏洞](linux-community/2026-09-09%20USN-8737-1%EF%BC%9AGNU%20C%20Library%20%E6%BC%8F%E6%B4%9E.md) |
-| 2026-09-08 | [USN-8732-1 Minetest 漏洞](linux-community/2026-09-08%20USN-8732-1%20Minetest%20%E6%BC%8F%E6%B4%9E.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
