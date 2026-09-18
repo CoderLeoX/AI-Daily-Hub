@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-11 | [i-have-adhd · teamai-cli · superpowers · editor](github-trending/2026-09-11%20i-have-adhd%20%C2%B7%20teamai-cli%20%C2%B7%20superpowers%20%C2%B7%20editor.md) |
 | 2026-09-10 | [i-have-adhd · diagram-design · skills · ECC · hyperframes](github-trending/2026-09-10%20i-have-adhd%20%C2%B7%20diagram-design%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20hyperframes.md) |
 
-## 🐧 Linux 社区动态  （共 40 篇）
+## 🐧 Linux 社区动态  （共 41 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-19 | [USN-8782-1：Rclone 漏洞](linux-community/2026-09-19%20USN-8782-1%EF%BC%9ARclone%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-18 | [USN-8780-1 libsoup 漏洞](linux-community/2026-09-18%20USN-8780-1%20libsoup%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-17 | [USN-8776-1：python-cryptography 漏洞修复](linux-community/2026-09-17%20USN-8776-1%EF%BC%9Apython-cryptography%20%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D.md) |
 | 2026-09-16 | [USN-8770-1 SimpleSAMLphp 漏洞](linux-community/2026-09-16%20USN-8770-1%20SimpleSAMLphp%20%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-12 | [USN-8571-2：Apache HTTP Server 修复回归问题](linux-community/2026-09-12%20USN-8571-2%EF%BC%9AApache%20HTTP%20Server%20%E4%BF%AE%E5%A4%8D%E5%9B%9E%E5%BD%92%E9%97%AE%E9%A2%98.md) |
 | 2026-09-11 | [USN-8747-1：Beets 漏洞](linux-community/2026-09-11%20USN-8747-1%EF%BC%9ABeets%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-10 | [USN-8716-2：FFmpeg 漏洞](linux-community/2026-09-10%20USN-8716-2%EF%BC%9AFFmpeg%20%E6%BC%8F%E6%B4%9E.md) |
-| 2026-09-09 | [USN-8737-1：GNU C Library 漏洞](linux-community/2026-09-09%20USN-8737-1%EF%BC%9AGNU%20C%20Library%20%E6%BC%8F%E6%B4%9E.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
