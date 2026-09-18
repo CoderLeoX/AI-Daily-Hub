@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-10 | [Paul Christiano 加入 OpenAI 基金会董事会](daily-report/2026-09-10%20Paul%20Christiano%20%E5%8A%A0%E5%85%A5%20OpenAI%20%E5%9F%BA%E9%87%91%E4%BC%9A%E8%91%A3%E4%BA%8B%E4%BC%9A.md) |
 | 2026-09-09 | [AI Coding 在大型客户端工程中的落地实践——从通才模型到专才 Agent｜QCon 上海](daily-report/2026-09-09%20AI%20Coding%20%E5%9C%A8%E5%A4%A7%E5%9E%8B%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%B7%A5%E7%A8%8B%E4%B8%AD%E7%9A%84%E8%90%BD%E5%9C%B0%E5%AE%9E%E8%B7%B5%E2%80%94%E2%80%94%E4%BB%8E%E9%80%9A%E6%89%8D%E6%A8%A1%E5%9E%8B%E5%88%B0%E4%B8%93%E6%89%8D%20Agent%EF%BD%9CQCon%20%E4%B8%8A%E6%B5%B7.md) |
 
-## ⭐ GitHub 精选  （共 76 篇）
+## ⭐ GitHub 精选  （共 77 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-19 | [open-code-review · security-audit-skill · agent-skills](github-trending/2026-09-19%20open-code-review%20%C2%B7%20security-audit-skill%20%C2%B7%20agent-skills.md) |
 | 2026-09-18 | [open-code-review · security-audit-skill · colibri · tinycast](github-trending/2026-09-18%20open-code-review%20%C2%B7%20security-audit-skill%20%C2%B7%20colibri%20%C2%B7%20tinycast.md) |
 | 2026-09-17 | [open-code-review · colibri · ever-gauzy · VoiceStudio](github-trending/2026-09-17%20open-code-review%20%C2%B7%20colibri%20%C2%B7%20ever-gauzy%20%C2%B7%20VoiceStudio.md) |
 | 2026-09-16 | [colibri · open-code-review · YuE · VoiceStudio · MiroFish](github-trending/2026-09-16%20colibri%20%C2%B7%20open-code-review%20%C2%B7%20YuE%20%C2%B7%20VoiceStudio%20%C2%B7%20MiroFish.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-12 | [i-have-adhd · gods-eye-view · superpowers · CloddsBot](github-trending/2026-09-12%20i-have-adhd%20%C2%B7%20gods-eye-view%20%C2%B7%20superpowers%20%C2%B7%20CloddsBot.md) |
 | 2026-09-11 | [i-have-adhd · teamai-cli · superpowers · editor](github-trending/2026-09-11%20i-have-adhd%20%C2%B7%20teamai-cli%20%C2%B7%20superpowers%20%C2%B7%20editor.md) |
 | 2026-09-10 | [i-have-adhd · diagram-design · skills · ECC · hyperframes](github-trending/2026-09-10%20i-have-adhd%20%C2%B7%20diagram-design%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20hyperframes.md) |
-| 2026-09-09 | [hyperframes · markitdown · context-mode · camofox-browser](github-trending/2026-09-09%20hyperframes%20%C2%B7%20markitdown%20%C2%B7%20context-mode%20%C2%B7%20camofox-browser.md) |
 
 ## 🐧 Linux 社区动态  （共 40 篇）
 
