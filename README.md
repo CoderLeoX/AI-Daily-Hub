@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-11 | [OpenAI 推出 Agents API](daily-report/2026-09-11%20OpenAI%20%E6%8E%A8%E5%87%BA%20Agents%20API.md) |
 | 2026-09-10 | [Paul Christiano 加入 OpenAI 基金会董事会](daily-report/2026-09-10%20Paul%20Christiano%20%E5%8A%A0%E5%85%A5%20OpenAI%20%E5%9F%BA%E9%87%91%E4%BC%9A%E8%91%A3%E4%BA%8B%E4%BC%9A.md) |
 
-## ⭐ GitHub 精选  （共 77 篇）
+## ⭐ GitHub 精选  （共 78 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-20 | [security-audit-skill · claude-code · open-code-review · ECC](github-trending/2026-09-20%20security-audit-skill%20%C2%B7%20claude-code%20%C2%B7%20open-code-review%20%C2%B7%20ECC.md) |
 | 2026-09-19 | [open-code-review · security-audit-skill · agent-skills](github-trending/2026-09-19%20open-code-review%20%C2%B7%20security-audit-skill%20%C2%B7%20agent-skills.md) |
 | 2026-09-18 | [open-code-review · security-audit-skill · colibri · tinycast](github-trending/2026-09-18%20open-code-review%20%C2%B7%20security-audit-skill%20%C2%B7%20colibri%20%C2%B7%20tinycast.md) |
 | 2026-09-17 | [open-code-review · colibri · ever-gauzy · VoiceStudio](github-trending/2026-09-17%20open-code-review%20%C2%B7%20colibri%20%C2%B7%20ever-gauzy%20%C2%B7%20VoiceStudio.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-13 | [i-have-adhd · gods-eye-view · iloader · DeskcommCRM](github-trending/2026-09-13%20i-have-adhd%20%C2%B7%20gods-eye-view%20%C2%B7%20iloader%20%C2%B7%20DeskcommCRM.md) |
 | 2026-09-12 | [i-have-adhd · gods-eye-view · superpowers · CloddsBot](github-trending/2026-09-12%20i-have-adhd%20%C2%B7%20gods-eye-view%20%C2%B7%20superpowers%20%C2%B7%20CloddsBot.md) |
 | 2026-09-11 | [i-have-adhd · teamai-cli · superpowers · editor](github-trending/2026-09-11%20i-have-adhd%20%C2%B7%20teamai-cli%20%C2%B7%20superpowers%20%C2%B7%20editor.md) |
-| 2026-09-10 | [i-have-adhd · diagram-design · skills · ECC · hyperframes](github-trending/2026-09-10%20i-have-adhd%20%C2%B7%20diagram-design%20%C2%B7%20skills%20%C2%B7%20ECC%20%C2%B7%20hyperframes.md) |
 
 ## 🐧 Linux 社区动态  （共 41 篇）
 
