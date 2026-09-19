@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-12 | [Agent 编排的「运行时收编」 OpenAI Agents API 想把长时任务变成托管基础设施](deepdive/2026-09-12%20Agent%20%E7%BC%96%E6%8E%92%E7%9A%84%E3%80%8C%E8%BF%90%E8%A1%8C%E6%97%B6%E6%94%B6%E7%BC%96%E3%80%8D%20OpenAI%20Agents%20API%20%E6%83%B3%E6%8A%8A%E9%95%BF%E6%97%B6%E4%BB%BB%E5%8A%A1%E5%8F%98%E6%88%90%E6%89%98%E7%AE%A1%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD.md) |
 | 2026-09-11 | [一万个并发 Agent 写出的证明，真正的瓶颈是验证与归因](deepdive/2026-09-11%20%E4%B8%80%E4%B8%87%E4%B8%AA%E5%B9%B6%E5%8F%91%20Agent%20%E5%86%99%E5%87%BA%E7%9A%84%E8%AF%81%E6%98%8E%EF%BC%8C%E7%9C%9F%E6%AD%A3%E7%9A%84%E7%93%B6%E9%A2%88%E6%98%AF%E9%AA%8C%E8%AF%81%E4%B8%8E%E5%BD%92%E5%9B%A0.md) |
 
-## 📰 AI 前沿日报  （共 78 篇）
+## 📰 AI 前沿日报  （共 79 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-20 | [OpenAI 与微软早知自己在制造「网页末日循环」](daily-report/2026-09-20%20OpenAI%20%E4%B8%8E%E5%BE%AE%E8%BD%AF%E6%97%A9%E7%9F%A5%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%88%B6%E9%80%A0%E3%80%8C%E7%BD%91%E9%A1%B5%E6%9C%AB%E6%97%A5%E5%BE%AA%E7%8E%AF%E3%80%8D.md) |
 | 2026-09-19 | [Salesforce Agentforce：把 AI 原型推进到企业级可靠运行](daily-report/2026-09-19%20Salesforce%20Agentforce%EF%BC%9A%E6%8A%8A%20AI%20%E5%8E%9F%E5%9E%8B%E6%8E%A8%E8%BF%9B%E5%88%B0%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%8F%AF%E9%9D%A0%E8%BF%90%E8%A1%8C.md) |
 | 2026-09-18 | [Claude Code 团队公开内部方法：工程师的核心永远是解决问题](daily-report/2026-09-18%20Claude%20Code%20%E5%9B%A2%E9%98%9F%E5%85%AC%E5%BC%80%E5%86%85%E9%83%A8%E6%96%B9%E6%B3%95%EF%BC%9A%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%9A%84%E6%A0%B8%E5%BF%83%E6%B0%B8%E8%BF%9C%E6%98%AF%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98.md) |
 | 2026-09-17 | [曼彻斯特大学用 NVIDIA Earth-2 预测全英空气污染](daily-report/2026-09-17%20%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6%E7%94%A8%20NVIDIA%20Earth-2%20%E9%A2%84%E6%B5%8B%E5%85%A8%E8%8B%B1%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-13 | [Anthropic 承认 Claude 安全对齐存在缺陷，且「尚无解决方案」](daily-report/2026-09-13%20Anthropic%20%E6%89%BF%E8%AE%A4%20Claude%20%E5%AE%89%E5%85%A8%E5%AF%B9%E9%BD%90%E5%AD%98%E5%9C%A8%E7%BC%BA%E9%99%B7%EF%BC%8C%E4%B8%94%E3%80%8C%E5%B0%9A%E6%97%A0%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%8D.md) |
 | 2026-09-12 | [研究者让 AI 模型运行模拟社会：Grok 四天崩溃，Claude 建立起秩序](daily-report/2026-09-12%20%E7%A0%94%E7%A9%B6%E8%80%85%E8%AE%A9%20AI%20%E6%A8%A1%E5%9E%8B%E8%BF%90%E8%A1%8C%E6%A8%A1%E6%8B%9F%E7%A4%BE%E4%BC%9A%EF%BC%9AGrok%20%E5%9B%9B%E5%A4%A9%E5%B4%A9%E6%BA%83%EF%BC%8CClaude%20%E5%BB%BA%E7%AB%8B%E8%B5%B7%E7%A7%A9%E5%BA%8F.md) |
 | 2026-09-11 | [OpenAI 推出 Agents API](daily-report/2026-09-11%20OpenAI%20%E6%8E%A8%E5%87%BA%20Agents%20API.md) |
-| 2026-09-10 | [Paul Christiano 加入 OpenAI 基金会董事会](daily-report/2026-09-10%20Paul%20Christiano%20%E5%8A%A0%E5%85%A5%20OpenAI%20%E5%9F%BA%E9%87%91%E4%BC%9A%E8%91%A3%E4%BA%8B%E4%BC%9A.md) |
 
 ## ⭐ GitHub 精选  （共 78 篇）
 
