@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-13 | [i-have-adhd · gods-eye-view · iloader · DeskcommCRM](github-trending/2026-09-13%20i-have-adhd%20%C2%B7%20gods-eye-view%20%C2%B7%20iloader%20%C2%B7%20DeskcommCRM.md) |
 | 2026-09-12 | [i-have-adhd · gods-eye-view · superpowers · CloddsBot](github-trending/2026-09-12%20i-have-adhd%20%C2%B7%20gods-eye-view%20%C2%B7%20superpowers%20%C2%B7%20CloddsBot.md) |
 
-## 🐧 Linux 社区动态  （共 42 篇）
+## 🐧 Linux 社区动态  （共 43 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-21 | [DSA-6509-1 GIMP 安全更新：修复 6 个漏洞](linux-community/2026-09-21%20DSA-6509-1%20GIMP%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0%EF%BC%9A%E4%BF%AE%E5%A4%8D%206%20%E4%B8%AA%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-20 | [DSA-6507-1 unbound 安全更新](linux-community/2026-09-20%20DSA-6507-1%20unbound%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-09-19 | [USN-8782-1：Rclone 漏洞](linux-community/2026-09-19%20USN-8782-1%EF%BC%9ARclone%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-18 | [USN-8780-1 libsoup 漏洞](linux-community/2026-09-18%20USN-8780-1%20libsoup%20%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-14 | [🏷 版本发布 Linux 7.3-rc3（09-13）](linux-community/2026-09-14%20%F0%9F%8F%B7%20%E7%89%88%E6%9C%AC%E5%8F%91%E5%B8%83%20Linux%207.3-rc3%EF%BC%8809-13%EF%BC%89.md) |
 | 2026-09-13 | [DSA-6497-1 xorg-server 安全更新](linux-community/2026-09-13%20DSA-6497-1%20xorg-server%20%E5%AE%89%E5%85%A8%E6%9B%B4%E6%96%B0.md) |
 | 2026-09-12 | [USN-8571-2：Apache HTTP Server 修复回归问题](linux-community/2026-09-12%20USN-8571-2%EF%BC%9AApache%20HTTP%20Server%20%E4%BF%AE%E5%A4%8D%E5%9B%9E%E5%BD%92%E9%97%AE%E9%A2%98.md) |
-| 2026-09-11 | [USN-8747-1：Beets 漏洞](linux-community/2026-09-11%20USN-8747-1%EF%BC%9ABeets%20%E6%BC%8F%E6%B4%9E.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
