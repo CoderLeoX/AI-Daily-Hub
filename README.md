@@ -17,10 +17,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-14 | [稀疏推理芯片的代价 稀疏度兑现不了，专用化就锁死了通用性](deepdive/2026-09-14%20%E7%A8%80%E7%96%8F%E6%8E%A8%E7%90%86%E8%8A%AF%E7%89%87%E7%9A%84%E4%BB%A3%E4%BB%B7%20%E7%A8%80%E7%96%8F%E5%BA%A6%E5%85%91%E7%8E%B0%E4%B8%8D%E4%BA%86%EF%BC%8C%E4%B8%93%E7%94%A8%E5%8C%96%E5%B0%B1%E9%94%81%E6%AD%BB%E4%BA%86%E9%80%9A%E7%94%A8%E6%80%A7.md) |
 | 2026-09-13 | [三家同时喊“减速”：前沿AI的瓶颈已从算力转向可验证性](deepdive/2026-09-13%20%E4%B8%89%E5%AE%B6%E5%90%8C%E6%97%B6%E5%96%8A%E2%80%9C%E5%87%8F%E9%80%9F%E2%80%9D%EF%BC%9A%E5%89%8D%E6%B2%BFAI%E7%9A%84%E7%93%B6%E9%A2%88%E5%B7%B2%E4%BB%8E%E7%AE%97%E5%8A%9B%E8%BD%AC%E5%90%91%E5%8F%AF%E9%AA%8C%E8%AF%81%E6%80%A7.md) |
 
-## 📰 AI 前沿日报  （共 80 篇）
+## 📰 AI 前沿日报  （共 81 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-22 | [V7 为 AI Agent 构建机构级记忆](daily-report/2026-09-22%20V7%20%E4%B8%BA%20AI%20Agent%20%E6%9E%84%E5%BB%BA%E6%9C%BA%E6%9E%84%E7%BA%A7%E8%AE%B0%E5%BF%86.md) |
 | 2026-09-21 | [AI「减速」诉讼直指 ChatGPT、Claude、Grok 与 Gemini 订阅](daily-report/2026-09-21%20AI%E3%80%8C%E5%87%8F%E9%80%9F%E3%80%8D%E8%AF%89%E8%AE%BC%E7%9B%B4%E6%8C%87%20ChatGPT%E3%80%81Claude%E3%80%81Grok%20%E4%B8%8E%20Gemini%20%E8%AE%A2%E9%98%85.md) |
 | 2026-09-20 | [OpenAI 与微软早知自己在制造「网页末日循环」](daily-report/2026-09-20%20OpenAI%20%E4%B8%8E%E5%BE%AE%E8%BD%AF%E6%97%A9%E7%9F%A5%E8%87%AA%E5%B7%B1%E5%9C%A8%E5%88%B6%E9%80%A0%E3%80%8C%E7%BD%91%E9%A1%B5%E6%9C%AB%E6%97%A5%E5%BE%AA%E7%8E%AF%E3%80%8D.md) |
 | 2026-09-19 | [Salesforce Agentforce：把 AI 原型推进到企业级可靠运行](daily-report/2026-09-19%20Salesforce%20Agentforce%EF%BC%9A%E6%8A%8A%20AI%20%E5%8E%9F%E5%9E%8B%E6%8E%A8%E8%BF%9B%E5%88%B0%E4%BC%81%E4%B8%9A%E7%BA%A7%E5%8F%AF%E9%9D%A0%E8%BF%90%E8%A1%8C.md) |
@@ -30,7 +31,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-15 | [Perplexity 便携计算机登陆 Windows，由 NVIDIA RTX 驱动](daily-report/2026-09-15%20Perplexity%20%E4%BE%BF%E6%90%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%99%BB%E9%99%86%20Windows%EF%BC%8C%E7%94%B1%20NVIDIA%20RTX%20%E9%A9%B1%E5%8A%A8.md) |
 | 2026-09-14 | [AWS 推出 Pizza Bot：面向后台 AI Agent 的开源收件箱](daily-report/2026-09-14%20AWS%20%E6%8E%A8%E5%87%BA%20Pizza%20Bot%EF%BC%9A%E9%9D%A2%E5%90%91%E5%90%8E%E5%8F%B0%20AI%20Agent%20%E7%9A%84%E5%BC%80%E6%BA%90%E6%94%B6%E4%BB%B6%E7%AE%B1.md) |
 | 2026-09-13 | [Anthropic 承认 Claude 安全对齐存在缺陷，且「尚无解决方案」](daily-report/2026-09-13%20Anthropic%20%E6%89%BF%E8%AE%A4%20Claude%20%E5%AE%89%E5%85%A8%E5%AF%B9%E9%BD%90%E5%AD%98%E5%9C%A8%E7%BC%BA%E9%99%B7%EF%BC%8C%E4%B8%94%E3%80%8C%E5%B0%9A%E6%97%A0%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%8D.md) |
-| 2026-09-12 | [研究者让 AI 模型运行模拟社会：Grok 四天崩溃，Claude 建立起秩序](daily-report/2026-09-12%20%E7%A0%94%E7%A9%B6%E8%80%85%E8%AE%A9%20AI%20%E6%A8%A1%E5%9E%8B%E8%BF%90%E8%A1%8C%E6%A8%A1%E6%8B%9F%E7%A4%BE%E4%BC%9A%EF%BC%9AGrok%20%E5%9B%9B%E5%A4%A9%E5%B4%A9%E6%BA%83%EF%BC%8CClaude%20%E5%BB%BA%E7%AB%8B%E8%B5%B7%E7%A7%A9%E5%BA%8F.md) |
 
 ## ⭐ GitHub 精选  （共 80 篇）
 
