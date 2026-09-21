@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-13 | [Anthropic 承认 Claude 安全对齐存在缺陷，且「尚无解决方案」](daily-report/2026-09-13%20Anthropic%20%E6%89%BF%E8%AE%A4%20Claude%20%E5%AE%89%E5%85%A8%E5%AF%B9%E9%BD%90%E5%AD%98%E5%9C%A8%E7%BC%BA%E9%99%B7%EF%BC%8C%E4%B8%94%E3%80%8C%E5%B0%9A%E6%97%A0%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%8D.md) |
 | 2026-09-12 | [研究者让 AI 模型运行模拟社会：Grok 四天崩溃，Claude 建立起秩序](daily-report/2026-09-12%20%E7%A0%94%E7%A9%B6%E8%80%85%E8%AE%A9%20AI%20%E6%A8%A1%E5%9E%8B%E8%BF%90%E8%A1%8C%E6%A8%A1%E6%8B%9F%E7%A4%BE%E4%BC%9A%EF%BC%9AGrok%20%E5%9B%9B%E5%A4%A9%E5%B4%A9%E6%BA%83%EF%BC%8CClaude%20%E5%BB%BA%E7%AB%8B%E8%B5%B7%E7%A7%A9%E5%BA%8F.md) |
 
-## ⭐ GitHub 精选  （共 79 篇）
+## ⭐ GitHub 精选  （共 80 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-22 | [ECC · agent-native · security-audit-skill · cua](github-trending/2026-09-22%20ECC%20%C2%B7%20agent-native%20%C2%B7%20security-audit-skill%20%C2%B7%20cua.md) |
 | 2026-09-21 | [security-audit-skill · cua · agent-skills · coder](github-trending/2026-09-21%20security-audit-skill%20%C2%B7%20cua%20%C2%B7%20agent-skills%20%C2%B7%20coder.md) |
 | 2026-09-20 | [security-audit-skill · claude-code · open-code-review · ECC](github-trending/2026-09-20%20security-audit-skill%20%C2%B7%20claude-code%20%C2%B7%20open-code-review%20%C2%B7%20ECC.md) |
 | 2026-09-19 | [open-code-review · security-audit-skill · agent-skills](github-trending/2026-09-19%20open-code-review%20%C2%B7%20security-audit-skill%20%C2%B7%20agent-skills.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-15 | [colibri · ever-gauzy · gods-eye-view · agent-skills](github-trending/2026-09-15%20colibri%20%C2%B7%20ever-gauzy%20%C2%B7%20gods-eye-view%20%C2%B7%20agent-skills.md) |
 | 2026-09-14 | [gods-eye-view · DeskcommCRM · system_prompts_leaks · iloader](github-trending/2026-09-14%20gods-eye-view%20%C2%B7%20DeskcommCRM%20%C2%B7%20system_prompts_leaks%20%C2%B7%20iloader.md) |
 | 2026-09-13 | [i-have-adhd · gods-eye-view · iloader · DeskcommCRM](github-trending/2026-09-13%20i-have-adhd%20%C2%B7%20gods-eye-view%20%C2%B7%20iloader%20%C2%B7%20DeskcommCRM.md) |
-| 2026-09-12 | [i-have-adhd · gods-eye-view · superpowers · CloddsBot](github-trending/2026-09-12%20i-have-adhd%20%C2%B7%20gods-eye-view%20%C2%B7%20superpowers%20%C2%B7%20CloddsBot.md) |
 
 ## 🐧 Linux 社区动态  （共 43 篇）
 
