@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-14 | [AWS 推出 Pizza Bot：面向后台 AI Agent 的开源收件箱](daily-report/2026-09-14%20AWS%20%E6%8E%A8%E5%87%BA%20Pizza%20Bot%EF%BC%9A%E9%9D%A2%E5%90%91%E5%90%8E%E5%8F%B0%20AI%20Agent%20%E7%9A%84%E5%BC%80%E6%BA%90%E6%94%B6%E4%BB%B6%E7%AE%B1.md) |
 | 2026-09-13 | [Anthropic 承认 Claude 安全对齐存在缺陷，且「尚无解决方案」](daily-report/2026-09-13%20Anthropic%20%E6%89%BF%E8%AE%A4%20Claude%20%E5%AE%89%E5%85%A8%E5%AF%B9%E9%BD%90%E5%AD%98%E5%9C%A8%E7%BC%BA%E9%99%B7%EF%BC%8C%E4%B8%94%E3%80%8C%E5%B0%9A%E6%97%A0%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88%E3%80%8D.md) |
 
-## ⭐ GitHub 精选  （共 80 篇）
+## ⭐ GitHub 精选  （共 81 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-23 | [agent-native · cua · OpenStock · ai-memory · coder](github-trending/2026-09-23%20agent-native%20%C2%B7%20cua%20%C2%B7%20OpenStock%20%C2%B7%20ai-memory%20%C2%B7%20coder.md) |
 | 2026-09-22 | [ECC · agent-native · security-audit-skill · cua](github-trending/2026-09-22%20ECC%20%C2%B7%20agent-native%20%C2%B7%20security-audit-skill%20%C2%B7%20cua.md) |
 | 2026-09-21 | [security-audit-skill · cua · agent-skills · coder](github-trending/2026-09-21%20security-audit-skill%20%C2%B7%20cua%20%C2%B7%20agent-skills%20%C2%B7%20coder.md) |
 | 2026-09-20 | [security-audit-skill · claude-code · open-code-review · ECC](github-trending/2026-09-20%20security-audit-skill%20%C2%B7%20claude-code%20%C2%B7%20open-code-review%20%C2%B7%20ECC.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-16 | [colibri · open-code-review · YuE · VoiceStudio · MiroFish](github-trending/2026-09-16%20colibri%20%C2%B7%20open-code-review%20%C2%B7%20YuE%20%C2%B7%20VoiceStudio%20%C2%B7%20MiroFish.md) |
 | 2026-09-15 | [colibri · ever-gauzy · gods-eye-view · agent-skills](github-trending/2026-09-15%20colibri%20%C2%B7%20ever-gauzy%20%C2%B7%20gods-eye-view%20%C2%B7%20agent-skills.md) |
 | 2026-09-14 | [gods-eye-view · DeskcommCRM · system_prompts_leaks · iloader](github-trending/2026-09-14%20gods-eye-view%20%C2%B7%20DeskcommCRM%20%C2%B7%20system_prompts_leaks%20%C2%B7%20iloader.md) |
-| 2026-09-13 | [i-have-adhd · gods-eye-view · iloader · DeskcommCRM](github-trending/2026-09-13%20i-have-adhd%20%C2%B7%20gods-eye-view%20%C2%B7%20iloader%20%C2%B7%20DeskcommCRM.md) |
 
 ## 🐧 Linux 社区动态  （共 44 篇）
 
