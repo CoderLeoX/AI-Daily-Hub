@@ -47,10 +47,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-17 | [open-code-review · colibri · ever-gauzy · VoiceStudio](github-trending/2026-09-17%20open-code-review%20%C2%B7%20colibri%20%C2%B7%20ever-gauzy%20%C2%B7%20VoiceStudio.md) |
 | 2026-09-16 | [colibri · open-code-review · YuE · VoiceStudio · MiroFish](github-trending/2026-09-16%20colibri%20%C2%B7%20open-code-review%20%C2%B7%20YuE%20%C2%B7%20VoiceStudio%20%C2%B7%20MiroFish.md) |
 
-## 🐧 Linux 社区动态  （共 46 篇）
+## 🐧 Linux 社区动态  （共 47 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-25 | [USN-8820-1 curl 多个漏洞](linux-community/2026-09-25%20USN-8820-1%20curl%20%E5%A4%9A%E4%B8%AA%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-24 | [USN-8808-1 sqlparse 算法复杂度漏洞](linux-community/2026-09-24%20USN-8808-1%20sqlparse%20%E7%AE%97%E6%B3%95%E5%A4%8D%E6%9D%82%E5%BA%A6%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-23 | [USN-8804-1：OpenSSH 漏洞](linux-community/2026-09-23%20USN-8804-1%EF%BC%9AOpenSSH%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-22 | [USN-8798-1 GStreamer Good Plugins 漏洞](linux-community/2026-09-22%20USN-8798-1%20GStreamer%20Good%20Plugins%20%E6%BC%8F%E6%B4%9E.md) |
@@ -60,7 +61,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-18 | [USN-8780-1 libsoup 漏洞](linux-community/2026-09-18%20USN-8780-1%20libsoup%20%E6%BC%8F%E6%B4%9E.md) |
 | 2026-09-17 | [USN-8776-1：python-cryptography 漏洞修复](linux-community/2026-09-17%20USN-8776-1%EF%BC%9Apython-cryptography%20%E6%BC%8F%E6%B4%9E%E4%BF%AE%E5%A4%8D.md) |
 | 2026-09-16 | [USN-8770-1 SimpleSAMLphp 漏洞](linux-community/2026-09-16%20USN-8770-1%20SimpleSAMLphp%20%E6%BC%8F%E6%B4%9E.md) |
-| 2026-09-15 | [USN-8758-1：dracut 漏洞](linux-community/2026-09-15%20USN-8758-1%EF%BC%9Adracut%20%E6%BC%8F%E6%B4%9E.md) |
 
 ---
 _本仓库内容由 `github-push-daily.sh` 自动维护。_
