@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-16 | [OpenAI 发布面向编程与计算机应用的 GPT-6 Astra](daily-report/2026-09-16%20OpenAI%20%E5%8F%91%E5%B8%83%E9%9D%A2%E5%90%91%E7%BC%96%E7%A8%8B%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%BA%94%E7%94%A8%E7%9A%84%20GPT-6%20Astra.md) |
 | 2026-09-15 | [Perplexity 便携计算机登陆 Windows，由 NVIDIA RTX 驱动](daily-report/2026-09-15%20Perplexity%20%E4%BE%BF%E6%90%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%99%BB%E9%99%86%20Windows%EF%BC%8C%E7%94%B1%20NVIDIA%20RTX%20%E9%A9%B1%E5%8A%A8.md) |
 
-## ⭐ GitHub 精选  （共 82 篇）
+## ⭐ GitHub 精选  （共 83 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-25 | [financial-services · ax · claude-code-templates](github-trending/2026-09-25%20financial-services%20%C2%B7%20ax%20%C2%B7%20claude-code-templates.md) |
 | 2026-09-24 | [financial-services · substrate · univer](github-trending/2026-09-24%20financial-services%20%C2%B7%20substrate%20%C2%B7%20univer.md) |
 | 2026-09-23 | [agent-native · cua · OpenStock · ai-memory · coder](github-trending/2026-09-23%20agent-native%20%C2%B7%20cua%20%C2%B7%20OpenStock%20%C2%B7%20ai-memory%20%C2%B7%20coder.md) |
 | 2026-09-22 | [ECC · agent-native · security-audit-skill · cua](github-trending/2026-09-22%20ECC%20%C2%B7%20agent-native%20%C2%B7%20security-audit-skill%20%C2%B7%20cua.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-18 | [open-code-review · security-audit-skill · colibri · tinycast](github-trending/2026-09-18%20open-code-review%20%C2%B7%20security-audit-skill%20%C2%B7%20colibri%20%C2%B7%20tinycast.md) |
 | 2026-09-17 | [open-code-review · colibri · ever-gauzy · VoiceStudio](github-trending/2026-09-17%20open-code-review%20%C2%B7%20colibri%20%C2%B7%20ever-gauzy%20%C2%B7%20VoiceStudio.md) |
 | 2026-09-16 | [colibri · open-code-review · YuE · VoiceStudio · MiroFish](github-trending/2026-09-16%20colibri%20%C2%B7%20open-code-review%20%C2%B7%20YuE%20%C2%B7%20VoiceStudio%20%C2%B7%20MiroFish.md) |
-| 2026-09-15 | [colibri · ever-gauzy · gods-eye-view · agent-skills](github-trending/2026-09-15%20colibri%20%C2%B7%20ever-gauzy%20%C2%B7%20gods-eye-view%20%C2%B7%20agent-skills.md) |
 
 ## 🐧 Linux 社区动态  （共 46 篇）
 
