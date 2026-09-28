@@ -32,10 +32,11 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-17 | [曼彻斯特大学用 NVIDIA Earth-2 预测全英空气污染](daily-report/2026-09-17%20%E6%9B%BC%E5%BD%BB%E6%96%AF%E7%89%B9%E5%A4%A7%E5%AD%A6%E7%94%A8%20NVIDIA%20Earth-2%20%E9%A2%84%E6%B5%8B%E5%85%A8%E8%8B%B1%E7%A9%BA%E6%B0%94%E6%B1%A1%E6%9F%93.md) |
 | 2026-09-16 | [OpenAI 发布面向编程与计算机应用的 GPT-6 Astra](daily-report/2026-09-16%20OpenAI%20%E5%8F%91%E5%B8%83%E9%9D%A2%E5%90%91%E7%BC%96%E7%A8%8B%E4%B8%8E%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%BA%94%E7%94%A8%E7%9A%84%20GPT-6%20Astra.md) |
 
-## ⭐ GitHub 精选  （共 83 篇）
+## ⭐ GitHub 精选  （共 84 篇）
 
 | 日期 | 标题 |
 | --- | --- |
+| 2026-09-28 | [ai-engineering-from-scratch · hindsight · univer · ax](github-trending/2026-09-28%20ai-engineering-from-scratch%20%C2%B7%20hindsight%20%C2%B7%20univer%20%C2%B7%20ax.md) |
 | 2026-09-25 | [financial-services · ax · claude-code-templates](github-trending/2026-09-25%20financial-services%20%C2%B7%20ax%20%C2%B7%20claude-code-templates.md) |
 | 2026-09-24 | [financial-services · substrate · univer](github-trending/2026-09-24%20financial-services%20%C2%B7%20substrate%20%C2%B7%20univer.md) |
 | 2026-09-23 | [agent-native · cua · OpenStock · ai-memory · coder](github-trending/2026-09-23%20agent-native%20%C2%B7%20cua%20%C2%B7%20OpenStock%20%C2%B7%20ai-memory%20%C2%B7%20coder.md) |
@@ -45,7 +46,6 @@ AI 前沿日报 / GitHub 精选 / 每日深读 / Linux 社区动态 的每日自
 | 2026-09-19 | [open-code-review · security-audit-skill · agent-skills](github-trending/2026-09-19%20open-code-review%20%C2%B7%20security-audit-skill%20%C2%B7%20agent-skills.md) |
 | 2026-09-18 | [open-code-review · security-audit-skill · colibri · tinycast](github-trending/2026-09-18%20open-code-review%20%C2%B7%20security-audit-skill%20%C2%B7%20colibri%20%C2%B7%20tinycast.md) |
 | 2026-09-17 | [open-code-review · colibri · ever-gauzy · VoiceStudio](github-trending/2026-09-17%20open-code-review%20%C2%B7%20colibri%20%C2%B7%20ever-gauzy%20%C2%B7%20VoiceStudio.md) |
-| 2026-09-16 | [colibri · open-code-review · YuE · VoiceStudio · MiroFish](github-trending/2026-09-16%20colibri%20%C2%B7%20open-code-review%20%C2%B7%20YuE%20%C2%B7%20VoiceStudio%20%C2%B7%20MiroFish.md) |
 
 ## 🐧 Linux 社区动态  （共 47 篇）
 
